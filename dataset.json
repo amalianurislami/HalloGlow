@@ -1,0 +1,160 @@
+{
+  "masalah_kulit": [
+    {
+      "kategori": "greeting",
+      "pertanyaan": ["hallo", "hai", "halo", "hei", "hi", "hy", "helo"],
+      "jawaban": [
+        "Halo! Ms.Cici disini. Ada yang bisa saya bantu?",
+        "Hai! Ada yang bisa saya bantu tentang seputar perawatan wajah?",
+        "Hai! Ms.Cici disini. Ada yang bisa saya bantu mengenai info perawatan wajah?"
+      ]
+    },
+    {
+      "kategori": "thanks",
+      "pertanyaan": [
+        "Thanks",
+        "Thank you",
+        "Matur nuwun",
+        "makasih",
+        "Terimakasih"
+      ],
+      "jawaban": [
+        "Sama-sama, senang bisa membantu anda!",
+        "Terima kasih kembali, semoga informasi yang kami berikan bermanfaat.",
+        "Tidak ada masalah, senang bisa memberikan bantuan.",
+        "Senang bisa membantu, silakan hubungi kami lagi jika ada pertanyaan lain."
+      ]
+    },
+    {
+      "kategori": "Preferbot",
+      "pertanyaan": ["Apa itu Preferbot?", "Preferbot", "aplikasi Preferbot"],
+      "jawaban": [
+        "Preferbot adalah aplikasi rekomendasi facecare yang terdapat fitur sistem rekomendasi skincare chatbot",
+        "Preferbot itu adalah website informasi tentang perawatan wajah dan rekomendasi facecare!",
+        "Preferbot merupakan suatu aplikasi rekomendasi facecare berbasis website yang berguna untuk mengetahui informasi seputar rekomendasi dan juga perawatan wajah"
+      ]
+    },
+    {
+      "kategori": "nama",
+      "pertanyaan": [
+        "nama kamu siapa?",
+        "namamu siapa?",
+        "siapa sih anda?",
+        "kamu siapa?",
+        "nama?",
+        "nama lu siapa?",
+        "Nama kmu sapa?"
+      ],
+      "jawaban": [
+        "Namaku Ms.Cici, salam kenal ya!",
+        "Halo, aku Ms.Cici!",
+        "Kenalin, aku Ms.Cici!",
+        "Aku Ms.Cici, ada yang mau ditanyain?"
+      ]
+    },
+    {
+      "kategori": "goodbye",
+      "pertanyaan": [
+        "Bye",
+        "Byee",
+        "Good bye",
+        "Selamat tinggal",
+        "Sampai jumpa",
+        "See you"
+      ],
+      "jawaban": [
+        "Bye!",
+        "Good bye!",
+        "bye, semoga harimu menyenangkan yaa!",
+        "Sampai jumpa lagi!",
+        "See u! Senang bisa membantu"
+      ]
+    },
+
+    {
+      "kategori": "jerawat",
+      "pertanyaan": "apa penyebab jerawat",
+      "jawaban": "Ada banyak penyebab jerawat tumbuh di wajah seperti stres, paparan sinar matahari, dan polusi."
+    },
+    {
+      "kategori": "dermatitis_eksem",
+      "pertanyaan": "apa penyebab kulit ruam merah",
+      "jawaban": "Dermatitis dan eksem memiliki beberapa penyebab umum yang serupa, seperti faktor genetik, reaksi alergi, iritasi kulit, dll."
+    },
+    {
+      "kategori": "sensitif_alergi",
+      "pertanyaan": "bagaimana jika kulit saya sering alergi karena sensitif terhadap produk tertentu",
+      "jawaban": "Kulit sensitif dan alergi dipicu oleh berbagai faktor dan memerlukan perawatan yang tepat."
+    },
+    {
+      "kategori": "berminyak",
+      "pertanyaan": "bagaimana jika kulit saya berminyak",
+      "jawaban": "Kulit berminyak disebabkan oleh produksi sebum berlebihan dan memerlukan perawatan khusus."
+    },
+    {
+      "kategori": "kulit_kering",
+      "pertanyaan": "bagaimana jika kulit saya kering",
+      "jawaban": "Kulit kering dapat disebabkan oleh berbagai faktor dan memerlukan perawatan yang menghidrasi."
+    },
+    {
+      "kategori": "komedo",
+      "pertanyaan": "bagaimana jika kulit saya berkomedo",
+      "jawaban": "Komedo terjadi ketika pori-pori kulit tersumbat dan memerlukan perawatan yang sesuai."
+    },
+    {
+      "kategori": "flek_hitam",
+      "pertanyaan": "bagaimana jika saya mempunyai flek hitam",
+      "jawaban": "Flek hitam atau hiperpigmentasi memerlukan perlindungan dari sinar matahari dan perawatan yang mengurangi pigmentasi."
+    },
+    {
+      "kategori": "kerutan",
+      "pertanyaan": "bagaimana menghilangkan kerutan",
+      "jawaban": "Kerutan adalah tanda penuaan alami dan memerlukan perawatan anti-penuaan."
+    },
+    {
+      "kategori": "kusam",
+      "pertanyaan": "bagaimana jika kulit saya kusam",
+      "jawaban": "Kulit kusam memerlukan perawatan yang mencerahkan dan menghidrasi."
+    },
+    {
+      "kategori": "pori_pori_besar",
+      "pertanyaan": "bagaimana jika pori pori kulit saya besar",
+      "jawaban": "Pori-pori besar memerlukan perawatan yang menyempitkan dan membersihkan."
+    },
+    {
+      "kategori": "milia",
+      "penyebab": "penyumbatan saluran keringat, infeksi kulit",
+      "jawaban": "milia biasanya akan muncul pada area wajah sekitar dagu, hidung, dan bawah mata yang mana kemunculannya sendiri dapat dipengaruhi oleh berbagai faktor seperti penyumbatan saluran keringat, infeksi kulit, kulit mati yang terperangkap di pori-pori, kondisi kulit yang tidak dibersihkan dengan baik, hingga kurang tidur dan merokok."
+    },
+    {
+      "nama": "Penuaan Dini",
+      "penyebab": "Stress, paparan sinar matahari, kurangnya tidur, kurangnya perawatan kulit",
+      "jawaban": "Penyebab penuaan dini disebabkan karena Stress, paparan sinar matahari, kurangnya tidur serta kurangnya perawatan kulit"
+    },
+    {
+      "nama": "Stretch Mark",
+      "penyebab": "Paparan sinar matahari, Perubahan hormon, Bekas luka atau peradangan",
+      "jawaban": "Penyebab Hiperpigmentasi disebabkan paparan sinar matahari, Perubahan hormon, bekas luka atau peradangan"
+    },
+    {
+      "nama": "Rosacea",
+      "penyebab": "Faktor stres, Paparan sinar matahari, Kelembapan udara, Konsumsi makanan pedas",
+      "jawaban": "Penyebab Rosacea disebabkan faktor stres, Paparan sinar matahari, kelembapan udara dan konsumsi makanan pedas"
+    },
+    {
+      "nama": "Breakout",
+      "penyebab": "Penumpukan minyak, sel kulit mati, dan bakteri di pori-pori",
+      "jawaban": "Breakout adalah istilah yang digunakan untuk menggambarkan kondisi kulit di mana terjadi penumpukan minyak, sel kulit mati, dan bakteri di pori-pori, yang menghasilkan jerawat, komedo, dan masalah kulit lainnya."
+    },
+    {
+      "nama": "Hiperpigmentasi",
+      "penyebab": "Paparan sinar matahari, Trauma pada kulit, Perubahan hormon, Peradangan kulit, Penuaan",
+      "jawaban": "Hiperpigmentasi adalah kondisi di mana bagian-bagian kulit menjadi lebih gelap dari warna kulit normal sekitarnya. Ini terjadi karena produksi melanin (pigmen yang memberi warna pada kulit) meningkat di area tertentu. Hiperpigmentasi dapat disebabkan oleh berbagai faktor, termasuk: Paparan sinar matahari, Trauma pada kulit, Perubahan hormon, Peradangan kulit, dan Penuaan. Paparan sinar UV dari matahari dapat merangsang produksi melanin, yang dapat menyebabkan hiperpigmentasi, seperti bintik-bintik penuaan, lentigo (bintik-bintik tua), dan melasma. Cedera atau peradangan pada kulit, termasuk luka, jerawat, atau peradangan kulit lainnya, dapat memicu produksi melanin yang berlebihan di area tersebut. Fluktuasi hormon, seperti selama kehamilan, penggunaan pil kontrasepsi, atau terapi hormon, juga dapat menyebabkan hiperpigmentasi, seperti melasma (mask of pregnancy). Beberapa kondisi peradangan kulit, seperti dermatitis atau eksim, juga dapat meningkatkan produksi melanin di area yang terkena. Selain itu, proses penuaan alami juga dapat menyebabkan hiperpigmentasi, seperti bintik-bintik penuaan atau lentigo."
+    },
+    {
+      "nama": "Eczema",
+      "penyebab": "Kondisi kulit kronis yang menyebabkan kulit menjadi meradang, gatal, kering",
+      "jawaban": "Eczema, juga dikenal sebagai dermatitis atopik, adalah kondisi kulit kronis yang menyebabkan kulit menjadi meradang, gatal, kering, dan sering kali berubah warna. Ini adalah salah satu jenis gangguan kulit yang paling umum, terutama pada anak-anak, meskipun bisa juga mempengaruhi orang dewasa. Tanda dan gejala eczema bisa bervariasi dari ringan hingga parah, dan bisa mencakup: Kulit kering, kasar, dan bersisik. Ruam merah atau bengkak. Gatal yang intens, terutama pada malam hari. Penebalan kulit atau perubahan warna. Luka terbuka akibat menggaruk."
+    }
+  ]
+}

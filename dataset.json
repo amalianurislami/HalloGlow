@@ -2,25 +2,11 @@
   "masalah_kulit": [
     {
       "kategori": "greeting",
-      "pertanyaan": [
-        { "id": 1, "tesk": "hallo" },
-        { "id": 2, "tesk": "hai" },
-        { "id": 3, "tesk": "halo" },
-        { "id": 4, "tesk": "hei" },
-        { "id": 5, "tesk": "hi" },
-        { "id": 6, "tesk": "hy" },
-        { "id": 7, "tesk": "helo" }
-      ],
+      "pertanyaan": ["hallo", "hai", "halo", "hei", "hi", "hy", "helo"],
       "jawaban": [
-        { "id": 1, "tesk": "Halo! Ms.Cici disini. Ada yang bisa saya bantu?" },
-        {
-          "id": 2,
-          "tesk": "Hai! Ada yang bisa saya bantu tentang seputar perawatan wajah?"
-        },
-        {
-          "id": 3,
-          "tesk": "Hai! Ms.Cici disini. Ada yang bisa saya bantu mengenai info perawatan wajah?"
-        }
+        "Halo! Ms.Cici disini. Ada yang bisa saya bantu?",
+        "Hai! Ada yang bisa saya bantu tentang seputar perawatan wajah?",
+        "Hai! Ms.Cici disini. Ada yang bisa saya bantu mengenai info perawatan wajah?"
       ],
       "rekomendasi": [],
       "produk": []
@@ -28,50 +14,29 @@
     {
       "kategori": "thanks",
       "pertanyaan": [
-        { "id": 1, "tesk": "Thanks" },
-        { "id": 2, "tesk": "Thank you" },
-        { "id": 3, "tesk": "Matur nuwun" },
-        { "id": 4, "tesk": "makasih" },
-        { "id": 5, "tesk": "Terimakasih" }
+        "Thanks",
+        "Thank you",
+        "Matur nuwun",
+        "Hatur Nuhun",
+        "makasih",
+        "Terimakasih"
       ],
       "jawaban": [
-        { "id": 1, "tesk": "Sama-sama, senang bisa membantu anda!" },
-        {
-          "id": 2,
-          "tesk": "Terima kasih kembali, semoga informasi yang kami berikan bermanfaat."
-        },
-        {
-          "id": 3,
-          "tesk": "Tidak ada masalah, senang bisa memberikan bantuan."
-        },
-        {
-          "id": 4,
-          "tesk": "Senang bisa membantu, silakan hubungi kami lagi jika ada pertanyaan lain."
-        }
+        "Sama-sama, senang bisa membantu anda!",
+        "Terima kasih kembali, semoga informasi yang kami berikan bermanfaat.",
+        "Tidak ada masalah, senang bisa memberikan bantuan.",
+        "Senang bisa membantu, silakan hubungi kami lagi jika ada pertanyaan lain."
       ],
       "rekomendasi": [],
       "produk": []
     },
     {
       "kategori": "HalloGlow",
-      "pertanyaan": [
-        { "id": 1, "tesk": "Apa itu HalloGlow?" },
-        { "id": 2, "tesk": "HalloGlow" },
-        { "id": 3, "tesk": "aplikasi HalloGlow" }
-      ],
+      "pertanyaan": ["Apa itu HalloGlow?", "HalloGlow", "aplikasi HalloGlow"],
       "jawaban": [
-        {
-          "id": 1,
-          "tesk": "HalloGlow adalah aplikasi rekomendasi facecare yang terdapat fitur sistem rekomendasi skincare chatbot"
-        },
-        {
-          "id": 2,
-          "tesk": "HalloGlow itu adalah website informasi tentang perawatan wajah dan rekomendasi facecare!"
-        },
-        {
-          "id": 3,
-          "tesk": "HalloGlow merupakan suatu aplikasi rekomendasi facecare berbasis website yang berguna untuk mengetahui informasi seputar rekomendasi dan juga perawatan wajah"
-        }
+        "HalloGlow adalah aplikasi rekomendasi facecare yang terdapat fitur sistem rekomendasi skincare chatbot",
+        "HalloGlow itu adalah website informasi tentang perawatan wajah dan rekomendasi facecare!",
+        "HalloGlow merupakan suatu aplikasi rekomendasi facecare berbasis website yang berguna untuk mengetahui informasi seputar rekomendasi dan juga perawatan wajah"
       ],
       "rekomendasi": [],
       "produk": []
@@ -79,19 +44,19 @@
     {
       "kategori": "nama",
       "pertanyaan": [
-        { "id": 1, "tesk": "nama kamu siapa?" },
-        { "id": 2, "tesk": "namamu siapa?" },
-        { "id": 3, "tesk": "siapa sih anda?" },
-        { "id": 4, "tesk": "kamu siapa?" },
-        { "id": 5, "tesk": "nama?" },
-        { "id": 6, "tesk": "nama lu siapa?" },
-        { "id": 7, "tesk": "Nama kmu sapa?" }
+        "nama kamu siapa?",
+        "namamu siapa?",
+        "siapa sih anda?",
+        "kamu siapa?",
+        "nama?",
+        "nama lu siapa?",
+        "Nama kmu sapa?"
       ],
       "jawaban": [
-        { "id": 1, "tesk": "Namaku Ms.Cici, salam kenal ya!" },
-        { "id": 2, "tesk": "Halo, aku Ms.Cici!" },
-        { "id": 3, "tesk": "Kenalin, aku Ms.Cici!" },
-        { "id": 4, "tesk": "Aku Ms.Cici, ada yang mau ditanyain?" }
+        "Namaku Ms.Cici, salam kenal ya!",
+        "Halo, aku Ms.Cici!",
+        "Kenalin, aku Ms.Cici!",
+        "Aku Ms.Cici, ada yang mau ditanyain?"
       ],
       "rekomendasi": [],
       "produk": []
@@ -99,19 +64,19 @@
     {
       "kategori": "goodbye",
       "pertanyaan": [
-        { "id": 1, "tesk": "Bye" },
-        { "id": 2, "tesk": "Byee" },
-        { "id": 3, "tesk": "Good bye" },
-        { "id": 4, "tesk": "Selamat tinggal" },
-        { "id": 5, "tesk": "Sampai jumpa" },
-        { "id": 6, "tesk": "See you" }
+        "Bye",
+        "Byee",
+        "Good bye",
+        "Selamat tinggal",
+        "Sampai jumpa",
+        "See you"
       ],
       "jawaban": [
-        { "id": 1, "tesk": "Bye!" },
-        { "id": 2, "tesk": "Good bye!" },
-        { "id": 3, "tesk": "bye, semoga harimu menyenangkan yaa!" },
-        { "id": 4, "tesk": "Sampai jumpa lagi!" },
-        { "id": 5, "tesk": "See u! Senang bisa membantu" }
+        "Bye!",
+        "Good bye!",
+        "bye, semoga harimu menyenangkan yaa!",
+        "Sampai jumpa lagi!",
+        "See u! Senang bisa membantu"
       ],
       "rekomendasi": [],
       "produk": []
@@ -120,61 +85,20 @@
     {
       "kategori": "jerawat",
       "pertanyaan": [
-        { "id": 1, "tesk": "apa penyebab jerawat" },
-        {
-          "id": 2,
-          "tesk": "Mengapa stres dapat menjadi salah satu penyebab utama jerawat"
-        },
-        {
-          "id": 3,
-          "tesk": "Apakah paparan sinar matahari berperan dalam permasalahan jerawat pada kulit"
-        },
-        {
-          "id": 4,
-          "tesk": "Bagaimana hubungan antara polusi udara dengan jerawat yang muncul di wajah"
-        },
-        {
-          "id": 5,
-          "tesk": "Apakah pola makan atau jenis makanan tertentu dapat mempengaruhi kondisi jerawat pada kulit"
-        },
-        {
-          "id": 6,
-          "tesk": "Seberapa besar peran genetik dalam kecenderungan seseorang untuk mengalami jerawat"
-        },
-        {
-          "id": 7,
-          "tesk": "Apakah ada hubungan antara penggunaan produk perawatan kulit tertentu dengan kemunculan jerawat"
-        }
+        "apa penyebab jerawat",
+        "apa penyebab utama jerawat",
+        "Jenis Makanan penyebab jerawat?",
+        "cara mengatasi jerawat"
       ],
       "jawaban": [
-        {
-          "id": 1,
-          "tesk": "Ada banyak penyebab jerawat tumbuh di wajah seperti stres, paparan sinar matahari, dan polusi."
-        },
-        {
-          "id": 2,
-          "tesk": "Stres dapat memicu produksi hormon stres seperti kortisol, yang dapat merangsang kelenjar minyak untuk menghasilkan lebih banyak minyak. Hal ini dapat menyumbat pori-pori dan menyebabkan jerawat."
-        },
-        {
-          "id": 3,
-          "tesk": "Paparan sinar matahari yang berlebihan dapat menyebabkan kulit mengering dan mengelupas. Namun, hal ini juga dapat merangsang kelenjar minyak untuk menghasilkan lebih banyak minyak, yang dapat menyebabkan penyumbatan pori-pori dan jerawat."
-        },
-        {
-          "id": 4,
-          "tesk": "Polusi udara dapat menyebabkan peradangan pada kulit dan memperburuk kondisi jerawat. Partikel polusi yang menempel pada kulit dapat menyumbat pori-pori dan merangsang produksi minyak berlebihan, yang pada gilirannya dapat menyebabkan jerawat."
-        },
-        {
-          "id": 5,
-          "tesk": "Pola makan yang tinggi gula, lemak jenuh, dan produk susu dapat meningkatkan risiko jerawat pada beberapa individu. Makanan tinggi gula dapat meningkatkan kadar insulin dalam tubuh, yang dapat memicu produksi hormon yang berkontribusi pada pembentukan jerawat."
-        },
-        {
-          "id": 6,
-          "tesk": "Peran genetik dalam kecenderungan seseorang untuk mengalami jerawat bisa signifikan. Jika salah satu atau kedua orang tua memiliki riwayat jerawat yang parah, kemungkinan besar anak mereka juga akan mengalami masalah serupa."
-        },
-        {
-          "id": 7,
-          "tesk": "Ada kemungkinan bahwa penggunaan produk perawatan kulit tertentu yang mengandung bahan-bahan komedogenik atau iritasi dapat memicu kemunculan jerawat pada sebagian orang. Oleh karena itu, penting untuk memilih produk yang sesuai dengan jenis kulit dan memperhatikan reaksi kulit setelah penggunaan produk tersebut."
-        }
+        "Ada banyak penyebab jerawat tumbuh di wajah seperti stres, paparan sinar matahari, dan polusi. Untuk mengatasi jerawat disarankan untuk memakai produk-produk yang dapat mengatasi jerawat",
+        "Stres dapat memicu produksi hormon stres seperti kortisol, yang dapat merangsang kelenjar minyak untuk menghasilkan lebih banyak minyak. Hal ini dapat menyumbat pori-pori dan menyebabkan jerawat. Untuk mengatasi jerawat disarankan untuk memakai produk-produk yang dapat mengatasi jerawat",
+        "Paparan sinar matahari yang berlebihan dapat menyebabkan kulit mengering dan mengelupas. Namun, hal ini juga dapat merangsang kelenjar minyak untuk menghasilkan lebih banyak minyak, yang dapat menyebabkan penyumbatan pori-pori dan jerawat. Untuk mengatasi jerawat disarankan untuk memakai produk-produk yang dapat mengatasi jerawat",
+        "Polusi udara dapat menyebabkan peradangan pada kulit dan memperburuk kondisi jerawat. Partikel polusi yang menempel pada kulit dapat menyumbat pori-pori dan merangsang produksi minyak berlebihan, yang pada gilirannya dapat menyebabkan jerawat. Untuk mengatasi jerawat disarankan untuk memakai produk-produk yang dapat mengatasi jerawat",
+        "Pola makan yang tinggi gula, lemak jenuh, dan produk susu dapat meningkatkan risiko jerawat pada beberapa individu. Makanan tinggi gula dapat meningkatkan kadar insulin dalam tubuh, yang dapat memicu produksi hormon yang berkontribusi pada pembentukan jerawat. Untuk mengatasi jerawat disarankan untuk memakai produk-produk yang dapat mengatasi jerawat",
+        "Peran genetik dalam kecenderungan seseorang untuk mengalami jerawat bisa signifikan. Jika salah satu atau kedua orang tua memiliki riwayat jerawat yang parah, kemungkinan besar anak mereka juga akan mengalami masalah serupa. Untuk mengatasi jerawat disarankan untuk memakai produk-produk yang dapat mengatasi jerawat",
+        "Ada kemungkinan bahwa penggunaan produk perawatan kulit tertentu yang mengandung bahan-bahan komedogenik atau iritasi dapat memicu kemunculan jerawat pada sebagian orang. Oleh karena itu, penting untuk memilih produk yang sesuai dengan jenis kulit dan memperhatikan reaksi kulit setelah penggunaan produk tersebut. Untuk mengatasi jerawat disarankan untuk memakai produk-produk yang dapat mengatasi jerawat",
+        "Jerawat merupakan masalah kulit yang umum terjadi pada banyak orang, dan faktor diet seringkali menjadi pertimbangan ketika membahas penyebabnya. Beberapa jenis makanan telah dikaitkan dengan peningkatan risiko jerawat pada sebagian individu. Makanan berlemak dan berminyak, seperti makanan cepat saji dan gorengan, dapat meningkatkan produksi minyak di kulit, yang memperparah jerawat. Selain itu, produk susu, terutama susu skim, dan dan makanan dengan indeks glikem. Untuk mengatasi jerawat disarankan untuk memakai produk-produk yang dapat mengatasi jerawat"
       ],
       "rekomendasi": [
         "La Roche Posay Effaclar Purifying Foaming Gel 200 ml",
@@ -190,7 +114,7 @@
       "produk": [
         "La_Roche_Posay_Effaclar_Purifying_Foaming_Gel_200_ml.jpeg",
         "La_Roche_Posay_Effaclar_Duo+M_40_ml.jpg",
-        "La_Roche_Posay_Anthelios_UV_Mune_400_Oil_Control_Gel_Cream_15_ml.jpg",
+        "La_Roche_Posay_Anthelios_UV_Mune_400_Oil_Control_Gel_Cream_15_ml.png",
         "La_Roche_Posay_Effaclar_H_Iso-Biome_Ultra_Soothing_Hydrating_Care_40_ml.jpg",
         "La_Roche_Posay_Effaclar_H_Iso-Biome_Soothing_Cleansing_Cream_200_ml.jpg",
         "La_Roche_Posay_Spot_Scan_Acne_Fighter_Essentials_Package.png",
@@ -201,81 +125,49 @@
     },
 
     {
-      "kategori": "dermatitis_eksem",
+      "kategori": "bekas_jerawat",
       "pertanyaan": [
-        { "id": 1, "tesk": "apa penyebab kulit ruam merah" },
-        { "id": 2, "tesk": "Apa perbedaan antara dermatitis dan eksem" },
-        {
-          "id": 3,
-          "tesk": "Bagaimana gejala dermatitis dan eksem dapat mempengaruhi kualitas hidup seseorang"
-        },
-        {
-          "id": 4,
-          "tesk": "Apakah faktor genetik memainkan peran dalam perkembangan dermatitis atau eksem"
-        },
-        { "id": 5, "tesk": "Apa saja jenis-jenis dermatitis yang ada" },
-        {
-          "id": 6,
-          "tesk": "Bagaimana cara membedakan antara dermatitis alergi dan dermatitis kontak"
-        },
-        {
-          "id": 7,
-          "tesk": "Apakah ada perawatan yang efektif untuk mengurangi gejala dermatitis atau eksem"
-        },
-        {
-          "id": 8,
-          "tesk": "Bagaimana perubahan gaya hidup seperti diet atau rutinitas perawatan kulit dapat mempengaruhi kondisi dermatitis atau eksem"
-        },
-        {
-          "id": 9,
-          "tesk": "Apakah dermatitis atau eksem dapat sembuh sepenuhnya atau biasanya bersifat kronis"
-        },
-        {
-          "id": 10,
-          "tesk": "Bagaimana penggunaan produk perawatan kulit yang tepat dapat membantu mengelola dermatitis atau eksem"
-        }
+        "bekas jerawat adalah ?",
+        "cara mengatasih PIH dan PIE ?",
+        "apa penyebab PIH dan PIE ?"
       ],
       "jawaban": [
-        {
-          "id": 1,
-          "tesk": "Dermatitis dan eksem memiliki beberapa penyebab umum yang serupa, seperti faktor genetik, reaksi alergi, iritasi kulit, dll."
-        },
-        {
-          "id": 2,
-          "tesk": "Dermatitis dan eksem memiliki beberapa penyebab umum yang serupa, seperti faktor genetik, reaksi alergi, iritasi kulit, dll."
-        },
-        {
-          "id": 3,
-          "tesk": "Gejala seperti gatal-gatal yang intens, rasa tidak nyaman, peradangan, dan kemerahan dapat mengganggu kenyamanan dan aktivitas sehari-hari seseorang. Hal ini juga bisa memengaruhi tidur dan konsentrasi, serta menimbulkan stres dan kecemasan."
-        },
-        {
-          "id": 4,
-          "tesk": "Ya, faktor genetik dapat memainkan peran dalam perkembangan dermatitis atau eksem. Orang yang memiliki riwayat keluarga dengan dermatitis atau eksem memiliki risiko yang lebih tinggi untuk mengalami kondisi tersebut."
-        },
-        {
-          "id": 5,
-          "tesk": "Jenis dermatitis meliputi dermatitis atopik (eksem), dermatitis kontak, dermatitis seboroik, dan dermatitis numularis."
-        },
-        {
-          "id": 6,
-          "tesk": "Dermatitis alergi disebabkan oleh reaksi alergi terhadap suatu zat tertentu, sedangkan dermatitis kontak terjadi ketika kulit terkena langsung dengan zat iritan."
-        },
-        {
-          "id": 7,
-          "tesk": "Perawatan dapat mencakup penggunaan krim kortikosteroid, krim pelembap, obat antihistamin, dan terapi fototerapi."
-        },
-        {
-          "id": 8,
-          "tesk": "Perubahan gaya hidup seperti menghindari makanan yang memicu alergi dan menjaga kelembapan kulit dapat membantu mengurangi gejala dermatitis atau eksem."
-        },
-        {
-          "id": 9,
-          "tesk": "Eksem sering kali bersifat kronis dan dapat kambuh, meskipun dapat dikelola dengan baik dengan perawatan yang tepat. Beberapa kasus dermatitis juga bisa kronis tergantung pada penyebabnya."
-        },
-        {
-          "id": 10,
-          "tesk": "Penggunaan produk perawatan kulit yang lembut dan bebas dari bahan kimia yang keras dapat membantu menjaga kelembapan kulit dan mengurangi iritasi."
-        }
+        "Bekas jerawat adalah noda atau bercak pada kulit yang muncul setelah jerawat sembuh. Mereka bisa berupa bercak merah, coklat, atau bekas luka akibat peradangan. ada 2 jenis bekas jerawat yaitu PIE dan PIH dimana PIE (Post-Inflammatory Erythema) adalah bercak merah atau kemerahan bekas jerawat karena peradangan yang memicu pelebaran pembuluh darah. Sedangkan PIH (Post-Inflammatory Hyperpigmentation) adalah bekas jerawat berwarna gelap atau hiperpigmentasi akibat peningkatan produksi melanin. Perawatan tergantung pada jenis bekas jerawat, dan konsultasi dengan dokter kulit diperlukan untuk perawatan yang sesuai. ",
+        "Untuk mengatasi PIH (Post-Inflammatory Hyperpigmentation), gunakan tabir surya setiap hari, krim pencerah kulit, dan eksfoliasi teratur. Perawatan medis seperti laser juga bisa membantu. Konsultasikan dengan dokter kulit untuk perawatan yang tepat, sedangkan Untuk mengatasi PIE (Post-Inflammatory Erythema), gunakan tabir surya dan produk anti-inflamasi seperti niacinamide atau azelaic acid. Perawatan medis seperti laser atau terapi cahaya juga bisa membantu. Konsultasikan dengan dokter kulit untuk perawatan yang tepat. ",
+        "Penyebab utama PIH (Post-Inflammatory Hyperpigmentation) adalah peradangan pada kulit, seperti jerawat atau luka, yang meningkatkan produksi melanin. Sementara PIE (Post-Inflammatory Erythema) disebabkan oleh pelebaran pembuluh darah pada kulit akibat peradangan, yang menghasilkan bercak merah setelah jerawat sembuh. Faktor genetika dan jenis kulit juga memainkan peran dalam keduanya."
+      ],
+      "rekomendasi": [
+        "NPURE Dark Spot Cica 5 ml",
+        "ADARA Spotless Gel obat totol jerawat kehitaman 20 g",
+        "ADARA Spotless Cream obat totol jerawat kemarahan 20 g"
+      ],
+      "produk": [
+        "NPURE Dark Spot Cica 5 ml.jpeg",
+        "ADARA Spotless Gel obat totol jerawat kehitaman 20 g.jpeg",
+        "ADARA Spotless Cream obat totol jerawat kemarahan 20 g.jpeg"
+      ]
+    },
+
+    {
+      "kategori": "dermatitis_eksem",
+      "pertanyaan": [
+        "apa penyebab kulit ruam merah",
+        "dermatitis adalah?",
+        "Apa perbedaan antara dermatitis dan eksem",
+        "Bagaimana cara membedakan antara dermatitis alergi dan dermatitis kontak",
+        "Apakah ada perawatan yang efektif untuk mengurangi gejala dermatitis atau eksem",
+        "Bagaimana perubahan gaya hidup seperti diet atau rutinitas perawatan kulit dapat mempengaruhi kondisi dermatitis atau eksem",
+        "Apakah dermatitis atau eksem dapat sembuh sepenuhnya atau biasanya bersifat kronis",
+        "Bagaimana penggunaan produk perawatan kulit yang tepat dapat membantu mengelola dermatitis atau eksem"
+      ],
+      "jawaban": [
+        "Dermatitis dan eksem memiliki beberapa penyebab umum yang serupa, seperti faktor genetik, reaksi alergi, iritasi kulit, dll.",
+        "Dermatitis adalah peradangan pada kulit yang dapat disebabkan oleh reaksi alergi, iritasi, paparan zat tertentu, atau gangguan autoimun. Gejalanya termasuk ruam, gatal, kemerahan, dan kulit kering atau bersisik. Beberapa jenisnya meliputi dermatitis kontak, atopik, seboroik, numular, dan perioral. Perawatan melibatkan penggunaan krim kortikosteroid, penghindaran zat pemicu, dan pemakaian pelembap untuk menjaga kelembaban kulit. Konsultasi dengan dokter penting untuk diagnosis dan perawatan yang tepat.",
+        "Gejala seperti gatal-gatal yang intens, rasa tidak nyaman, peradangan, dan kemerahan dapat mengganggu kenyamanan dan aktivitas sehari-hari seseorang. Hal ini juga bisa memengaruhi tidur dan konsentrasi, serta menimbulkan stres dan kecemasan.",
+        "Dermatitis alergi disebabkan oleh reaksi alergi terhadap suatu zat tertentu, sedangkan dermatitis kontak terjadi ketika kulit terkena langsung dengan zat iritan.",
+        "Perubahan gaya hidup seperti menghindari makanan yang memicu alergi dan menjaga kelembapan kulit dapat membantu mengurangi gejala dermatitis atau eksem.",
+        "Eksem sering kali bersifat kronis dan dapat kambuh, meskipun dapat dikelola dengan baik dengan perawatan yang tepat. Beberapa kasus dermatitis juga bisa kronis tergantung pada penyebabnya.",
+        "Penggunaan produk perawatan kulit yang lembut dan bebas dari bahan kimia yang keras dapat membantu menjaga kelembapan kulit dan mengurangi iritasi."
       ],
       "rekomendasi": [
         "La Roche Posay Lipikar Baume AP+M 75 ml",
@@ -285,75 +177,32 @@
       "produk": [
         "La_Roche_Posay_Lipikar_Baume_AP+M_75_ml.png",
         "La_Roche_Posay_Thermal_Spring_Water_150_ml.jpeg",
-        "Soft_U_Derm_Intensive_Hydro_Protection_Cream_40g.jpeg"
+        "Soft_U_Derm_Intensive_Hydro_Protection_Cream_40g.jpg"
       ]
     },
 
     {
       "kategori": "sensitif_alergi",
       "pertanyaan": [
-        {
-          "id": 1,
-          "tesk": "bagaimana jika kulit saya sering alergi karena sensitif terhadap produk tertentu"
-        },
-        {
-          "id": 2,
-          "tesk": "Apa yang sebaiknya dilakukan jika seseorang mengalami reaksi alergi terhadap produk perawatan kulit"
-        },
-        {
-          "id": 3,
-          "tesk": "Bagaimana cara mengetahui apakah seseorang memiliki kulit sensitif atau alergi terhadap produk tertentu"
-        },
-        {
-          "id": 4,
-          "tesk": "bagaimana jika kulit saya sering alergi karena sensitif terhadap produk tertentu"
-        },
-        {
-          "id": 5,
-          "tesk": "Apa yang dapat dilakukan untuk mencegah reaksi alergi pada kulit sensitif"
-        },
-        {
-          "id": 6,
-          "tesk": "Apakah ada bahan-bahan tertentu yang sebaiknya dihindari oleh orang dengan kulit sensitif atau alergi"
-        },
-        {
-          "id": 7,
-          "tesk": "Bagaimana cara merawat kulit sensitif agar tetap sehat tanpa menimbulkan reaksi alergi"
-        }
+        "bagaimana jika kulit saya sering alergi karena sensitif terhadap produk tertentu",
+        "kulit sensitif ?",
+        "cara mengatasi kulit sensitif akibat salah penggunaan produk?",
+        "ciri-ciri produk tidak cocok dengan kulit wajah ?",
+        "Apa yang dapat dilakukan untuk mencegah reaksi alergi pada kulit sensitif",
+        "Apakah ada bahan-bahan tertentu yang sebaiknya dihindari oleh orang dengan kulit sensitif atau alergi",
+        "Bagaimana cara merawat kulit sensitif agar tetap sehat tanpa menimbulkan reaksi alergi"
       ],
       "jawaban": [
-        {
-          "id": 1,
-          "tesk": "Kulit sensitif dan alergi dipicu oleh berbagai faktor dan memerlukan perawatan yang tepat."
-        },
-        {
-          "id": 2,
-          "tesk": "sebaiknya hentikan penggunaan produk tersebut segera dan bilas kulit dengan air bersih. Kemudian, hindari penggunaan produk yang mengandung bahan yang telah menyebabkan reaksi alergi tersebut. Jika reaksi alergi parah atau tidak kunjung membaik, segera konsultasikan dengan dokter atau ahli kulit untuk mendapatkan penanganan yang tepat."
-        },
-        {
-          "id": 3,
-          "tesk": "Gejala yang mungkin dialami termasuk kemerahan, gatal-gatal, iritasi, ruam, pembengkakan, atau bahkan timbulnya lepuhan atau luka pada kulit."
-        },
-        {
-          "id": 4,
-          "tesk": "Kulit sensitif dan alergi dipicu oleh berbagai faktor dan memerlukan perawatan yang tepat."
-        },
-        {
-          "id": 5,
-          "tesk": "perhatikan reaksi kulit setelah menggunakan produk baru. Jika muncul reaksi seperti yang disebutkan sebelumnya, kemungkinan besar itu adalah tanda bahwa kulit bereaksi terhadap bahan dalam produk tersebut."
-        },
-        {
-          "id": 6,
-          "tesk": "Salah satu cara untuk mencegah reaksi alergi adalah dengan memilih produk perawatan kulit yang hypoallergenic, bebas pewangi, dan bebas dari bahan kimia keras. Selain itu, melakukan patch test di bagian kecil kulit sebelum menggunakan produk secara menyeluruh dapat membantu mengidentifikasi potensi reaksi alergi.."
-        },
-        {
-          "id": 7,
-          "tesk": "Beberapa bahan yang sebaiknya dihindari oleh orang dengan kulit sensitif atau alergi meliputi pewangi buatan, alkohol, pewarna sintetis, dan bahan kimia keras seperti paraben dan sulfat."
-        },
-        {
-          "id": 8,
-          "tesk": "Merawat kulit sensitif memerlukan penggunaan produk perawatan kulit yang lembut dan hypoallergenic, serta menjaga kelembapan kulit dengan menggunakan pelembap yang cocok untuk jenis kulit sensitif."
-        }
+        "Kulit sensitif dan alergi dipicu oleh berbagai faktor dan memerlukan perawatan yang tepat.",
+        "Kulit sensitif adalah kondisi di mana kulit Anda lebih rentan terhadap iritasi atau reaksi alergi terhadap zat-zat tertentu. Orang dengan kulit sensitif mungkin mengalami gejala seperti kemerahan, iritasi, gatal, atau sensasi terbakar setelah terpapar oleh faktor tertentu, seperti produk perawatan kulit, lingkungan, atau makanan. Perawatan yang tepat sangat penting untuk menjaga kesehatan kulit sensitif. Ini termasuk menggunakan produk perawatan kulit yang lembut, hypoallergenic, dan bebas pewangi, serta menghindari faktor-faktor yang dapat memicu iritasi atau alergi. Jika Anda memiliki kulit sensitif yang mengganggu, berkonsultasilah dengan dokter atau ahli dermatologi untuk saran dan perawatan yang lebih spesifik.",
+        "Tanda-tanda bahwa sebuah produk perawatan kulit tidak cocok dengan kulit wajah Anda termasuk iritasi, kemerahan, jerawat, atau kulit terasa kering dan terkelupas setelah penggunaan. Jika Anda mengalami reaksi seperti ini, sebaiknya hentikan penggunaan produk tersebut dan konsultasikan dengan dokter kulit atau ahli dermatologi untuk saran lebih lanjut.",
+        "sebaiknya hentikan penggunaan produk tersebut segera dan bilas kulit dengan air bersih. Kemudian, hindari penggunaan produk yang mengandung bahan yang telah menyebabkan reaksi alergi tersebut. Jika reaksi alergi parah atau tidak kunjung membaik, segera konsultasikan dengan dokter atau ahli kulit untuk mendapatkan penanganan yang tepat.",
+        "Gejala yang mungkin dialami termasuk kemerahan, gatal-gatal, iritasi, ruam, pembengkakan, atau bahkan timbulnya lepuhan atau luka pada kulit.",
+        "Kulit sensitif dan alergi dipicu oleh berbagai faktor dan memerlukan perawatan yang tepat.",
+        "perhatikan reaksi kulit setelah menggunakan produk baru. Jika muncul reaksi seperti yang disebutkan sebelumnya, kemungkinan besar itu adalah tanda bahwa kulit bereaksi terhadap bahan dalam produk tersebut.",
+        "Salah satu cara untuk mencegah reaksi alergi adalah dengan memilih produk perawatan kulit yang hypoallergenic, bebas pewangi, dan bebas dari bahan kimia keras. Selain itu, melakukan patch test di bagian kecil kulit sebelum menggunakan produk secara menyeluruh dapat membantu mengidentifikasi potensi reaksi alergi.",
+        "Beberapa bahan yang sebaiknya dihindari oleh orang dengan kulit sensitif atau alergi meliputi pewangi buatan, alkohol, pewarna sintetis, dan bahan kimia keras seperti paraben dan sulfat.",
+        "Merawat kulit sensitif memerlukan penggunaan produk perawatan kulit yang lembut dan hypoallergenic, serta menjaga kelembapan kulit dengan menggunakan pelembap yang cocok untuk jenis kulit sensitif."
       ],
       "rekomendasi": [
         "Calamed Lotion 100 ml",
@@ -376,66 +225,25 @@
     {
       "kategori": "berminyak",
       "pertanyaan": [
-        { "id": 1, "tesk": "bagaimana jika kulit saya berminyak" },
-        {
-          "id": 2,
-          "tesk": "Apa yang sebaiknya dilakukan untuk mengurangi kelebihan minyak pada kulit wajah"
-        },
-        {
-          "id": 3,
-          "tesk": "Apakah faktor-faktor tertentu yang dapat menyebabkan kulit menjadi berminyak"
-        },
-        {
-          "id": 4,
-          "tesk": "Bagaimana cara membedakan antara kulit berminyak alami dan kulit berminyak akibat penggunaan produk yang tidak cocok"
-        },
-        {
-          "id": 5,
-          "tesk": "Apakah penggunaan pelembap diperlukan bagi kulit yang berminyak"
-        },
-        { "id": 6, "tesk": "bagaimana jika kulit saya berminyak" },
-        {
-          "id": 7,
-          "tesk": "Bagaimana cara merawat kulit berminyak agar tetap sehat dan terhindar dari masalah seperti jerawat"
-        },
-        {
-          "id": 8,
-          "tesk": "Apakah ada bahan alami yang efektif dalam mengontrol produksi minyak kulit"
-        }
+        "kulit berminyak ?",
+        "bagaimana cara mengatasi kulit berminyak ?",
+        "penyebab kulit berminyak ?",
+        "Bagaimana cara membedakan antara kulit berminyak alami dan kulit berminyak akibat penggunaan produk yang tidak cocok",
+        "Apakah penggunaan pelembap diperlukan bagi kulit yang berminyak",
+        "apakah ada makanan yang berpengaruh karena kulit berminyak ? ",
+        "Bagaimana cara merawat kulit berminyak agar tetap sehat dan terhindar dari masalah seperti jerawat",
+        "Apakah ada bahan alami yang efektif dalam mengontrol produksi minyak kulit"
       ],
       "jawaban": [
-        {
-          "id": 1,
-          "tesk": "Kulit berminyak disebabkan oleh produksi sebum berlebihan dan memerlukan perawatan khusus."
-        },
-        {
-          "id": 2,
-          "tesk": "Untuk mengurangi kelebihan minyak pada kulit wajah, disarankan untuk membersihkan wajah secara teratur dengan pembersih yang lembut dan tidak mengandung alkohol. Gunakan produk perawatan kulit yang mengandung bahan-bahan seperti asam salisilat atau asam glikolat untuk membantu mengontrol produksi minyak. Hindari penggunaan produk perawatan yang terlalu berat atau berlemak. Selain itu, penting untuk menjaga kelembapan kulit dengan menggunakan pelembap yang ringan dan tidak berminyak."
-        },
-        {
-          "id": 3,
-          "tesk": "Faktor-faktor seperti keturunan, perubahan hormon, polusi udara, dan penggunaan produk perawatan yang tidak cocok dapat menyebabkan kulit menjadi berminyak."
-        },
-        {
-          "id": 4,
-          "tesk": "Kulit berminyak alami cenderung memiliki kilau alami dan produksi minyak yang seimbang, sedangkan kulit berminyak akibat penggunaan produk yang tidak cocok seringkali akan terasa lebih berminyak dan mungkin disertai dengan reaksi kulit yang tidak nyaman seperti jerawat atau iritasi."
-        },
-        {
-          "id": 5,
-          "tesk": "Ya, penggunaan pelembap tetap diperlukan bagi kulit yang berminyak untuk menjaga kelembapan dan keseimbangan produksi minyak kulit. Pilihlah pelembap yang ringan dan tidak berminyak untuk menghindari penumpukan minyak berlebih."
-        },
-        {
-          "id": 6,
-          "tesk": "Kulit berminyak disebabkan oleh produksi sebum berlebihan dan memerlukan perawatan khusus."
-        },
-        {
-          "id": 7,
-          "tesk": "Merawat kulit berminyak meliputi membersihkan wajah secara teratur dengan pembersih yang lembut, menghindari penggunaan produk perawatan yang terlalu berat atau berlemak, menggunakan pelembap yang ringan dan tidak berminyak, serta mengikuti pola makan sehat dan menghindari makanan yang dapat memicu jerawat."
-        },
-        {
-          "id": 8,
-          "tesk": " Beberapa bahan alami seperti tea tree oil, witch hazel, dan ekstrak lidah buaya memiliki sifat yang dapat membantu mengontrol produksi minyak kulit. Namun, penting untuk melakukan uji coba terlebih dahulu untuk memastikan bahwa bahan-bahan tersebut cocok dengan kulit Anda."
-        }
+        "Kulit berminyak adalah kondisi di mana kelenjar minyak di kulit wajah memproduksi minyak berlebihan, menyebabkan kilau berlebih dan potensi jerawat. Perawatan melibatkan pembersihan teratur, penggunaan pelembap bebas minyak, dan produk perawatan yang mengandung bahan untuk mengontrol minyak dan mencegah jerawat.",
+        "Mengatasi kulit berminyak: Cuci wajah dua kali sehari, gunakan pelembap bebas minyak, hindari menyentuh wajah berlebihan. Gunakan produk perawatan yang mengandung bahan penyerap minyak, dan perhatikan pola makan dengan menghindari makanan berlemak dan gula.",
+        "Penyebab utama kulit berminyak adalah produksi minyak berlebihan oleh kelenjar minyak di kulit. Faktor seperti genetika, perubahan hormon, kondisi lingkungan, pemakaian produk yang tidak tepat, dan stres dapat memengaruhi kondisi ini.",
+        "Untuk mengurangi kelebihan minyak pada kulit wajah, disarankan untuk membersihkan wajah secara teratur dengan pembersih yang lembut dan tidak mengandung alkohol. Gunakan produk perawatan kulit yang mengandung bahan-bahan seperti asam salisilat atau asam glikolat untuk membantu mengontrol produksi minyak. Hindari penggunaan produk perawatan yang terlalu berat atau berlemak. Selain itu, penting untuk menjaga kelembapan kulit dengan menggunakan pelembap yang ringan dan tidak berminyak.",
+        "Kulit berminyak alami cenderung memiliki kilau alami dan produksi minyak yang seimbang, sedangkan kulit berminyak akibat penggunaan produk yang tidak cocok seringkali akan terasa lebih berminyak dan mungkin disertai dengan reaksi kulit yang tidak nyaman seperti jerawat atau iritasi.",
+        "Ya, penggunaan pelembap tetap diperlukan bagi kulit yang berminyak untuk menjaga kelembapan dan keseimbangan produksi minyak kulit. Pilihlah pelembap yang ringan dan tidak berminyak untuk menghindari penumpukan minyak berlebih.",
+        "Beberapa makanan dapat meningkatkan produksi minyak kulit, termasuk makanan berlemak tinggi, produk susu yang mengandung hormon, makanan dengan indeks glikemik tinggi, whey protein, makanan tinggi iodium, gula, karbohidrat olahan, dan makanan dengan pemanis buatan. Namun, faktor genetik, hormon, dan perawatan kulit juga berperan.",
+        "Merawat kulit berminyak meliputi membersihkan wajah secara teratur dengan pembersih yang lembut, menghindari penggunaan produk perawatan yang terlalu berat atau berlemak, menggunakan pelembap yang ringan dan tidak berminyak, serta mengikuti pola makan sehat dan menghindari makanan yang dapat memicu jerawat.",
+        "Beberapa bahan alami seperti tea tree oil, witch hazel, dan ekstrak lidah buaya memiliki sifat yang dapat membantu mengontrol produksi minyak kulit. Namun, penting untuk melakukan uji coba terlebih dahulu untuk memastikan bahwa bahan-bahan tersebut cocok dengan kulit Anda."
       ],
       "rekomendasi": [
         "Himalaya Purifying Neem Mask 150 ml",
@@ -452,55 +260,24 @@
     {
       "kategori": "kulit_kering",
       "pertanyaan": [
-        { "id": 1, "tesk": "bagaimana jika kulit saya kering" },
-        { "id": 2, "tesk": "Apa penyebab umum dari kulit kering" },
-        {
-          "id": 3,
-          "tesk": "Apakah ada bahan alami yang efektif dalam menghidrasi kulit kering"
-        },
-        { "id": 4, "tesk": "bagaimana jika kulit saya kering" },
-        {
-          "id": 5,
-          "tesk": "Apakah mandi dengan air hangat atau air dingin lebih baik untuk kulit kering"
-        },
-        {
-          "id": 6,
-          "tesk": "Bagaimana cara mengatasi ketidaknyamanan yang disebabkan oleh kulit kering, seperti rasa gatal atau iritasi"
-        },
-        {
-          "id": 7,
-          "tesk": "Apakah ada makanan atau suplemen yang dapat membantu meningkatkan kelembapan kulit dari dalam"
-        }
+        "jenis kulit kering ?",
+        "cara mengatasi kulit yang kering ?",
+        "penyebab kulit menjadi kering ?",
+        "bagaimana jika kulit saya kering ?",
+        "Apa penyebab umum dari kulit kering ?",
+        "bahan alami membantu kulit kering ?",
+        "bagaimana jika kulit saya kering ?",
+        "Apakah mandi dengan air hangat atau air dingin lebih baik untuk kulit kering ?",
+        "Apakah ada makanan atau suplemen yang dapat membantu meningkatkan kelembapan kulit dari dalam ?"
       ],
       "jawaban": [
-        {
-          "id": 1,
-          "tesk": "Kulit kering dapat disebabkan oleh berbagai faktor dan memerlukan perawatan yang menghidrasi."
-        },
-        {
-          "id": 2,
-          "tesk": "Kulit kering dapat disebabkan oleh faktor seperti cuaca yang dingin dan kering, paparan sinar matahari berlebih, penggunaan produk perawatan kulit yang mengandung bahan kimia keras, kurangnya kelembapan alami kulit, dan faktor genetik."
-        },
-        {
-          "id": 3,
-          "tesk": "Beberapa bahan alami yang dapat membantu menghidrasi kulit kering termasuk minyak almond, minyak kelapa, shea butter, aloe vera, dan minyak zaitun. Ini dapat digunakan dalam bentuk pelembap atau masker wajah."
-        },
-        {
-          "id": 4,
-          "tesk": "Kulit kering dapat disebabkan oleh berbagai faktor dan memerlukan perawatan yang menghidrasi."
-        },
-        {
-          "id": 5,
-          "tesk": "Mandi dengan air hangat atau air dingin lebih baik untuk kulit kering daripada mandi dengan air panas, karena air panas dapat menghilangkan kelembapan alami kulit. Namun, hindari menggosok kulit secara berlebihan saat mandi dan gunakan pelembap setelah mandi untuk menjaga kelembapan kulit."
-        },
-        {
-          "id": 6,
-          "tesk": "Untuk mengatasi ketidaknyamanan yang disebabkan oleh kulit kering, hindari menggaruk kulit yang gatal dan gunakan pelembap atau krim anti-gatal yang mengandung bahan-bahan seperti oatmeal, mentol, atau lidokain. Jika iritasi atau gatal-gatal persisten, konsultasikan dengan dokter atau ahli kulit."
-        },
-        {
-          "id": 7,
-          "tesk": "Beberapa makanan yang mengandung lemak sehat, seperti alpukat, ikan berlemak, dan kacang-kacangan, serta minum air yang cukup, dapat membantu meningkatkan kelembapan kulit dari dalam. Namun, tidak ada bukti yang cukup untuk menunjukkan bahwa suplemen tertentu secara khusus dapat meningkatkan kelembapan kulit."
-        }
+        "Kulit kering terjadi saat kulit kekurangan kelembapan dan dapat terasa kering, kasar, dan bersisik. Penyebabnya bisa berasal dari produksi minyak kulit yang kurang, paparan lingkungan, pemakaian produk yang mengandung bahan yang mengeringkan, dan penuaan. Untuk mengatasinya, gunakan pelembap kaya, hindari mandi dengan air panas, gunakan pembersih lembut, dan jaga pola hidup yang sehat.",
+        "Untuk mengatasi kulit kering, gunakan pelembap yang cocok, hindari air panas, pilih sabun lembut, minum air cukup, gunakan tabir surya, aplikasikan pelembap malam, hindari bahan kimia, konsumsi makanan sehat, bawa pelembap",
+        "Kulit kering bisa disebabkan oleh faktor seperti kekurangan kelembapan alami, paparan lingkungan, pencucian berlebihan, penuaan, faktor genetik, paparan bahan kimia, kondisi medis, kurangnya asupan cairan, dan gaya hidup. Identifikasi penyebabnya penting untuk penanganan yang tepat.",
+        "Beberapa bahan alami yang dapat membantu menghidrasi kulit kering termasuk minyak almond, minyak kelapa, shea butter, aloe vera, dan minyak zaitun. Ini dapat digunakan dalam bentuk pelembap atau masker wajah.",
+        "Mandi dengan air hangat atau air dingin lebih baik untuk kulit kering daripada mandi dengan air panas, karena air panas dapat menghilangkan kelembapan alami kulit. Namun, hindari menggosok kulit secara berlebihan saat mandi dan gunakan pelembap setelah mandi untuk menjaga kelembapan kulit.",
+        "Untuk mengatasi ketidaknyamanan yang disebabkan oleh kulit kering, hindari menggaruk kulit yang gatal dan gunakan pelembap atau krim anti-gatal yang mengandung bahan-bahan seperti oatmeal, mentol, atau lidokain. Jika iritasi atau gatal-gatal persisten, konsultasikan dengan dokter atau ahli kulit.",
+        "Beberapa makanan yang mengandung lemak sehat, seperti alpukat, ikan berlemak, dan kacang-kacangan, serta minum air yang cukup, dapat membantu meningkatkan kelembapan kulit dari dalam. Namun, tidak ada bukti yang cukup untuk menunjukkan bahwa suplemen tertentu secara khusus dapat meningkatkan kelembapan kulit."
       ],
 
       "rekomendasi": [
@@ -510,7 +287,7 @@
         "Somethinc Ceramic Skin Saviour Moisturizer Gel 25 ml",
         " voskin Glow Concentrate Treatment 2% Aqua Ceramide + Multi Probiome + Hyaluronic Acid 15 ml",
         "Erha21 Erha 1 Facial Wash For Normal & Dry Skin 60 ml",
-        " Verile Moisturizing Gel Active 100 ml"
+        "Verile Moisturizing Gel Active 100 ml"
       ],
       "produk": [
         "Wardah_Hydrating_Aloe_Gel_100_ml.jpeg",
@@ -526,63 +303,24 @@
     {
       "kategori": "komedo",
       "pertanyaan": [
-        { "id": 1, "tesk": "bagaimana jika kulit saya berkomedo" },
-        {
-          "id": 2,
-          "tesk": "Apa saja faktor-faktor yang dapat menyebabkan timbulnya komedo pada kulit"
-        },
-        {
-          "id": 3,
-          "tesk": "Bagaimana cara mencegah dan mengurangi komedo pada kulit"
-        },
-        { "id": 4, "tesk": "Apakah komedo dapat dihilangkan sepenuhnya" },
-        { "id": 5, "tesk": "bagaimana jika kulit saya berkomedo" },
-        {
-          "id": 6,
-          "tesk": "Apakah pemijatan wajah atau facial dapat membantu mengurangi komedo"
-        },
-        {
-          "id": 7,
-          "tesk": "Apakah ada bahan alami yang efektif dalam mengatasi komedo"
-        },
-        {
-          "id": 8,
-          "tesk": "Bagaimana cara memilih produk perawatan kulit yang tepat untuk mengatasi komedo"
-        }
+        "komedo adalah ?",
+        "bagaimana jika kulit saya berkomedo ?",
+        "Apa saja faktor penyebab kulit menjadi berkomedo ?",
+        "Bagaimana cara mmengatasi komedo pada kulit ?",
+        "Apakah komedo dapat dihilangkan sepenuhnya ?",
+        "Apakah pemijatan wajah atau facial dapat membantu mengurangi komedo ?",
+        "bahan alami yang efektif dalam mengatasi komedo ?",
+        "Bagaimana cara memilih produk perawatan kulit yang tepat untuk mengatasi komedo ?"
       ],
       "jawaban": [
-        {
-          "id": 1,
-          "tesk": "Komedo terjadi ketika pori-pori kulit tersumbat dan memerlukan perawatan yang sesuai."
-        },
-        {
-          "id": 2,
-          "tesk": "Faktor-faktor seperti produksi minyak berlebihan, penumpukan sel kulit mati, paparan polusi, penggunaan produk perawatan yang tidak cocok, dan faktor genetik dapat menyebabkan timbulnya komedo pada kulit."
-        },
-        {
-          "id": 3,
-          "tesk": " Langkah-langkah pencegahan termasuk membersihkan wajah secara teratur dengan pembersih yang sesuai, menghindari produk perawatan yang berminyak, menggunakan eksfoliasi secara teratur untuk mengangkat sel-sel kulit mati, mengurangi paparan polusi, dan menjaga kelembapan kulit dengan menggunakan pelembap yang tidak menyumbat pori-pori."
-        },
-        {
-          "id": 4,
-          "tesk": "Meskipun komedo dapat dihilangkan, mereka cenderung bisa kambuh lagi jika tidak diatasi dengan perawatan yang tepat dan pencegahan yang baik."
-        },
-        {
-          "id": 5,
-          "tesk": "Komedo terjadi ketika pori-pori kulit tersumbat dan memerlukan perawatan yang sesuai."
-        },
-        {
-          "id": 6,
-          "tesk": "Pemijatan wajah atau facial dapat membantu membersihkan dan merangsang sirkulasi kulit, namun harus dilakukan dengan hati-hati agar tidak merusak kulit atau menyebabkan iritasi."
-        },
-        {
-          "id": 7,
-          "tesk": "Beberapa bahan alami seperti tea tree oil, ekstrak lidah buaya, atau gel lidah buaya, serta ekstrak witch hazel memiliki sifat antimikroba dan anti-inflamasi yang dapat membantu mengurangi peradangan dan membersihkan pori-pori, yang dapat membantu mengurangi kemunculan komedo."
-        },
-        {
-          "id": 8,
-          "tesk": "Komedo terjadi ketika pori-pori kulit tersumbat dan memerlukan perawatan yang sesuai."
-        }
+        "Komedo adalah penyumbatan pada pori-pori kulit oleh minyak, sel kulit mati, dan kotoran. Mereka bisa berwarna hitam atau putih dan sering muncul di area berminyak seperti wajah, leher, dan dada.",
+        "Komedo terjadi ketika pori-pori kulit tersumbat dan memerlukan perawatan yang sesuai.",
+        "Faktor-faktor seperti produksi minyak berlebihan, penumpukan sel kulit mati, paparan polusi, penggunaan produk perawatan yang tidak cocok, dan faktor genetik dapat menyebabkan timbulnya komedo pada kulit.",
+        "dengan cara membersihkan wajah secara teratur dengan pembersih yang sesuai, menghindari produk perawatan yang berminyak, menggunakan eksfoliasi secara teratur untuk mengangkat sel-sel kulit mati, mengurangi paparan polusi, dan menjaga kelembapan kulit dengan menggunakan pelembap yang tidak menyumbat pori-pori.",
+        "Meskipun komedo dapat dihilangkan, mereka cenderung bisa kambuh lagi jika tidak diatasi dengan perawatan yang tepat dan pencegahan yang baik.",
+        "Pemijatan wajah atau facial dapat membantu membersihkan dan merangsang sirkulasi kulit, namun harus dilakukan dengan hati-hati agar tidak merusak kulit atau menyebabkan iritasi.",
+        "Beberapa bahan alami seperti tea tree oil, ekstrak lidah buaya, atau gel lidah buaya, serta ekstrak witch hazel memiliki sifat antimikroba dan anti-inflamasi yang dapat membantu mengurangi peradangan dan membersihkan pori-pori, yang dapat membantu mengurangi kemunculan komedo.",
+        "Komedo terjadi ketika pori-pori kulit tersumbat dan memerlukan perawatan yang sesuai."
       ],
 
       "rekomendasi": [
@@ -604,55 +342,24 @@
     {
       "kategori": "flek_hitam",
       "pertanyaan": [
-        { "id": 1, "tesk": "bagaimana jika saya mempunyai flek hitam" },
-        {
-          "id": 2,
-          "tesk": "Apa yang sebaiknya dilakukan untuk mencegah munculnya flek hitam"
-        },
-        { "id": 3, "tesk": "Apakah semua flek hitam dapat dihilangkan" },
-        { "id": 4, "tesk": "bagaimana jika saya mempunyai flek hitam" },
-        {
-          "id": 5,
-          "tesk": "Apa jenis perawatan yang efektif untuk mengurangi flek hitam"
-        },
-        {
-          "id": 6,
-          "tesk": "Apakah ada bahan alami yang dapat membantu mengurangi flek hitam"
-        },
-        {
-          "id": 7,
-          "tesk": "Bagaimana cara merawat kulit yang mengalami hiperpigmentasi"
-        }
+        "flek hitam adalah ?",
+        "bagaimana jika saya mempunyai flek hitam ?",
+        "Apa yang sebaiknya dilakukan untuk mencegah munculnya flek hitam ?",
+        "Apakah semua flek hitam dapat dihilangkan ?",
+        "bagaimana jika saya mempunyai flek hitam ?",
+        "Apa jenis perawatan yang efektif untuk mengurangi flek hitam ?",
+        "Apakah ada bahan alami yang dapat membantu mengurangi flek hitam ?",
+        "Bagaimana cara merawat kulit yang mengalami hiperpigmentasi ?"
       ],
       "jawaban": [
-        {
-          "id": 1,
-          "tesk": "Flek hitam atau hiperpigmentasi memerlukan perlindungan dari sinar matahari dan perawatan yang mengurangi pigmentasi."
-        },
-        {
-          "id": 2,
-          "tesk": "Untuk mencegah munculnya flek hitam, penting untuk menggunakan tabir surya setiap hari, menghindari paparan sinar matahari berlebih, menggunakan topi atau payung saat berada di bawah sinar matahari, dan menghindari kebiasaan merokok yang dapat merusak kulit."
-        },
-        {
-          "id": 3,
-          "tesk": "Tergantung pada penyebabnya, beberapa flek hitam mungkin dapat dihilangkan sepenuhnya, sementara yang lain mungkin memerlukan perawatan jangka panjang atau tidak dapat dihilangkan sama sekali."
-        },
-        {
-          "id": 4,
-          "tesk": "Flek hitam atau hiperpigmentasi memerlukan perlindungan dari sinar matahari dan perawatan yang mengurangi pigmentasi."
-        },
-        {
-          "id": 5,
-          "tesk": "Jenis perawatan yang efektif untuk mengurangi flek hitam termasuk penggunaan krim pemutih atau produk perawatan kulit yang mengandung bahan-bahan seperti asam kojik, asam azelaic, retinoid, atau hidrokuinon, serta prosedur medis seperti terapi laser atau krioterapi.        "
-        },
-        {
-          "id": 6,
-          "tesk": "Beberapa bahan alami yang dapat membantu mengurangi flek hitam termasuk ekstrak licorice, ekstrak mulberry, ekstrak bearberry, dan vitamin C. Namun, penting untuk berkonsultasi dengan ahli kulit sebelum menggunakan bahan-bahan ini untuk perawatan kulit."
-        },
-        {
-          "id": 7,
-          "tesk": "Merawat kulit yang mengalami hiperpigmentasi meliputi penggunaan tabir surya setiap hari, penggunaan produk perawatan kulit yang mengandung bahan pemutih, eksfoliasi teratur, dan menghindari pemicu potensial seperti sinar matahari berlebih."
-        }
+        "Flek hitam adalah bercak gelap pada kulit akibat peningkatan produksi melanin. Mereka sering disebabkan oleh paparan sinar matahari, penuaan, atau peradangan kulit.",
+        "Flek hitam atau hiperpigmentasi memerlukan perlindungan dari sinar matahari dan perawatan yang mengurangi pigmentasi.",
+        "Untuk mencegah munculnya flek hitam, penting untuk menggunakan tabir surya setiap hari, menghindari paparan sinar matahari berlebih, menggunakan topi atau payung saat berada di bawah sinar matahari, dan menghindari kebiasaan merokok yang dapat merusak kulit.",
+        "Tergantung pada penyebabnya, beberapa flek hitam mungkin dapat dihilangkan sepenuhnya, sementara yang lain mungkin memerlukan perawatan jangka panjang atau tidak dapat dihilangkan sama sekali.",
+        "Flek hitam atau hiperpigmentasi memerlukan perlindungan dari sinar matahari dan perawatan yang mengurangi pigmentasi.",
+        "Jenis perawatan yang efektif untuk mengurangi flek hitam termasuk penggunaan krim pemutih atau produk perawatan kulit yang mengandung bahan-bahan seperti asam kojik, asam azelaic, retinoid, atau hidrokuinon, serta prosedur medis seperti terapi laser atau krioterapi. ",
+        "Beberapa bahan alami yang dapat membantu mengurangi flek hitam termasuk ekstrak licorice, ekstrak mulberry, ekstrak bearberry, dan vitamin C. Namun, penting untuk berkonsultasi dengan ahli kulit sebelum menggunakan bahan-bahan ini untuk perawatan kulit.",
+        "Merawat kulit yang mengalami hiperpigmentasi meliputi penggunaan tabir surya setiap hari, penggunaan produk perawatan kulit yang mengandung bahan pemutih, eksfoliasi teratur, dan menghindari pemicu potensial seperti sinar matahari berlebih."
       ],
 
       "rekomendasi": [
@@ -674,61 +381,21 @@
     {
       "kategori": "kerutan",
       "pertanyaan": [
-        { "id": 1, "tesk": "bagaimana menghilangkan kerutan" },
-        {
-          "id": 2,
-          "tesk": "Apa saja faktor-faktor yang menyebabkan munculnya kerutan pada kulit"
-        },
-        {
-          "id": 3,
-          "tesk": "Apakah ada perawatan yang efektif untuk mengurangi munculnya kerutan"
-        },
-        {
-          "id": 4,
-          "tesk": "Apakah ada cara alami yang dapat membantu mengurangi munculnya kerutan"
-        },
-        {
-          "id": 5,
-          "tesk": "Apakah perawatan pencegahan dapat membantu mengurangi munculnya kerutan di masa depan"
-        },
-        {
-          "id": 6,
-          "tesk": "Apakah ada perbedaan antara kerutan halus dan kerutan yang lebih dalam"
-        },
-        {
-          "id": 7,
-          "tesk": "Apakah perawatan pencegahan dapat membantu mengurangi munculnya kerutan di masa depan"
-        }
+        "kerutan pada wajah ?",
+        "cara menghilangkan kerutan ?",
+        "Apa saja faktor-faktor yang menyebabkan munculnya kerutan pada kulit ?",
+        "Apakah ada perawatan yang efektif untuk mengurangi munculnya kerutan ?",
+        "Apakah ada pencegahan yang dapat membantu mengurangi munculnya kerutan ?",
+        "jenis jenis kerutan"
       ],
       "jawaban": [
-        {
-          "id": 1,
-          "tesk": "Kerutan adalah tanda penuaan alami dan memerlukan perawatan anti-penuaan."
-        },
-        {
-          "id": 2,
-          "tesk": "Munculnya kerutan pada kulit bisa disebabkan oleh faktor-faktor seperti penuaan alami, paparan sinar matahari berlebih, kebiasaan merokok, polusi udara, kurangnya tidur yang cukup, dan faktor genetik."
-        },
-        {
-          "id": 3,
-          "tesk": "Beberapa perawatan yang efektif untuk mengurangi munculnya kerutan termasuk penggunaan krim atau serum anti-penuaan yang mengandung retinoid, asam hialuronat, vitamin C, atau peptida, serta prosedur medis seperti penggunaan botulinum toxin (Botox), filler, atau terapi laser."
-        },
-        {
-          "id": 4,
-          "tesk": "Beberapa cara alami yang dapat membantu mengurangi munculnya kerutan termasuk menghindari paparan sinar matahari berlebih, menjaga kelembapan kulit dengan menggunakan pelembap yang cocok, mengonsumsi makanan yang kaya akan antioksidan, dan menjaga gaya hidup sehat dengan cukup tidur, tidak merokok, dan menghindari stres."
-        },
-        {
-          "id": 5,
-          "tesk": "Ya, perawatan pencegahan seperti menggunakan tabir surya setiap hari, menjaga kelembapan kulit, mengonsumsi makanan yang sehat, dan menghindari kebiasaan merokok dapat membantu mengurangi risiko munculnya kerutan di masa depan."
-        },
-        {
-          "id": 6,
-          "tesk": "Ya, kerutan halus umumnya lebih dangkal dan dapat muncul pada permukaan kulit, sementara kerutan yang lebih dalam dapat terbentuk di lapisan kulit yang lebih dalam dan cenderung lebih jelas terlihat."
-        },
-        {
-          "id": 7,
-          "tesk": "Ya, perawatan pencegahan seperti menggunakan tabir surya setiap hari, menjaga kelembapan kulit, mengonsumsi makanan yang sehat, dan menghindari kebiasaan merokok dapat membantu mengurangi risiko munculnya kerutan di masa depan."
-        }
+        "Kerutan pada wajah adalah lipatan atau garis-garis halus yang terbentuk akibat penuaan, hilangnya elastisitas kulit, dan faktor-faktor seperti paparan sinar matahari dan kebiasaan merokok. Perawatan dapat meliputi penggunaan krim anti-penuaan, tabir surya, dan perawatan medis seperti Botox atau filler.",
+        "Untuk mengurangi kerutan, gunakan krim anti-penuaan dan tabir surya, pertimbangkan perawatan medis seperti Botox atau filler, eksfoliasi secara teratur, dan jaga gaya hidup sehat dengan makanan bergizi, minum air cukup, dan istirahat yang cukup.",
+        "Munculnya kerutan pada kulit bisa disebabkan oleh faktor-faktor seperti penuaan alami, paparan sinar matahari berlebih, kebiasaan merokok, polusi udara, kurangnya tidur yang cukup, dan faktor genetik.",
+        "Beberapa perawatan yang efektif untuk mengurangi munculnya kerutan termasuk penggunaan krim atau serum anti-penuaan yang mengandung retinoid, asam hialuronat, vitamin C, atau peptida, serta prosedur medis seperti penggunaan botulinum toxin (Botox), filler, atau terapi laser.",
+        "Beberapa cara alami yang dapat membantu mengurangi munculnya kerutan termasuk menghindari paparan sinar matahari berlebih, menjaga kelembapan kulit dengan menggunakan pelembap yang cocok, mengonsumsi makanan yang kaya akan antioksidan, dan menjaga gaya hidup sehat dengan cukup tidur, tidak merokok, dan menghindari stres.",
+        "Ya, perawatan pencegahan seperti menggunakan tabir surya setiap hari, menjaga kelembapan kulit, mengonsumsi makanan yang sehat, dan menghindari kebiasaan merokok dapat membantu mengurangi risiko munculnya kerutan di masa depan.",
+        "kerutan halus umumnya lebih dangkal dan dapat muncul pada permukaan kulit, sementara kerutan yang lebih dalam dapat terbentuk di lapisan kulit yang lebih dalam dan cenderung lebih jelas terlihat."
       ],
 
       "rekomendasi": [
@@ -750,58 +417,24 @@
     {
       "kategori": "kusam",
       "pertanyaan": [
-        { "id": 1, "tesk": "bagaimana jika kulit saya kusam" },
-        { "id": 2, "tesk": "Apa yang menyebabkan kulit menjadi kusam" },
-        {
-          "id": 3,
-          "tesk": "Bagaimana cara mengatasi kulit kusam dan membuatnya lebih bersinar"
-        },
-        {
-          "id": 4,
-          "tesk": "Apakah ada bahan alami yang dapat membantu membuat kulit lebih bersinar"
-        },
-        {
-          "id": 5,
-          "tesk": "Bagaimana cara merawat kulit kusam di area tubuh lain selain wajah"
-        },
-        {
-          "id": 6,
-          "tesk": "Apakah pola makan atau asupan nutrisi berperan dalam membuat kulit lebih bersinar"
-        },
-        {
-          "id": 7,
-          "tesk": "Apakah terapi atau perawatan di salon dapat membantu membuat kulit lebih bersinar"
-        }
+        "kulit kusam adalah ?",
+        "bagaimana jika kulit saya kusam ?",
+        "penyebab kulit menjadi kusam ?",
+        "Bagaimana cara mengatasi kulit kusam dan membuatnya lebih cerah ?",
+        "bahan alami yang dapat membantu membuat kulit lebih cerah ?",
+        "Bagaimana cara merawat kulit kusam di area tubuh lain selain wajah ?",
+        "Apakah pola makan atau asupan nutrisi berperan dalam membuat kulit lebih bersinar ?",
+        "Apakah terapi atau perawatan di salon dapat membantu membuat kulit lebih bersinar ?"
       ],
       "jawaban": [
-        {
-          "id": 1,
-          "tesk": "Kulit kusam memerlukan perawatan yang mencerahkan dan menghidrasi."
-        },
-        {
-          "id": 2,
-          "tesk": "Kulit bisa menjadi kusam karena beberapa faktor, termasuk paparan sinar matahari berlebih, polusi, kekurangan tidur, stres, kurangnya kelembapan kulit, dan kurangnya perawatan kulit yang tepat."
-        },
-        {
-          "id": 3,
-          "tesk": "Cara mengatasi kulit kusam termasuk rutin membersihkan wajah, menggunakan eksfoliasi untuk mengangkat sel-sel kulit mati, menggunakan produk perawatan kulit yang mengandung bahan-bahan mencerahkan seperti vitamin C atau niacinamide, menjaga kelembapan kulit dengan menggunakan pelembap, dan menghindari kebiasaan yang dapat menyebabkan kulit kusam seperti merokok atau kurangnya tidur."
-        },
-        {
-          "id": 4,
-          "tesk": "Beberapa bahan alami yang dapat membantu membuat kulit lebih bersinar termasuk ekstrak licorice, ekstrak bearberry, ekstrak lemon atau jeruk nipis, dan minyak alami seperti minyak almond atau minyak rosehip."
-        },
-        {
-          "id": 5,
-          "tesk": "Merawat kulit kusam di area tubuh lainnya meliputi penggunaan scrub atau eksfoliasi tubuh untuk mengangkat sel-sel kulit mati, penggunaan pelembap yang kaya akan bahan-bahan mencerahkan dan menghidrasi, dan menghindari mandi dengan air panas yang dapat menghilangkan kelembapan alami kulit."
-        },
-        {
-          "id": 6,
-          "tesk": "Ya, pola makan yang sehat dan kaya akan nutrisi seperti buah-buahan, sayuran, kacang-kacangan, dan ikan berlemak dapat membantu membuat kulit lebih bersinar karena kandungan antioksidannya yang tinggi dan kemampuannya untuk menjaga kelembapan kulit."
-        },
-        {
-          "id": 7,
-          "tesk": "Ya, terapi atau perawatan di salon seperti facial atau treatment wajah yang menggunakan bahan-bahan mencerahkan dan teknologi seperti terapi laser atau IPL (Intense Pulsed Light) juga dapat membantu membuat kulit lebih bersinar. Namun, pastikan untuk berkonsultasi dengan ahli kulit sebelum melakukan perawatan tersebut."
-        }
+        "Kulit kusam adalah kondisi di mana kulit kehilangan kilau alami dan terlihat tidak segar. Ini bisa disebabkan oleh kelembapan yang kurang, penumpukan sel-sel kulit mati, paparan sinar matahari berlebihan, polusi, kurangnya tidur, atau kelelahan. Perawatan termasuk penggunaan pelembap, eksfoliasi, tidur cukup, dan perlindungan dari sinar matahari.",
+        "Kulit kusam memerlukan perawatan yang mencerahkan dan menghidrasi.",
+        "Kulit bisa menjadi kusam karena beberapa faktor, termasuk paparan sinar matahari berlebih, polusi, kekurangan tidur, stres, kurangnya kelembapan kulit, dan kurangnya perawatan kulit yang tepat.",
+        "Cara mengatasi kulit kusam termasuk rutin membersihkan wajah, menggunakan eksfoliasi untuk mengangkat sel-sel kulit mati, menggunakan produk perawatan kulit yang mengandung bahan-bahan mencerahkan seperti vitamin C atau niacinamide, menjaga kelembapan kulit dengan menggunakan pelembap, dan menghindari kebiasaan yang dapat menyebabkan kulit kusam seperti merokok atau kurangnya tidur.",
+        "Beberapa bahan alami yang dapat membantu membuat kulit lebih bersinar termasuk ekstrak licorice, ekstrak bearberry, ekstrak lemon atau jeruk nipis, dan minyak alami seperti minyak almond atau minyak rosehip.",
+        "Merawat kulit kusam di area tubuh lainnya meliputi penggunaan scrub atau eksfoliasi tubuh untuk mengangkat sel-sel kulit mati, penggunaan pelembap yang kaya akan bahan-bahan mencerahkan dan menghidrasi, dan menghindari mandi dengan air panas yang dapat menghilangkan kelembapan alami kulit.",
+        "Ya, pola makan yang sehat dan kaya akan nutrisi seperti buah-buahan, sayuran, kacang-kacangan, dan ikan berlemak dapat membantu membuat kulit lebih bersinar karena kandungan antioksidannya yang tinggi dan kemampuannya untuk menjaga kelembapan kulit.",
+        "Ya, terapi atau perawatan di salon seperti facial atau treatment wajah yang menggunakan bahan-bahan mencerahkan dan teknologi seperti terapi laser atau IPL (Intense Pulsed Light) juga dapat membantu membuat kulit lebih bersinar. Namun, pastikan untuk berkonsultasi dengan ahli kulit sebelum melakukan perawatan tersebut."
       ],
 
       "rekomendasi": [
@@ -823,53 +456,16 @@
     {
       "kategori": "pori_pori_besar",
       "pertanyaan": [
-        { "id": 1, "tesk": "bagaimana jika pori pori kulit saya besar" },
-        {
-          "id": 2,
-          "tesk": "Apa penyebab umum dari pori-pori kulit yang besar"
-        },
-        {
-          "id": 3,
-          "tesk": "Bagaimana cara merawat pori-pori kulit yang besar agar terlihat lebih kecil"
-        },
-        {
-          "id": 4,
-          "tesk": "Apakah perawatan eksfoliasi berguna dalam mengurangi ukuran pori-pori kulit"
-        },
-        {
-          "id": 5,
-          "tesk": "Apakah ada produk perawatan khusus yang direkomendasikan untuk menyempitkan pori-pori kulit"
-        },
-        {
-          "id": 6,
-          "tesk": "Apakah perawatan medis seperti laser atau kimia dapat membantu mengurangi ukuran pori-pori kulit"
-        }
+        "bagaimana jika pori pori kulit saya besar ?",
+        "Bagaimana cara merawat pori-pori kulit yang besar agar terlihat lebih kecil",
+        "Apa perawatan berguna dalam mengurangi ukuran pori-pori kulit"
       ],
       "jawaban": [
-        {
-          "id": 1,
-          "tesk": "Pori-pori besar memerlukan perawatan yang menyempitkan dan membersihkan."
-        },
-        {
-          "id": 2,
-          "tesk": "Pori-pori kulit yang besar bisa disebabkan oleh faktor-faktor seperti produksi sebum berlebih, penumpukan kotoran dan sel kulit mati, perubahan hormon, dan faktor genetik."
-        },
-        {
-          "id": 3,
-          "tesk": "Untuk merawat pori-pori kulit yang besar, penting untuk membersihkan wajah secara teratur dengan pembersih yang cocok untuk jenis kulit Anda, menggunakan produk perawatan kulit yang mengandung bahan-bahan seperti asam salisilat atau asam glikolat untuk membantu membersihkan pori-pori, dan menghindari penggunaan produk yang dapat menyebabkan penyumbatan pori-pori seperti produk berminyak atau berat.."
-        },
-        {
-          "id": 4,
-          "tesk": "Ya, eksfoliasi secara teratur dapat membantu mengangkat sel kulit mati yang menyumbat pori-pori dan menjaga pori-pori tetap bersih. Namun, hindari melakukan eksfoliasi berlebihan yang dapat merusak kulit atau menyebabkan iritasi."
-        },
-        {
-          "id": 5,
-          "tesk": "Beberapa produk perawatan kulit yang mengandung bahan-bahan seperti niacinamide, retinoid, atau ekstrak teh hijau diketahui dapat membantu menyempitkan pori-pori kulit dengan penggunaan yang teratur dan konsisten."
-        },
-        {
-          "id": 6,
-          "tesk": "Ya, beberapa prosedur medis seperti terapi laser atau kimia dapat membantu mengurangi ukuran pori-pori kulit dengan merangsang produksi kolagen dan meratakan tekstur kulit. Namun, konsultasikan terlebih dahulu dengan dokter atau ahli kulit untuk mengetahui apakah prosedur tersebut cocok untuk kondisi kulit Anda."
-        }
+        "Pori-pori kulit yang besar bisa disebabkan oleh faktor-faktor seperti produksi sebum berlebih, penumpukan kotoran dan sel kulit mati, perubahan hormon, dan faktor genetik.",
+        "Untuk merawat pori-pori kulit yang besar, penting untuk membersihkan wajah secara teratur dengan pembersih yang cocok untuk jenis kulit Anda, menggunakan produk perawatan kulit yang mengandung bahan-bahan seperti asam salisilat atau asam glikolat untuk membantu membersihkan pori-pori, dan menghindari penggunaan produk yang dapat menyebabkan penyumbatan pori-pori seperti produk berminyak atau berat..",
+        "eksfoliasi secara teratur dapat membantu mengangkat sel kulit mati yang menyumbat pori-pori dan menjaga pori-pori tetap bersih. Namun, hindari melakukan eksfoliasi berlebihan yang dapat merusak kulit atau menyebabkan iritasi.",
+        "Beberapa produk perawatan kulit yang mengandung bahan-bahan seperti niacinamide, retinoid, atau ekstrak teh hijau diketahui dapat membantu menyempitkan pori-pori kulit dengan penggunaan yang teratur dan konsisten.",
+        "beberapa prosedur medis seperti terapi laser atau kimia dapat membantu mengurangi ukuran pori-pori kulit dengan merangsang produksi kolagen dan meratakan tekstur kulit. Namun, konsultasikan terlebih dahulu dengan dokter atau ahli kulit untuk mengetahui apakah prosedur tersebut cocok untuk kondisi kulit Anda."
       ],
 
       "rekomendasi": [
@@ -892,24 +488,11 @@
 
     {
       "kategori": "milia",
-      "pertanyaan": [
-        { "id": 1, "tesk": "apa penyebab milia" },
-        { "id": 2, "tesk": "Bagaimana cara mengatasi milia" },
-        { "id": 3, "tesk": "Apakah milia bisa dicegah" }
-      ],
+      "pertanyaan": ["apa itu milia", "Bagaimana cara mengatasi milia"],
       "jawaban": [
-        {
-          "id": 1,
-          "tesk": "milia biasanya akan muncul pada area wajah sekitar dagu, hidung, dan bawah mata yang mana kemunculannya sendiri dapat dipengaruhi oleh berbagai faktor seperti penyumbatan saluran keringat, infeksi kulit, kulit mati yang terperangkap di pori-pori, kondisi kulit yang tidak dibersihkan dengan baik, hingga kurang tidur dan merokok."
-        },
-        {
-          "id": 2,
-          "tesk": "Mengatasi milia dapat dilakukan dengan berbagai cara, seperti penggunaan eksfoliasi ringan untuk mengangkat sel-sel kulit mati, perawatan topikal yang mengandung asam glikolat atau retinoid untuk membantu membuka pori-pori, atau prosedur medis seperti pengeluaran milia oleh dokter kulit. Penting juga untuk menjaga kebersihan kulit dan menghindari faktor-faktor yang dapat memperburuk kondisi, seperti merokok atau kurang tidur."
-        },
-        {
-          "id": 3,
-          "tesk": "Meskipun tidak selalu dapat dicegah sepenuhnya, beberapa langkah pencegahan dapat membantu mengurangi risiko munculnya milia, seperti menjaga kebersihan kulit, menghindari penggunaan produk perawatan kulit yang terlalu berminyak, dan menggunakan tabir surya setiap hari untuk melindungi kulit dari paparan sinar matahari berlebih."
-        }
+        "milia biasanya akan muncul pada area wajah sekitar dagu, hidung, dan bawah mata yang mana kemunculannya sendiri dapat dipengaruhi oleh berbagai faktor seperti penyumbatan saluran keringat, infeksi kulit, kulit mati yang terperangkap di pori-pori, kondisi kulit yang tidak dibersihkan dengan baik, hingga kurang tidur dan merokok.",
+        "Mengatasi milia dapat dilakukan dengan berbagai cara, seperti penggunaan eksfoliasi ringan untuk mengangkat sel-sel kulit mati, perawatan topikal yang mengandung asam glikolat atau retinoid untuk membantu membuka pori-pori, atau prosedur medis seperti pengeluaran milia oleh dokter kulit. Penting juga untuk menjaga kebersihan kulit dan menghindari faktor-faktor yang dapat memperburuk kondisi, seperti merokok atau kurang tidur.",
+        "Meskipun tidak selalu dapat dicegah sepenuhnya, beberapa langkah pencegahan dapat membantu mengurangi risiko munculnya milia, seperti menjaga kebersihan kulit, menghindari penggunaan produk perawatan kulit yang terlalu berminyak, dan menggunakan tabir surya setiap hari untuk melindungi kulit dari paparan sinar matahari berlebih."
       ],
 
       "rekomendasi": [
@@ -929,59 +512,22 @@
     },
 
     {
-      "kategori": "Penuaan_Dini",
+      "kategori": "penuaan_dini",
       "pertanyaan": [
-        { "id": 1, "tesk": "apa penyebab penuaan dini" },
-        {
-          "id": 2,
-          "tesk": "Apa saja gejala yang umum terjadi pada penuaan dini kulit"
-        },
-        {
-          "id": 3,
-          "tesk": "Bagaimana paparan sinar matahari dapat menyebabkan penuaan dini pada kulit"
-        },
-        {
-          "id": 4,
-          "tesk": "Apakah kurangnya tidur dapat mempercepat penuaan dini kulit"
-        },
-        {
-          "id": 5,
-          "tesk": "Bagaimana perawatan kulit yang tepat dapat membantu melawan penuaan dini"
-        },
-        {
-          "id": 6,
-          "tesk": "Apakah ada peran diet dalam mencegah penuaan dini"
-        }
+        "apa itu penuaan dini",
+        "Bagaimana perawatan kulit yang tepat dapat membantu melawan penuaan dini"
       ],
       "jawaban": [
-        {
-          "id": 1,
-          "tesk": "Penyebab penuaan dini disebabkan karena Stress, paparan sinar matahari, kurangnya tidur serta kurangnya perawatan kulit"
-        },
-        {
-          "id": 2,
-          "tesk": "Gejala umum penuaan dini pada kulit meliputi munculnya garis-garis halus, kerutan, kehilangan elastisitas, kulit kusam, serta bintik-bintik pigmentasi atau flek hitam."
-        },
-        {
-          "id": 3,
-          "tesk": "Paparan sinar matahari yang berlebihan dapat merusak kolagen dan elastin dalam kulit, menyebabkan kerusakan pada struktur kulit dan mempercepat proses penuaan. Ini dapat mengakibatkan munculnya garis-garis halus, kerutan, serta flek hitam pada kulit."
-        },
-        {
-          "id": 4,
-          "tesk": "Ya, kurangnya tidur dapat menyebabkan stres oksidatif pada kulit dan mengganggu proses regenerasi sel kulit yang normal, yang dapat menyebabkan munculnya tanda-tanda penuaan dini seperti kerutan dan kulit kusam."
-        },
-        {
-          "id": 5,
-          "tesk": "Perawatan kulit yang tepat, termasuk penggunaan pelembap, tabir surya, produk anti-penuaan, serta eksfoliasi secara teratur, dapat membantu melawan penuaan dini dengan menjaga kelembapan kulit, melindungi dari kerusakan sinar UV, serta merangsang regenerasi sel kulit yang sehat."
-        },
-        {
-          "id": 6,
-          "tesk": "Ya, diet yang sehat dan seimbang dapat membantu melawan penuaan dini dengan menyediakan nutrisi penting bagi kesehatan kulit, seperti antioksidan dan asam lemak omega-3. Makanan seperti buah-buahan, sayuran hijau, ikan berlemak, serta makanan yang kaya akan vitamin C dan vitamin E dapat membantu menjaga kulit tetap sehat dan muda."
-        }
+        "Penyebab penuaan dini disebabkan karena Stress, paparan sinar matahari, kurangnya tidur serta kurangnya perawatan kulit",
+        "Gejala umum penuaan dini pada kulit meliputi munculnya garis-garis halus, kerutan, kehilangan elastisitas, kulit kusam, serta bintik-bintik pigmentasi atau flek hitam.",
+        "Paparan sinar matahari yang berlebihan dapat merusak kolagen dan elastin dalam kulit, menyebabkan kerusakan pada struktur kulit dan mempercepat proses penuaan. Ini dapat mengakibatkan munculnya garis-garis halus, kerutan, serta flek hitam pada kulit.",
+        "kurangnya tidur dapat menyebabkan stres oksidatif pada kulit dan mengganggu proses regenerasi sel kulit yang normal, yang dapat menyebabkan munculnya tanda-tanda penuaan dini seperti kerutan dan kulit kusam.",
+        "Perawatan kulit yang tepat, termasuk penggunaan pelembap, tabir surya, produk anti-penuaan, serta eksfoliasi secara teratur, dapat membantu melawan penuaan dini dengan menjaga kelembapan kulit, melindungi dari kerusakan sinar UV, serta merangsang regenerasi sel kulit yang sehat.",
+        "diet yang sehat dan seimbang dapat membantu melawan penuaan dini dengan menyediakan nutrisi penting bagi kesehatan kulit, seperti antioksidan dan asam lemak omega-3. Makanan seperti buah-buahan, sayuran hijau, ikan berlemak, serta makanan yang kaya akan vitamin C dan vitamin E dapat membantu menjaga kulit tetap sehat dan muda."
       ],
 
       "rekomendasi": [
-        " Safi Age Defy Concentrated Serum",
+        "Safi Age Defy Concentrated Serum",
         "Olay Regenerist Serum Retinol",
         "Olay Total Effects Antiaging Gentle Day Cream SPF 15 50 g",
         "Wardah Renew You Anti Aging Day Cream 30 g"
@@ -995,38 +541,19 @@
     },
 
     {
-      "kategori": "Stretch_Mark",
+      "kategori": "stretch_mark",
       "pertanyaan": [
-        { "id": 1, "tesk": "apa penyebab stretch mark" },
-        { "id": 2, "tesk": " Bagaimana stretch mark terbentuk pada kulit" },
-        { "id": 3, "tesk": "Apakah stretch mark bisa dihilangkan sepenuhnya" },
-        {
-          "id": 4,
-          "tesk": "Apakah ada cara alami untuk mengurangi penampilan stretch mark"
-        },
-        { "id": 5, "tesk": "Apakah pencegahan stretch mark mungkin dilakukan" }
+        "apa penyebab stretch mark",
+        "Apakah stretch mark bisa dihilangkan sepenuhnya",
+        "Apakah ada cara alami untuk mengurangi penampilan stretch mark",
+        "Apakah pencegahan stretch mark mungkin dilakukan"
       ],
       "jawaban": [
-        {
-          "id": 1,
-          "tesk": "Penyebab Hiperpigmentasi disebabkan paparan sinar matahari, Perubahan hormon, bekas luka atau peradangan"
-        },
-        {
-          "id": 2,
-          "tesk": "Stretch mark terbentuk ketika kulit meregang secara berlebihan, seperti saat kehamilan atau peningkatan berat badan yang cepat. Proses ini bisa merusak serat elastin dan kolagen dalam kulit, menyebabkan terbentuknya bekas yang tampak seperti garis-garis atau garis-garis berwarna pada kulit."
-        },
-        {
-          "id": 3,
-          "tesk": "Meskipun tidak semua stretch mark bisa dihilangkan sepenuhnya, ada berbagai perawatan dan prosedur yang dapat membantu mengurangi penampilan mereka. Ini termasuk penggunaan krim atau minyak yang mengandung bahan-bahan seperti retinoid, asam hialuronat, atau vitamin C, serta prosedur medis seperti terapi laser atau mikrodermabrasi."
-        },
-        {
-          "id": 4,
-          "tesk": "Beberapa orang melaporkan bahwa penggunaan minyak alami seperti minyak kelapa, minyak almond, atau minyak rosehip dapat membantu mengurangi penampilan stretch mark. Namun, bukti ilmiah yang mendukung efektivitasnya masih terbatas, dan hasilnya mungkin bervariasi antara individu."
-        },
-        {
-          "id": 5,
-          "tesk": "Meskipun tidak selalu mungkin untuk mencegah stretch mark sepenuhnya, menjaga berat badan yang sehat, menjaga kelembapan kulit dengan menggunakan pelembap, dan menghindari peregangan kulit yang berlebihan dapat membantu mengurangi risiko terbentuknya stretch mark."
-        }
+        "Penyebab Hiperpigmentasi disebabkan paparan sinar matahari, Perubahan hormon, bekas luka atau peradangan",
+        "Stretch mark terbentuk ketika kulit meregang secara berlebihan, seperti saat kehamilan atau peningkatan berat badan yang cepat. Proses ini bisa merusak serat elastin dan kolagen dalam kulit, menyebabkan terbentuknya bekas yang tampak seperti garis-garis atau garis-garis berwarna pada kulit.",
+        "Meskipun tidak semua stretch mark bisa dihilangkan sepenuhnya, ada berbagai perawatan dan prosedur yang dapat membantu mengurangi penampilan mereka. Ini termasuk penggunaan krim atau minyak yang mengandung bahan-bahan seperti retinoid, asam hialuronat, atau vitamin C, serta prosedur medis seperti terapi laser atau mikrodermabrasi.",
+        "Beberapa orang melaporkan bahwa penggunaan minyak alami seperti minyak kelapa, minyak almond, atau minyak rosehip dapat membantu mengurangi penampilan stretch mark. Namun, bukti ilmiah yang mendukung efektivitasnya masih terbatas, dan hasilnya mungkin bervariasi antara individu.",
+        "Meskipun tidak selalu mungkin untuk mencegah stretch mark sepenuhnya, menjaga berat badan yang sehat, menjaga kelembapan kulit dengan menggunakan pelembap, dan menghindari peregangan kulit yang berlebihan dapat membantu mengurangi risiko terbentuknya stretch mark."
       ],
 
       "rekomendasi": ["laser CO2", "erbium chemical peeling", "microneedling"],
@@ -1034,38 +561,18 @@
     },
 
     {
-      "kategori": "Rosacea",
+      "kategori": "rosacea",
       "pertanyaan": [
-        { "id": 1, "tesk": "Apa yang menyebabkan rosacea pada kulit" },
-        { "id": 2, "tesk": " Apa saja gejala yang umum terjadi pada rosacea" },
-        { "id": 3, "tesk": "Bagaimana cara mengelola rosacea" },
-        { "id": 4, "tesk": "Apakah rosacea dapat sembuh sepenuhnya" },
-        {
-          "id": 5,
-          "tesk": "Apakah ada perawatan medis yang efektif untuk rosacea"
-        }
+        "Apa itu rosacea pada kulit",
+        "Bagaimana cara mengelola rosacea",
+        "Apakah rosacea dapat sembuh sepenuhnya"
       ],
       "jawaban": [
-        {
-          "id": 1,
-          "tesk": "Penyebab Rosacea disebabkan faktor stres, Paparan sinar matahari, kelembapan udara dan konsumsi makanan pedas"
-        },
-        {
-          "id": 2,
-          "tesk": "Gejala umum rosacea meliputi kemerahan pada wajah, pembengkakan, jerawat, dan pembuluh darah yang tampak lebih jelas di permukaan kulit."
-        },
-        {
-          "id": 3,
-          "tesk": " Mengelola rosacea meliputi penggunaan produk perawatan kulit yang lembut dan tidak mengiritasi, menghindari pemicu yang dapat memperburuk kondisi seperti sinar matahari berlebih, makanan pedas, alkohol, atau stres, serta berkonsultasi dengan dokter kulit untuk perawatan yang sesuai."
-        },
-        {
-          "id": 4,
-          "tesk": "Rosacea umumnya bersifat kronis dan tidak dapat sembuh sepenuhnya. Namun, dengan pengelolaan yang tepat, gejalanya dapat dikendalikan dan peradangan dapat diminimalkan."
-        },
-        {
-          "id": 5,
-          "tesk": "Ya, beberapa perawatan medis untuk rosacea termasuk penggunaan krim atau gel topikal yang mengandung antibiotik atau azelaic acid, terapi laser, atau terapi cahaya yang dapat membantu mengurangi kemerahan dan peradangan pada kulit."
-        }
+        "Penyebab Rosacea disebabkan faktor stres, Paparan sinar matahari, kelembapan udara dan konsumsi makanan pedas",
+        "Gejala umum rosacea meliputi kemerahan pada wajah, pembengkakan, jerawat, dan pembuluh darah yang tampak lebih jelas di permukaan kulit.",
+        "Merawat rosacea meliputi penggunaan produk perawatan kulit yang lembut dan tidak mengiritasi, menghindari pemicu yang dapat memperburuk kondisi seperti sinar matahari berlebih, makanan pedas, alkohol, atau stres, serta berkonsultasi dengan dokter kulit untuk perawatan yang sesuai.",
+        "Rosacea umumnya bersifat kronis dan tidak dapat sembuh sepenuhnya. Namun, dengan pengelolaan yang tepat, gejalanya dapat dikendalikan dan peradangan dapat diminimalkan.",
+        "Beberapa perawatan medis untuk rosacea termasuk penggunaan krim atau gel topikal yang mengandung antibiotik atau azelaic acid, terapi laser, atau terapi cahaya yang dapat membantu mengurangi kemerahan dan peradangan pada kulit."
       ],
 
       "rekomendasi": [
@@ -1081,36 +588,17 @@
     {
       "kategori": "breakout",
       "pertanyaan": [
-        { "id": 1, "tesk": "Apa yang dimaksud dengan breakout pada kulit" },
-        { "id": 2, "tesk": "Apa penyebab utama dari breakout" },
-        { "id": 3, "tesk": "Bagaimana cara mencegah breakout pada kulit" },
-        { "id": 4, "tesk": "Apakah breakout hanya terjadi pada wajah" },
-        {
-          "id": 5,
-          "tesk": "Apa yang dapat dilakukan untuk mengobati breakout yang sudah muncul"
-        }
+        "Apa yang dimaksud dengan breakout pada kulit",
+        "Apa penyebab dari breakout",
+        "Bagaimana cara mencegah breakout pada kulit",
+        "Apa yang dapat dilakukan untuk mengobati breakout yang sudah muncul"
       ],
       "jawaban": [
-        {
-          "id": 1,
-          "tesk": "Breakout adalah istilah yang digunakan untuk menggambarkan kondisi kulit di mana terjadi penumpukan minyak, sel kulit mati, dan bakteri di pori-pori, yang menghasilkan jerawat, komedo, dan masalah kulit lainnya."
-        },
-        {
-          "id": 2,
-          "tesk": "Penyebab utama dari breakout adalah penumpukan minyak, sel kulit mati, dan bakteri di pori-pori kulit. Faktor lain seperti hormon, pola makan, stres, dan kebersihan kulit juga dapat mempengaruhi kemunculan breakout."
-        },
-        {
-          "id": 3,
-          "tesk": "Beberapa cara mencegah breakout pada kulit termasuk menjaga kebersihan kulit dengan mencuci wajah secara teratur, menggunakan produk perawatan kulit yang sesuai dengan jenis kulit, menghindari penggunaan produk yang mengandung bahan kimia keras, menjaga pola makan yang sehat, mengelola stres, dan menggunakan tabir surya setiap hari."
-        },
-        {
-          "id": 4,
-          "tesk": "Meskipun breakout sering terjadi di area wajah, mereka juga dapat terjadi di bagian tubuh lainnya seperti leher, dada, punggung, dan bahu."
-        },
-        {
-          "id": 5,
-          "tesk": "Untuk mengobati breakout yang sudah muncul, Anda dapat menggunakan produk perawatan kulit yang mengandung bahan aktif seperti asam salisilat atau benzoyl peroxide untuk membantu mengurangi peradangan dan membersihkan pori-pori. Penting juga untuk menghindari menggosok atau memencet jerawat, karena hal ini dapat memperparah kondisi kulit. Jika breakout parah atau tidak kunjung membaik, konsultasikan dengan dokter kulit untuk perawatan yang lebih lanjut.        "
-        }
+        "Breakout adalah istilah yang digunakan untuk menggambarkan kondisi kulit di mana terjadi penumpukan minyak, sel kulit mati, dan bakteri di pori-pori, yang menghasilkan jerawat, komedo, dan masalah kulit lainnya.",
+        "Penyebab utama dari breakout adalah penumpukan minyak, sel kulit mati, dan bakteri di pori-pori kulit. Faktor lain seperti hormon, pola makan, stres, dan kebersihan kulit juga dapat mempengaruhi kemunculan breakout.",
+        "Beberapa cara mencegah breakout pada kulit termasuk menjaga kebersihan kulit dengan mencuci wajah secara teratur, menggunakan produk perawatan kulit yang sesuai dengan jenis kulit, menghindari penggunaan produk yang mengandung bahan kimia keras, menjaga pola makan yang sehat, mengelola stres, dan menggunakan tabir surya setiap hari.",
+        "Meskipun breakout sering terjadi di area wajah, mereka juga dapat terjadi di bagian tubuh lainnya seperti leher, dada, punggung, dan bahu.",
+        "Untuk mengobati breakout yang sudah muncul, Anda dapat menggunakan produk perawatan kulit yang mengandung bahan aktif seperti asam salisilat atau benzoyl peroxide untuk membantu mengurangi peradangan dan membersihkan pori-pori. Penting juga untuk menghindari menggosok atau memencet jerawat, karena hal ini dapat memperparah kondisi kulit. Jika breakout parah atau tidak kunjung membaik, konsultasikan dengan dokter kulit untuk perawatan yang lebih lanjut.        "
       ],
 
       "rekomendasi": [
@@ -1128,28 +616,16 @@
     },
 
     {
-      "kategori": "Hiperpigmentasi",
+      "kategori": "hiperpigmentasi",
       "pertanyaan": [
-        { "id": 1, "tesk": "apa yang dimaksud hiperpigmentasi pada kulit" },
-        { "id": 2, "tesk": "Apa penyebab hiperpigmentasi pada kulit" },
-        {
-          "id": 3,
-          "tesk": "Bagaimana cara mengatasi hiperpigmentasi pada kulit"
-        }
+        "apa yang itu pada kulit",
+        "Apa penyebab hiperpigmentasi pada kulit",
+        "Bagaimana cara mengatasi hiperpigmentasi pada kulit"
       ],
       "jawaban": [
-        {
-          "id": 1,
-          "tesk": "Hiperpigmentasi adalah kondisi di mana bagian-bagian kulit menjadi lebih gelap dari warna kulit normal sekitarnya. Ini terjadi karena produksi melanin (pigmen yang memberi warna pada kulit) meningkat di area tertentu. Hiperpigmentasi dapat disebabkan oleh berbagai faktor, termasuk: Paparan sinar matahari, Trauma pada kulit, Perubahan hormon, Peradangan kulit, dan Penuaan. Paparan sinar UV dari matahari dapat merangsang produksi melanin, yang dapat menyebabkan hiperpigmentasi, seperti bintik-bintik penuaan, lentigo (bintik-bintik tua), dan melasma. Cedera atau peradangan pada kulit, termasuk luka, jerawat, atau peradangan kulit lainnya, dapat memicu produksi melanin yang berlebihan di area tersebut. Fluktuasi hormon, seperti selama kehamilan, penggunaan pil kontrasepsi, atau terapi hormon, juga dapat menyebabkan hiperpigmentasi, seperti melasma (mask of pregnancy). Beberapa kondisi peradangan kulit, seperti dermatitis atau eksim, juga dapat meningkatkan produksi melanin di area yang terkena. Selain itu, proses penuaan alami juga dapat menyebabkan hiperpigmentasi, seperti bintik-bintik penuaan atau lentigo."
-        },
-        {
-          "id": 2,
-          "tesk": "Hiperpigmentasi dapat disebabkan oleh berbagai faktor, termasuk paparan sinar matahari, trauma pada kulit, perubahan hormon, peradangan kulit, dan penuaan. Paparan sinar UV dari matahari dapat merangsang produksi melanin, yang dapat menyebabkan hiperpigmentasi seperti bintik-bintik penuaan, lentigo, dan melasma. Cedera atau peradangan pada kulit, termasuk luka, jerawat, atau peradangan kulit lainnya, dapat memicu produksi melanin yang berlebihan di area tersebut. Fluktuasi hormon, seperti selama kehamilan atau penggunaan pil kontrasepsi, juga dapat menyebabkan hiperpigmentasi seperti melasma. Beberapa kondisi peradangan kulit, seperti dermatitis atau eksim, juga dapat meningkatkan produksi melanin di area yang terkena. Selain itu, proses penuaan alami juga dapat menyebabkan hiperpigmentasi seperti bintik-bintik penuaan atau lentigo."
-        },
-        {
-          "id": 3,
-          "tesk": "Pengobatan hiperpigmentasi dapat melibatkan penggunaan krim pemutih yang mengandung bahan-bahan seperti hidrokuinon, asam kojik, atau asam azelaat, prosedur medis seperti terapi laser atau terapi cahaya intensif, serta perawatan rutin yang melibatkan penggunaan tabir surya setiap hari, eksfoliasi, dan pelembap yang mengandung bahan-bahan yang mencerahkan kulit. Penting juga untuk menghindari paparan sinar matahari berlebih dan melindungi kulit dengan menggunakan pelindung matahari dengan SPF yang cukup tinggi."
-        }
+        "Hiperpigmentasi adalah kondisi di mana bagian-bagian kulit menjadi lebih gelap dari warna kulit normal sekitarnya. Ini terjadi karena produksi melanin (pigmen yang memberi warna pada kulit) meningkat di area tertentu. Hiperpigmentasi dapat disebabkan oleh berbagai faktor, termasuk: Paparan sinar matahari, Trauma pada kulit, Perubahan hormon, Peradangan kulit, dan Penuaan. Paparan sinar UV dari matahari dapat merangsang produksi melanin, yang dapat menyebabkan hiperpigmentasi, seperti bintik-bintik penuaan, lentigo (bintik-bintik tua), dan melasma. Cedera atau peradangan pada kulit, termasuk luka, jerawat, atau peradangan kulit lainnya, dapat memicu produksi melanin yang berlebihan di area tersebut. Fluktuasi hormon, seperti selama kehamilan, penggunaan pil kontrasepsi, atau terapi hormon, juga dapat menyebabkan hiperpigmentasi, seperti melasma (mask of pregnancy). Beberapa kondisi peradangan kulit, seperti dermatitis atau eksim, juga dapat meningkatkan produksi melanin di area yang terkena. Selain itu, proses penuaan alami juga dapat menyebabkan hiperpigmentasi, seperti bintik-bintik penuaan atau lentigo.",
+        "Hiperpigmentasi dapat disebabkan oleh berbagai faktor, termasuk paparan sinar matahari, trauma pada kulit, perubahan hormon, peradangan kulit, dan penuaan. Paparan sinar UV dari matahari dapat merangsang produksi melanin, yang dapat menyebabkan hiperpigmentasi seperti bintik-bintik penuaan, lentigo, dan melasma. Cedera atau peradangan pada kulit, termasuk luka, jerawat, atau peradangan kulit lainnya, dapat memicu produksi melanin yang berlebihan di area tersebut. Fluktuasi hormon, seperti selama kehamilan atau penggunaan pil kontrasepsi, juga dapat menyebabkan hiperpigmentasi seperti melasma. Beberapa kondisi peradangan kulit, seperti dermatitis atau eksim, juga dapat meningkatkan produksi melanin di area yang terkena. Selain itu, proses penuaan alami juga dapat menyebabkan hiperpigmentasi seperti bintik-bintik penuaan atau lentigo.",
+        "Pengobatan hiperpigmentasi dapat melibatkan penggunaan krim pemutih yang mengandung bahan-bahan seperti hidrokuinon, asam kojik, atau asam azelaat, prosedur medis seperti terapi laser atau terapi cahaya intensif, serta perawatan rutin yang melibatkan penggunaan tabir surya setiap hari, eksfoliasi, dan pelembap yang mengandung bahan-bahan yang mencerahkan kulit. Penting juga untuk menghindari paparan sinar matahari berlebih dan melindungi kulit dengan menggunakan pelindung matahari dengan SPF yang cukup tinggi."
       ],
 
       "rekomendasi": [
@@ -1169,35 +645,19 @@
     },
 
     {
-      "kategori": "Eczema",
+      "kategori": "eczema",
       "pertanyaan": [
-        { "id": 1, "tesk": "apa yang dimaksud dengan eczema" },
-        { "id": 2, "tesk": "Apa saja tanda dan gejala eczema" },
-        { "id": 3, "tesk": "Apa penyebab utama dari eczema" },
-        { "id": 4, "tesk": "Apakah eczema bisa disembuhkan" },
-        { "id": 5, "tesk": "Bagaimana cara mengelola gatal pada eczema" }
+        "apa yang dimaksud dengan eczema",
+        "Apa penyebab utama dari eczema",
+        "Apakah eczema bisa disembuhkan",
+        "Bagaimana cara mengelola gatal pada eczema"
       ],
       "jawaban": [
-        {
-          "id": 1,
-          "tesk": "Eczema, juga dikenal sebagai dermatitis atopik, adalah kondisi kulit kronis yang menyebabkan kulit menjadi meradang, gatal, kering, dan sering kali berubah warna. Ini adalah salah satu jenis gangguan kulit yang paling umum, terutama pada anak-anak, meskipun bisa juga mempengaruhi orang dewasa. Tanda dan gejala eczema bisa bervariasi dari ringan hingga parah, dan bisa mencakup: Kulit kering, kasar, dan bersisik. Ruam merah atau bengkak. Gatal yang intens, terutama pada malam hari. Penebalan kulit atau perubahan warna. Luka terbuka akibat menggaruk."
-        },
-        {
-          "id": 2,
-          "tesk": "Tanda dan gejala eczema bisa bervariasi dari ringan hingga parah, dan bisa mencakup: Kulit kering, kasar, dan bersisik. Ruam merah atau bengkak. Gatal yang intens, terutama pada malam hari. Penebalan kulit atau perubahan warna. Luka terbuka akibat menggaruk."
-        },
-        {
-          "id": 3,
-          "tesk": "Penyebab eczema tidak sepenuhnya dipahami, tetapi diyakini bahwa kombinasi faktor genetik dan lingkungan dapat memainkan peran. Faktor risiko termasuk riwayat keluarga dengan riwayat atopi, alergi, atau asma. Paparan alergen atau iritan tertentu, stres, cuaca yang ekstrem, atau infeksi kulit juga dapat memicu atau memperburuk keadaan eczema."
-        },
-        {
-          "id": 4,
-          "tesk": "Saat ini, eczema tidak memiliki penyembuhan permanen. Namun, pengelolaan yang tepat termasuk perawatan kulit yang teratur, penggunaan pelembap, penghindaran pemicu yang diketahui, dan penggunaan obat-obatan topikal atau oral seperti kortikosteroid atau antihistamin dapat membantu mengendalikan gejala dan mencegah flare-up."
-        },
-        {
-          "id": 5,
-          "tesk": "Mengelola gatal pada eczema melibatkan menjaga kulit tetap lembap dengan menggunakan pelembap secara teratur, menghindari faktor pemicu seperti iritasi kulit atau alergen, menghindari menggaruk yang berlebihan, memakai pakaian yang lembut dan longgar, serta menggunakan obat antipruritik atau kompres dingin untuk meredakan gatal."
-        }
+        "Eczema, juga dikenal sebagai dermatitis atopik, adalah kondisi kulit kronis yang menyebabkan kulit menjadi meradang, gatal, kering, dan sering kali berubah warna. Ini adalah salah satu jenis gangguan kulit yang paling umum, terutama pada anak-anak, meskipun bisa juga mempengaruhi orang dewasa. Tanda dan gejala eczema bisa bervariasi dari ringan hingga parah, dan bisa mencakup: Kulit kering, kasar, dan bersisik. Ruam merah atau bengkak. Gatal yang intens, terutama pada malam hari. Penebalan kulit atau perubahan warna. Luka terbuka akibat menggaruk.",
+        "Tanda dan gejala eczema bisa bervariasi dari ringan hingga parah, dan bisa mencakup: Kulit kering, kasar, dan bersisik. Ruam merah atau bengkak. Gatal yang intens, terutama pada malam hari. Penebalan kulit atau perubahan warna. Luka terbuka akibat menggaruk.",
+        "Penyebab eczema tidak sepenuhnya dipahami, tetapi diyakini bahwa kombinasi faktor genetik dan lingkungan dapat memainkan peran. Faktor risiko termasuk riwayat keluarga dengan riwayat atopi, alergi, atau asma. Paparan alergen atau iritan tertentu, stres, cuaca yang ekstrem, atau infeksi kulit juga dapat memicu atau memperburuk keadaan eczema.",
+        "Saat ini, eczema tidak memiliki penyembuhan permanen. Namun, pengelolaan yang tepat termasuk perawatan kulit yang teratur, penggunaan pelembap, penghindaran pemicu yang diketahui, dan penggunaan obat-obatan topikal atau oral seperti kortikosteroid atau antihistamin dapat membantu mengendalikan gejala dan mencegah flare-up.",
+        "Mengelola gatal pada eczema melibatkan menjaga kulit tetap lembap dengan menggunakan pelembap secara teratur, menghindari faktor pemicu seperti iritasi kulit atau alergen, menghindari menggaruk yang berlebihan, memakai pakaian yang lembut dan longgar, serta menggunakan obat antipruritik atau kompres dingin untuk meredakan gatal."
       ],
 
       "rekomendasi": [

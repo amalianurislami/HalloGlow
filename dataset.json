@@ -2,6 +2,7 @@
   "masalah_kulit": [
     {
       "kategori": "greeting",
+      "permasalahan kulit": [],
       "pertanyaan": ["hallo", "hai", "halo", "hei", "hi", "hy", "helo"],
       "jawaban": [
         "Halo! Ms.Cici disini. Ada yang bisa saya bantu?",
@@ -9,10 +10,11 @@
         "Hai! Ms.Cici disini. Ada yang bisa saya bantu mengenai info perawatan wajah?"
       ],
       "rekomendasi": [],
-      "produk": []
+       "produk": []
     },
     {
       "kategori": "thanks",
+      "permasalahan kulit": [],
       "pertanyaan": [
         "Thanks",
         "Thank you",
@@ -31,18 +33,20 @@
       "produk": []
     },
     {
-      "kategori": "HalloGlow",
-      "pertanyaan": ["Apa itu HalloGlow?", "HalloGlow", "aplikasi HalloGlow"],
+      "kategori": "AMAGLOW",
+      "permasalahan kulit": [],
+      "pertanyaan": ["Apa itu AmaGlow?", "AmaGlow", "aplikasi AmaGlow"],
       "jawaban": [
-        "HalloGlow adalah aplikasi rekomendasi facecare yang terdapat fitur sistem rekomendasi skincare chatbot",
-        "HalloGlow itu adalah website informasi tentang perawatan wajah dan rekomendasi facecare!",
-        "HalloGlow merupakan suatu aplikasi rekomendasi facecare berbasis website yang berguna untuk mengetahui informasi seputar rekomendasi dan juga perawatan wajah"
+        "AMAGLOW adalah aplikasi rekomendasi facecare yang terdapat fitur sistem rekomendasi skincare chatbot",
+        "AmaGlow itu adalah website informasi tentang perawatan wajah dan rekomendasi facecare!",
+        "AmaGlow merupakan suatu aplikasi rekomendasi facecare berbasis website yang berguna untuk mengetahui informasi seputar rekomendasi dan juga perawatan wajah"
       ],
-      "rekomendasi": [],
+      "rekomendasi" :[],
       "produk": []
     },
     {
       "kategori": "nama",
+      "permasalahan kulit": [],
       "pertanyaan": [
         "nama kamu siapa?",
         "namamu siapa?",
@@ -58,11 +62,12 @@
         "Kenalin, aku Ms.Cici!",
         "Aku Ms.Cici, ada yang mau ditanyain?"
       ],
-      "rekomendasi": [],
+      "rekomendasi":[],
       "produk": []
     },
     {
       "kategori": "goodbye",
+      "permasalahan kulit": [],
       "pertanyaan": [
         "Bye",
         "Byee",
@@ -78,38 +83,56 @@
         "Sampai jumpa lagi!",
         "See u! Senang bisa membantu"
       ],
-      "rekomendasi": [],
+      "rekomendasi" : [],
       "produk": []
     },
 
     {
-      "kategori": "jerawat",
+      "kategori": "Normal to Dry",
+      "permasalahan kulit": [
+        "Kulit Kusam",
+        "Kulit Kering ",
+        "Warna Kulit Tidak Merata"
+      ],
       "pertanyaan": [
-        "apa penyebab jerawat",
-        "apa penyebab utama jerawat",
-        "Jenis Makanan penyebab jerawat?",
-        "cara mengatasi jerawat"
+        "Apa penyebab kulit kusam?",
+        "Bagaimana cara mengatasi kulit kusam?",
+        "Bagaimana cara mencegah kulit kusam?",
+        "Bagaimana cara merawat wajah yang kusam?",
+        "Apakah kebiasaan buruk bisa menyebabkan kulit kusam?",
+        "Apakah kulit kusam bisa sembuh dengan sendirinya?",
+        "Berapa lama waktu yang dibutuhkan untuk mencerahkan kulit yang kusam?",
+        "Apa penyebab kulit kering?",
+        "Bagaimana cara mengatasi kulit kering?",
+        "Bagaimana cara mencegah kulit kering?",
+        "Bagaimana cara merawat wajah dengan kulit kering?",
+        "Apakah kebiasaan buruk bisa menyebabkan kulit kering?",
+        "Apakah kulit kering bisa sembuh dengan sendirinya?",
+        "Berapa lama waktu yang dibutuhkan untuk mengatasi kulit kering?"
       ],
       "jawaban": [
-        "Ada banyak penyebab jerawat tumbuh di wajah seperti stres, paparan sinar matahari, dan polusi. Untuk mengatasi jerawat disarankan untuk memakai produk-produk yang dapat mengatasi jerawat",
-        "Stres dapat memicu produksi hormon stres seperti kortisol, yang dapat merangsang kelenjar minyak untuk menghasilkan lebih banyak minyak. Hal ini dapat menyumbat pori-pori dan menyebabkan jerawat. Untuk mengatasi jerawat disarankan untuk memakai produk-produk yang dapat mengatasi jerawat",
-        "Paparan sinar matahari yang berlebihan dapat menyebabkan kulit mengering dan mengelupas. Namun, hal ini juga dapat merangsang kelenjar minyak untuk menghasilkan lebih banyak minyak, yang dapat menyebabkan penyumbatan pori-pori dan jerawat. Untuk mengatasi jerawat disarankan untuk memakai produk-produk yang dapat mengatasi jerawat",
-        "Polusi udara dapat menyebabkan peradangan pada kulit dan memperburuk kondisi jerawat. Partikel polusi yang menempel pada kulit dapat menyumbat pori-pori dan merangsang produksi minyak berlebihan, yang pada gilirannya dapat menyebabkan jerawat. Untuk mengatasi jerawat disarankan untuk memakai produk-produk yang dapat mengatasi jerawat",
-        "Pola makan yang tinggi gula, lemak jenuh, dan produk susu dapat meningkatkan risiko jerawat pada beberapa individu. Makanan tinggi gula dapat meningkatkan kadar insulin dalam tubuh, yang dapat memicu produksi hormon yang berkontribusi pada pembentukan jerawat. Untuk mengatasi jerawat disarankan untuk memakai produk-produk yang dapat mengatasi jerawat",
-        "Peran genetik dalam kecenderungan seseorang untuk mengalami jerawat bisa signifikan. Jika salah satu atau kedua orang tua memiliki riwayat jerawat yang parah, kemungkinan besar anak mereka juga akan mengalami masalah serupa. Untuk mengatasi jerawat disarankan untuk memakai produk-produk yang dapat mengatasi jerawat",
-        "Ada kemungkinan bahwa penggunaan produk perawatan kulit tertentu yang mengandung bahan-bahan komedogenik atau iritasi dapat memicu kemunculan jerawat pada sebagian orang. Oleh karena itu, penting untuk memilih produk yang sesuai dengan jenis kulit dan memperhatikan reaksi kulit setelah penggunaan produk tersebut. Untuk mengatasi jerawat disarankan untuk memakai produk-produk yang dapat mengatasi jerawat",
-        "Jerawat merupakan masalah kulit yang umum terjadi pada banyak orang, dan faktor diet seringkali menjadi pertimbangan ketika membahas penyebabnya. Beberapa jenis makanan telah dikaitkan dengan peningkatan risiko jerawat pada sebagian individu. Makanan berlemak dan berminyak, seperti makanan cepat saji dan gorengan, dapat meningkatkan produksi minyak di kulit, yang memperparah jerawat. Selain itu, produk susu, terutama susu skim, dan dan makanan dengan indeks glikem. Untuk mengatasi jerawat disarankan untuk memakai produk-produk yang dapat mengatasi jerawat"
+        "Kulit kusam bisa disebabkan oleh kurang tidur, stres, paparan sinar matahari berlebih, polusi udara, dehidrasi, pola makan yang buruk, serta kurangnya perawatan kulit yang tepat seperti jarang membersihkan wajah.",
+        "Mengatasi kulit kusam bisa dilakukan dengan rutin membersihkan wajah, menggunakan produk pencerah yang mengandung bahan seperti vitamin C atau niacinamide, cukup tidur, mengonsumsi makanan sehat, dan rutin menggunakan pelembap yang cocok untuk jenis kulit.",
+        "Untuk mencegah kulit kusam, hindari paparan sinar matahari langsung tanpa perlindungan, konsumsi makanan bergizi, tidur yang cukup, dan rutin membersihkan wajah dari kotoran dan makeup. Gunakan sunscreen setiap hari untuk melindungi kulit dari UV.",
+        "Merawat wajah kusam melibatkan penggunaan pembersih yang lembut, serum pencerah seperti yang mengandung vitamin C, rutin memakai pelembap, serta menjaga kelembapan kulit. Juga, hindari kebiasaan merokok dan kurangi konsumsi alkohol yang dapat merusak kulit.",
+        "Kebiasaan buruk seperti merokok, kurang tidur, konsumsi makanan yang tinggi gula dan lemak, serta stres bisa menyebabkan kulit kusam. Paparan polusi udara dan jarang membersihkan wajah juga berkontribusi pada masalah ini.",
+        "Kulit kusam tidak akan sembuh dengan sendirinya tanpa perawatan yang tepat. Dengan perawatan rutin menggunakan produk yang sesuai dan pola hidup sehat, kulit kusam bisa membaik secara bertahap.",
+        "Waktu yang dibutuhkan untuk mencerahkan kulit kusam bervariasi tergantung pada perawatan yang dilakukan. Dalam beberapa minggu dengan perawatan yang tepat, kulit bisa menunjukkan perubahan, tetapi untuk hasil maksimal, bisa memakan waktu beberapa bulan.",
+        "Kulit kering bisa disebabkan oleh cuaca yang kering, penggunaan produk perawatan kulit yang mengandung bahan keras, kurangnya kelembapan udara, mandi dengan air panas, dan kebiasaan jarang mengonsumsi air yang cukup.",
+        "Untuk mengatasi kulit kering, gunakan pelembap yang cocok dengan jenis kulit, hindari penggunaan sabun yang mengandung bahan keras, dan pastikan tubuh terhidrasi dengan cukup air.",
+        "Mencegah kulit kering bisa dilakukan dengan menggunakan pelembap setiap hari, menghindari mandi dengan air panas, dan memastikan udara di sekitar tetap lembap, terutama saat cuaca kering.",
+        "Merawat wajah dengan kulit kering melibatkan penggunaan pembersih wajah yang lembut dan tidak mengandung alkohol, serta pelembap yang mengandung bahan seperti ceramide atau hyaluronic acid untuk menjaga kelembapan.",
+        "Kebiasaan buruk seperti mandi dengan air panas, kurang tidur, merokok, dan mengonsumsi sedikit air bisa menyebabkan kulit kering. Kebiasaan ini mengurangi kelembapan kulit dan memperburuk kondisinya.",
+        "Kulit kering bisa sembuh dengan perawatan yang tepat, tetapi tidak akan sembuh dengan sendirinya tanpa perubahan kebiasaan atau penggunaan produk yang sesuai.",
+        "Waktu yang dibutuhkan untuk mengatasi kulit kering bervariasi tergantung pada penyebab dan perawatan yang dilakukan, tetapi dengan perawatan yang tepat, kulit bisa mulai membaik dalam beberapa hari hingga minggu." 
       ],
       "rekomendasi": [
-        "La Roche Posay Effaclar Purifying Foaming Gel 200 ml",
-        "La Roche Posay Effaclar Duo+M 40 ml",
-        "La Roche Posay Anthelios UV Mune 400 Oil Control Gel Cream 15 ml",
-        "La Roche Posay Effaclar H Iso-Biome Ultra Soothing Hydrating Care 40 ml",
-        "La Roche Posay Effaclar H Iso-Biome Soothing Cleansing Cream 200 ml",
-        "La Roche Posay Spot Scan Acne Fighter Essentials Package",
-        "SKIN1004 Madagascar Centella Cream",
-        "SKIN1004 Madagascar Centella Ampoule",
-        "SKIN1004 Madagascar Centella Toning Toner"
+        "Milk Cleanser for normal to dry",
+        "Facial wash for normal to dry",
+        "Toner for normal to dry",
+        "Sunscreen Glowing",
+        "Serum Vitamin C",
+        "Night Cream"
       ],
       "produk": [
         "La_Roche_Posay_Effaclar_Purifying_Foaming_Gel_200_ml.jpeg",
@@ -125,31 +148,120 @@
     },
 
     {
-      "kategori": "bekas_jerawat",
+      "kategori": "Oily Acne",
+      "permasalahan kulit": [
+        "Pori-pori Besar",
+        "Jerawat",
+        "Brekout setelah menggunakan produk baru",
+        "Komedo",
+        "Flek Hitam",
+        "Bekas Jerawat",
+        "Kulit Berminyak"
+      ],
       "pertanyaan": [
-        "bekas jerawat adalah ?",
-        "cara mengatasih PIH dan PIE ?",
-        "apa penyebab PIH dan PIE ?"
+        "Apa penyebab pori-pori besar?",
+        "Bagaimana cara mengatasi pori-pori besar?",
+        "Bagaimana cara mencegah pori-pori besar?",
+        "Bagaimana cara merawat wajah dengan pori-pori besar?",
+        "Apakah kebiasaan buruk bisa menyebabkan pori-pori besar?",
+        "Apakah pori-pori besar bisa sembuh dengan sendirinya?",
+        "Berapa lama waktu yang dibutuhkan untuk mengecilkan pori-pori besar?",
+        "Apa penyebab jerawat?",
+        "Bagaimana cara mengatasi jerawat?",
+        "Bagaimana cara mencegah jerawat?",
+        "Bagaimana cara merawat wajah yang berjerawat?",
+        "Apakah menggunakan make-up bisa menyebabkan jerawat?",
+        "Apakah jerawat bisa sembuh dengan sendirinya?",
+        "Berapa lama waktu yang dibutuhkan untuk menghilangkan jerawat?",
+        "Apa penyebab munculnya komedo?",
+        "Bagaimana cara mengatasi komedo?",
+        "Bagaimana cara mencegah komedo muncul kembali?",
+        "Bagaimana cara merawat wajah yang berkomedo?",
+        "Apakah kebiasaan buruk bisa menyebabkan komedo?",
+        "Apakah komedo bisa hilang dengan sendirinya?",
+        "Berapa lama waktu yang dibutuhkan untuk menghilangkan komedo?",
+        "Apa penyebab flek hitam?",
+        "Bagaimana cara mengatasi flek hitam?",
+        "Bagaimana cara mencegah flek hitam?",
+        "Bagaimana cara merawat wajah dengan flek hitam?",
+        "Apakah kebiasaan buruk bisa menyebabkan flek hitam?",
+        "Apakah flek hitam bisa sembuh dengan sendirinya?",
+        "Berapa lama waktu yang dibutuhkan untuk menghilangkan flek hitam?",
+        "Apa penyebab kulit bekas jerawat?",
+        "Bagaimana cara mengatasi kulit bekas jerawat?",
+        "Bagaimana cara mencegah kulit bekas jerawat?",
+        "Bagaimana cara merawat wajah dengan kulit bekas jerawat?",
+        "Apakah kebiasaan buruk bisa menyebabkan kulit bekas jerawat?",
+        "Apakah kulit bekas jerawat bisa sembuh dengan sendirinya?",
+        "Berapa lama waktu yang dibutuhkan untuk menghilangkan kulit bekas jerawat?",
+        "Apa penyebab kulit berminyak berlebih?",
+        "Bagaimana cara mengatasi kulit berminyak berlebih?",
+        "Bagaimana cara mencegah kulit berminyak berlebih?",
+        "Bagaimana cara merawat wajah dengan kulit berminyak berlebih?",
+        "Apakah kebiasaan buruk bisa menyebabkan kulit berminyak berlebih?",
+        "Apakah kulit berminyak berlebih bisa sembuh dengan sendirinya?",
+        "Berapa lama waktu yang dibutuhkan untuk mengatasi kulit berminyak berlebih?"
       ],
       "jawaban": [
-        "Bekas jerawat adalah noda atau bercak pada kulit yang muncul setelah jerawat sembuh. Mereka bisa berupa bercak merah, coklat, atau bekas luka akibat peradangan. ada 2 jenis bekas jerawat yaitu PIE dan PIH dimana PIE (Post-Inflammatory Erythema) adalah bercak merah atau kemerahan bekas jerawat karena peradangan yang memicu pelebaran pembuluh darah. Sedangkan PIH (Post-Inflammatory Hyperpigmentation) adalah bekas jerawat berwarna gelap atau hiperpigmentasi akibat peningkatan produksi melanin. Perawatan tergantung pada jenis bekas jerawat, dan konsultasi dengan dokter kulit diperlukan untuk perawatan yang sesuai. ",
-        "Untuk mengatasi PIH (Post-Inflammatory Hyperpigmentation), gunakan tabir surya setiap hari, krim pencerah kulit, dan eksfoliasi teratur. Perawatan medis seperti laser juga bisa membantu. Konsultasikan dengan dokter kulit untuk perawatan yang tepat, sedangkan Untuk mengatasi PIE (Post-Inflammatory Erythema), gunakan tabir surya dan produk anti-inflamasi seperti niacinamide atau azelaic acid. Perawatan medis seperti laser atau terapi cahaya juga bisa membantu. Konsultasikan dengan dokter kulit untuk perawatan yang tepat. ",
-        "Penyebab utama PIH (Post-Inflammatory Hyperpigmentation) adalah peradangan pada kulit, seperti jerawat atau luka, yang meningkatkan produksi melanin. Sementara PIE (Post-Inflammatory Erythema) disebabkan oleh pelebaran pembuluh darah pada kulit akibat peradangan, yang menghasilkan bercak merah setelah jerawat sembuh. Faktor genetika dan jenis kulit juga memainkan peran dalam keduanya."
+        "Pori-pori besar biasanya disebabkan oleh produksi minyak berlebih, penumpukan kotoran dan sel kulit mati, serta faktor genetik. Paparan sinar matahari berlebih dan penuaan juga dapat menyebabkan pori-pori membesar.",
+        "Mengatasi pori-pori besar bisa dilakukan dengan rutin membersihkan wajah, menggunakan produk yang mengandung bahan seperti asam salisilat, retinol, atau niacinamide. Penggunaan masker pori-pori dan eksfoliasi juga dapat membantu mengecilkan pori.",
+        "Untuk mencegah pori-pori besar, penting untuk rutin membersihkan wajah, menggunakan sunscreen setiap hari, dan menghindari kebiasaan meremas wajah atau komedo. Jaga pola makan sehat dan minum cukup air untuk mendukung kesehatan kulit.",
+        "Merawat wajah dengan pori-pori besar melibatkan penggunaan pembersih wajah yang cocok untuk jenis kulit, serum dengan bahan aktif seperti retinol atau niacinamide, dan pelembap non-komedogenik. Lakukan eksfoliasi secara teratur untuk menjaga pori-pori tetap bersih.",
+        "Kebiasaan buruk seperti tidak membersihkan wajah dengan baik, meremas wajah, atau menggunakan produk yang menyumbat pori-pori bisa memperburuk kondisi pori-pori besar. Paparan sinar matahari tanpa perlindungan dan merokok juga dapat memperbesar pori.",
+        "Pori-pori besar tidak bisa sembuh dengan sendirinya tanpa perawatan yang tepat. Dengan penggunaan produk yang sesuai dan menjaga kebersihan kulit, pori-pori bisa terlihat lebih kecil seiring waktu.",
+        "Waktu yang dibutuhkan untuk mengecilkan pori-pori besar bervariasi tergantung pada perawatan yang dilakukan. Biasanya, perubahan bisa terlihat dalam beberapa minggu hingga beberapa bulan dengan perawatan yang konsisten.",
+        "Jerawat bisa muncul karena stres, makan makanan berminyak atau manis, kurang tidur, atau kebiasaan tidak membersihkan wajah dengan baik setelah aktivitas seperti berolahraga atau memakai makeup.",
+        "Cuci wajah secara teratur, hindari menyentuh wajah dengan tangan kotor, dan pastikan tidur cukup. Gunakan produk yang ringan untuk wajah dan hindari produk yang berat atau berbahan kimia keras.",
+        "Hindari terlalu sering menyentuh wajah, bersihkan wajah setelah beraktivitas, dan perhatikan kebersihan handphone atau bantal yang sering kontak dengan wajah.",
+        "Gunakan sabun wajah yang lembut, jangan terlalu sering mencuci muka, dan pastikan wajah tetap terhidrasi dengan pelembap yang cocok untuk kulit berjerawat.",
+        "Make-up bisa menyebabkan jerawat kalau tidak dibersihkan dengan benar atau jika produk yang digunakan mengandung bahan yang menyumbat pori-pori. Pastikan membersihkan wajah dengan baik sebelum tidur.",
+        "Kadang-kadang jerawat ringan bisa hilang dengan sendirinya dalam beberapa hari, tetapi jika jerawat terus muncul, biasanya butuh perhatian dan perawatan khusus.",
+        "Jerawat bisa memakan waktu beberapa minggu hingga bulan untuk sembuh, tergantung seberapa parah dan apa yang dilakukan untuk mengobatinya.",
+        "Komedo biasanya disebabkan oleh penyumbatan pori-pori akibat minyak, sel kulit mati, dan kotoran. Faktor hormonal, diet, dan penggunaan produk kosmetik yang tidak cocok juga dapat berkontribusi.",
+        "Untuk mengatasi komedo, Anda bisa menggunakan produk exfoliant yang mengandung asam salisilat atau retinoid. Pembersihan wajah secara rutin dan penggunaan masker dapat membantu mengangkat kotoran.",
+        "Untuk mencegah komedo, jaga kebersihan wajah dengan mencuci dua kali sehari, gunakan produk non-komedogenik, dan lakukan eksfoliasi secara teratur. Hindari menyentuh wajah dan gunakan kosmetik yang ringan.",
+        "Merawat wajah yang berkomedo melibatkan rutinitas pembersihan yang baik, menggunakan produk yang diformulasikan untuk kulit berkomedo, dan menghindari produk berminyak atau berat. Mengunjungi dokter kulit juga bisa membantu.",
+        "Kebiasaan buruk seperti tidak membersihkan wajah dengan baik, menggunakan produk yang tidak cocok, dan menyentuh wajah dapat menyebabkan penumpukan kotoran dan minyak, sehingga meningkatkan risiko komedo.",
+        "Dalam beberapa kasus, komedo dapat hilang dengan sendirinya, terutama jika tidak terlalu parah. Namun, perawatan yang tepat biasanya diperlukan untuk menghilangkan dan mencegahnya kembali.",
+        "Waktu yang dibutuhkan untuk menghilangkan komedo bervariasi tergantung pada keparahan dan metode yang digunakan. Dengan perawatan yang tepat, komedo ringan bisa hilang dalam beberapa minggu, sementara yang lebih parah mungkin memerlukan waktu lebih lama.",
+        "Flek hitam sering kali disebabkan oleh paparan sinar matahari berlebih, peradangan dari jerawat, bekas luka, atau kondisi kulit lainnya. Faktor-faktor seperti penuaan, penggunaan produk yang tidak cocok, atau kebiasaan buruk seperti merokok juga bisa memperburuk kondisi ini.",
+        "Untuk mengatasi flek hitam, gunakan produk perawatan kulit yang mengandung bahan pencerah seperti vitamin C, niacinamide, atau asam glikolat. Penggunaan sunscreen setiap hari juga penting untuk melindungi kulit dari paparan sinar UV yang bisa memperburuk flek hitam.",
+        "Mencegah flek hitam bisa dilakukan dengan menggunakan sunscreen setiap hari, menghindari paparan sinar matahari langsung, dan tidak memencet jerawat atau luka yang bisa meninggalkan bekas. Menjaga pola makan sehat dan tidur yang cukup juga dapat membantu mencegah flek hitam.",
+        "Merawat wajah dengan flek hitam melibatkan penggunaan produk pencerah seperti serum vitamin C atau niacinamide, serta pelembap yang sesuai dengan jenis kulit. Pastikan juga untuk rutin membersihkan wajah dan menggunakan sunscreen setiap hari.",
+        "Ya, kebiasaan buruk seperti merokok, kurang tidur, stres, dan paparan sinar matahari tanpa perlindungan bisa memperburuk kondisi kulit dan menyebabkan flek hitam. Kebiasaan ini dapat mengurangi kemampuan kulit untuk memperbaiki dirinya sendiri.",
+        "Flek hitam tidak akan sembuh dengan sendirinya tanpa perawatan yang tepat. Perawatan kulit yang teratur dan penggunaan produk pencerah bisa membantu memudarkan flek hitam secara bertahap.",
+        "Waktu yang dibutuhkan untuk menghilangkan flek hitam bervariasi tergantung pada tingkat keparahan dan perawatan yang dilakukan. Dengan perawatan yang rutin dan tepat, perubahan dapat terlihat dalam beberapa minggu, tetapi untuk hasil maksimal bisa memakan waktu beberapa bulan.",
+        "Kulit bekas jerawat bisa disebabkan oleh peradangan yang terjadi saat jerawat sembuh, yang meninggalkan bekas hitam atau lubang pada kulit. Faktor lainnya termasuk kebiasaan memencet jerawat, paparan sinar matahari, atau kulit sensitif yang mudah iritasi.",
+        "Mengatasi kulit bekas jerawat dapat dilakukan dengan menggunakan produk yang mengandung bahan pemudarkan noda seperti vitamin C, niacinamide, atau asam glikolat. Perawatan seperti mikrodermabrasi atau laser juga bisa membantu memperbaiki tekstur kulit.",
+        "Untuk mencegah bekas jerawat, hindari memencet jerawat, selalu gunakan sunscreen, dan jaga kebersihan kulit agar tidak terinfeksi. Penggunaan produk yang menenangkan kulit juga dapat membantu mencegah iritasi yang bisa memperburuk bekas jerawat.",
+        "Merawat wajah dengan bekas jerawat melibatkan penggunaan produk yang dapat mempercepat regenerasi kulit seperti retinoid, serum pencerah, dan pelembap. Selain itu, penting untuk menjaga kebersihan kulit dan melindunginya dari sinar UV dengan menggunakan sunscreen.",
+        "Kebiasaan buruk seperti memencet jerawat, kurang tidur, atau tidak menjaga kebersihan kulit dapat memperburuk kondisi bekas jerawat. Paparan sinar matahari yang berlebihan juga bisa menyebabkan bekas jerawat menjadi lebih gelap dan sulit hilang.",
+        "Kulit bekas jerawat tidak akan sembuh dengan sendirinya dalam waktu cepat, tetapi dengan perawatan yang tepat, bekas jerawat bisa memudar secara bertahap. Konsistensi dalam menggunakan produk yang tepat penting untuk mempercepat pemulihan.",
+        "Waktu yang dibutuhkan untuk menghilangkan bekas jerawat bervariasi tergantung pada jenis dan tingkat keparahan bekasnya. Biasanya, dengan perawatan yang rutin, perubahan bisa terlihat dalam beberapa minggu, namun untuk hasil maksimal, bisa memakan waktu beberapa bulan.",
+        "Kulit berminyak berlebih dapat disebabkan oleh faktor genetik, hormon, stres, atau pola makan yang buruk. Penggunaan produk perawatan kulit yang tidak sesuai atau terlalu sering mencuci wajah juga dapat memicu produksi minyak berlebih.",
+        "Mengatasi kulit berminyak berlebih bisa dilakukan dengan menggunakan pembersih wajah yang lembut dan tidak mengandung alkohol, serta produk yang mengontrol minyak. Gunakan pelembap ringan yang cocok untuk kulit berminyak dan rutin menggunakan sunscreen.",
+        "Untuk mencegah kulit berminyak berlebih, cuci wajah secara teratur dua kali sehari, hindari penggunaan produk berisiko menyumbat pori, dan pilih produk non-comedogenic. Hindari menyentuh wajah dengan tangan kotor dan perhatikan pola makan sehat.",
+        "Merawat wajah dengan kulit berminyak berlebih melibatkan penggunaan pembersih wajah yang mengontrol minyak, eksfoliasi ringan untuk mengangkat sel kulit mati, dan pelembap yang tidak menyumbat pori. Pilih produk berbahan dasar air dan bebas minyak.",
+        "Kebiasaan buruk seperti jarang membersihkan wajah, mengonsumsi makanan tinggi gula atau lemak, dan stres dapat memperburuk kondisi kulit berminyak. Selain itu, penggunaan produk yang mengandung bahan keras juga bisa menyebabkan peningkatan produksi minyak.",
+        "Kulit berminyak berlebih tidak bisa sembuh dengan sendirinya tanpa perawatan yang tepat. Dengan perawatan yang rutin dan penggunaan produk yang sesuai, kondisi kulit bisa membaik secara bertahap.",
+        "Waktu yang dibutuhkan untuk mengatasi kulit berminyak berlebih bervariasi, tergantung pada kondisi kulit dan perawatan yang dilakukan. Biasanya, perubahan yang signifikan dapat terlihat dalam beberapa minggu dengan perawatan yang konsisten."
       ],
       "rekomendasi": [
-        "NPURE Dark Spot Cica 5 ml",
-        "ADARA Spotless Gel obat totol jerawat kehitaman 20 g",
-        "ADARA Spotless Cream obat totol jerawat kemarahan 20 g"
+        "Cleanser Lotion",
+        "Acne Sulfur Wash",
+        "Sunscreen for acne",
+        "Acne Cream Night",
+        "Serum Flek"
       ],
       "produk": [
-        "NPURE Dark Spot Cica 5 ml.jpeg",
-        "ADARA Spotless Gel obat totol jerawat kehitaman 20 g.jpeg",
-        "ADARA Spotless Cream obat totol jerawat kemarahan 20 g.jpeg"
+        "NPURE_Dark_Spot_Cica_5_ml.jpg",
+        "ADARA_Spotless_Gel_obat_totol_jerawat_kehitaman_20_g.jpg",
+        "ADARA_Spotless_Cream_obat_totol_jerawat_kemarahan_20_g.png"
       ]
     },
 
     {
-      "kategori": "dermatitis_eksem",
+      "kategori": "dermatitis_&_eksem",
       "pertanyaan": [
         "apa penyebab kulit ruam merah",
         "dermatitis adalah?",
@@ -182,7 +294,13 @@
     },
 
     {
-      "kategori": "sensitif_alergi",
+      "kategori": "sensitif_&_alergi",
+      "permasalahan kulit": [
+        "Kulit Sensitif",
+        "Kemerahan",
+        "Gatal atau Terbakar",
+        "Iritasi"
+      ],
       "pertanyaan": [
         "bagaimana jika kulit saya sering alergi karena sensitif terhadap produk tertentu",
         "kulit sensitif ?",
@@ -210,7 +328,11 @@
         " Caladine Powder Original 100 g",
         "Bioderma Atoderm Intensive Baume",
         "QV Intensive Cleanser",
-        "Avoskin Glow Concentrate Treatment 2% Aqua Ceramide + Multi Probiome + Hyaluronic Acid"
+        "Avoskin Glow Concentrate Treatment 2% Aqua Ceramide + Multi Probiome + Hyaluronic Acid",
+        "Cleanser Oil",
+        "Facial Wash for sensitive",
+        "Sunscreen for sensitive",
+        "Night cream for sensitive" 
       ],
       "produk": [
         "Calamed_Lotion_100_ml.jpeg",

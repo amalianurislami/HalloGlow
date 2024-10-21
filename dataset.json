@@ -8,9 +8,7 @@
         "Halo! Ms.Cici disini. Ada yang bisa saya bantu?",
         "Hai! Ada yang bisa saya bantu tentang seputar perawatan wajah?",
         "Hai! Ms.Cici disini. Ada yang bisa saya bantu mengenai info perawatan wajah?"
-      ],
-      "rekomendasi": [],
-       "produk": []
+      ]
     },
     {
       "kategori": "thanks",
@@ -28,9 +26,7 @@
         "Terima kasih kembali, semoga informasi yang kami berikan bermanfaat.",
         "Tidak ada masalah, senang bisa memberikan bantuan.",
         "Senang bisa membantu, silakan hubungi kami lagi jika ada pertanyaan lain."
-      ],
-      "rekomendasi": [],
-      "produk": []
+      ]
     },
     {
       "kategori": "AMAGLOW",
@@ -40,9 +36,7 @@
         "AMAGLOW adalah aplikasi rekomendasi facecare yang terdapat fitur sistem rekomendasi skincare chatbot",
         "AmaGlow itu adalah website informasi tentang perawatan wajah dan rekomendasi facecare!",
         "AmaGlow merupakan suatu aplikasi rekomendasi facecare berbasis website yang berguna untuk mengetahui informasi seputar rekomendasi dan juga perawatan wajah"
-      ],
-      "rekomendasi" :[],
-      "produk": []
+      ]
     },
     {
       "kategori": "nama",
@@ -61,9 +55,7 @@
         "Halo, aku Ms.Cici!",
         "Kenalin, aku Ms.Cici!",
         "Aku Ms.Cici, ada yang mau ditanyain?"
-      ],
-      "rekomendasi":[],
-      "produk": []
+      ]
     },
     {
       "kategori": "goodbye",
@@ -82,9 +74,7 @@
         "bye, semoga harimu menyenangkan yaa!",
         "Sampai jumpa lagi!",
         "See u! Senang bisa membantu"
-      ],
-      "rekomendasi" : [],
-      "produk": []
+      ]
     },
 
     {
@@ -125,25 +115,6 @@
         "Kebiasaan buruk seperti mandi dengan air panas, kurang tidur, merokok, dan mengonsumsi sedikit air bisa menyebabkan kulit kering. Kebiasaan ini mengurangi kelembapan kulit dan memperburuk kondisinya.",
         "Kulit kering bisa sembuh dengan perawatan yang tepat, tetapi tidak akan sembuh dengan sendirinya tanpa perubahan kebiasaan atau penggunaan produk yang sesuai.",
         "Waktu yang dibutuhkan untuk mengatasi kulit kering bervariasi tergantung pada penyebab dan perawatan yang dilakukan, tetapi dengan perawatan yang tepat, kulit bisa mulai membaik dalam beberapa hari hingga minggu." 
-      ],
-      "rekomendasi": [
-        "Milk Cleanser for normal to dry",
-        "Facial wash for normal to dry",
-        "Toner for normal to dry",
-        "Sunscreen Glowing",
-        "Serum Vitamin C",
-        "Night Cream"
-      ],
-      "produk": [
-        "La_Roche_Posay_Effaclar_Purifying_Foaming_Gel_200_ml.jpeg",
-        "La_Roche_Posay_Effaclar_Duo+M_40_ml.jpg",
-        "La_Roche_Posay_Anthelios_UV_Mune_400_Oil_Control_Gel_Cream_15_ml.png",
-        "La_Roche_Posay_Effaclar_H_Iso-Biome_Ultra_Soothing_Hydrating_Care_40_ml.jpg",
-        "La_Roche_Posay_Effaclar_H_Iso-Biome_Soothing_Cleansing_Cream_200_ml.jpg",
-        "La_Roche_Posay_Spot_Scan_Acne_Fighter_Essentials_Package.png",
-        "SKIN1004_Madagascar_Centella_Cream.png",
-        "SKIN1004_Madagascar_Centella_Ampoule.png",
-        "SKIN1004_Madagascar_Centella_Toning_Toner.jpg"
       ]
     },
 
@@ -245,18 +216,6 @@
         "Kebiasaan buruk seperti jarang membersihkan wajah, mengonsumsi makanan tinggi gula atau lemak, dan stres dapat memperburuk kondisi kulit berminyak. Selain itu, penggunaan produk yang mengandung bahan keras juga bisa menyebabkan peningkatan produksi minyak.",
         "Kulit berminyak berlebih tidak bisa sembuh dengan sendirinya tanpa perawatan yang tepat. Dengan perawatan yang rutin dan penggunaan produk yang sesuai, kondisi kulit bisa membaik secara bertahap.",
         "Waktu yang dibutuhkan untuk mengatasi kulit berminyak berlebih bervariasi, tergantung pada kondisi kulit dan perawatan yang dilakukan. Biasanya, perubahan yang signifikan dapat terlihat dalam beberapa minggu dengan perawatan yang konsisten."
-      ],
-      "rekomendasi": [
-        "Cleanser Lotion",
-        "Acne Sulfur Wash",
-        "Sunscreen for acne",
-        "Acne Cream Night",
-        "Serum Flek"
-      ],
-      "produk": [
-        "NPURE_Dark_Spot_Cica_5_ml.jpg",
-        "ADARA_Spotless_Gel_obat_totol_jerawat_kehitaman_20_g.jpg",
-        "ADARA_Spotless_Cream_obat_totol_jerawat_kemarahan_20_g.png"
       ]
     },
 
@@ -280,16 +239,6 @@
         "Perubahan gaya hidup seperti menghindari makanan yang memicu alergi dan menjaga kelembapan kulit dapat membantu mengurangi gejala dermatitis atau eksem.",
         "Eksem sering kali bersifat kronis dan dapat kambuh, meskipun dapat dikelola dengan baik dengan perawatan yang tepat. Beberapa kasus dermatitis juga bisa kronis tergantung pada penyebabnya.",
         "Penggunaan produk perawatan kulit yang lembut dan bebas dari bahan kimia yang keras dapat membantu menjaga kelembapan kulit dan mengurangi iritasi."
-      ],
-      "rekomendasi": [
-        "La Roche Posay Lipikar Baume AP+M 75 ml",
-        "La Roche Posay Thermal Spring Water 150 ml",
-        "Soft U Derm Intensive Hydro Protection Cream 40g"
-      ],
-      "produk": [
-        "La_Roche_Posay_Lipikar_Baume_AP+M_75_ml.png",
-        "La_Roche_Posay_Thermal_Spring_Water_150_ml.jpeg",
-        "Soft_U_Derm_Intensive_Hydro_Protection_Cream_40g.jpg"
       ]
     },
 
@@ -321,26 +270,6 @@
         "Salah satu cara untuk mencegah reaksi alergi adalah dengan memilih produk perawatan kulit yang hypoallergenic, bebas pewangi, dan bebas dari bahan kimia keras. Selain itu, melakukan patch test di bagian kecil kulit sebelum menggunakan produk secara menyeluruh dapat membantu mengidentifikasi potensi reaksi alergi.",
         "Beberapa bahan yang sebaiknya dihindari oleh orang dengan kulit sensitif atau alergi meliputi pewangi buatan, alkohol, pewarna sintetis, dan bahan kimia keras seperti paraben dan sulfat.",
         "Merawat kulit sensitif memerlukan penggunaan produk perawatan kulit yang lembut dan hypoallergenic, serta menjaga kelembapan kulit dengan menggunakan pelembap yang cocok untuk jenis kulit sensitif."
-      ],
-      "rekomendasi": [
-        "Calamed Lotion 100 ml",
-        " La Roche Posay Toleriane Ultra Dermallergo 20 ml",
-        " Caladine Powder Original 100 g",
-        "Bioderma Atoderm Intensive Baume",
-        "QV Intensive Cleanser",
-        "Avoskin Glow Concentrate Treatment 2% Aqua Ceramide + Multi Probiome + Hyaluronic Acid",
-        "Cleanser Oil",
-        "Facial Wash for sensitive",
-        "Sunscreen for sensitive",
-        "Night cream for sensitive" 
-      ],
-      "produk": [
-        "Calamed_Lotion_100_ml.jpeg",
-        "La_Roche_Posay_Toleriane_Ultra_Dermallergo_20_ml.jpg",
-        "Caladine_Powder_Original_100_g.jpg",
-        "Bioderma_Atoderm_Intensive_Baume.jpg",
-        "QV_Intensive_Cleanser.jpg",
-        "Avoskin_Glow_Concentrate_Treatment_2%_Aqua_Ceramide_+_Multi_Probiome_+_Hyaluronic_Acid.jpg"
       ]
     },
 
@@ -366,16 +295,6 @@
         "Beberapa makanan dapat meningkatkan produksi minyak kulit, termasuk makanan berlemak tinggi, produk susu yang mengandung hormon, makanan dengan indeks glikemik tinggi, whey protein, makanan tinggi iodium, gula, karbohidrat olahan, dan makanan dengan pemanis buatan. Namun, faktor genetik, hormon, dan perawatan kulit juga berperan.",
         "Merawat kulit berminyak meliputi membersihkan wajah secara teratur dengan pembersih yang lembut, menghindari penggunaan produk perawatan yang terlalu berat atau berlemak, menggunakan pelembap yang ringan dan tidak berminyak, serta mengikuti pola makan sehat dan menghindari makanan yang dapat memicu jerawat.",
         "Beberapa bahan alami seperti tea tree oil, witch hazel, dan ekstrak lidah buaya memiliki sifat yang dapat membantu mengontrol produksi minyak kulit. Namun, penting untuk melakukan uji coba terlebih dahulu untuk memastikan bahwa bahan-bahan tersebut cocok dengan kulit Anda."
-      ],
-      "rekomendasi": [
-        "Himalaya Purifying Neem Mask 150 ml",
-        "Bio Essence Bio-Renew Exfoliating Gel 60 g",
-        "Loreal Revitalift Crystal Micro Essence 130 ml"
-      ],
-      "produk": [
-        "Himalaya_Purifying_Neem_Mask_150_ml.jpeg",
-        "Bio_Essence_Bio-Renew_Exfoliating_Gel_60_g.jpeg",
-        "Loreal_Revitalift_Crystal_Micro_Essence_130_ml.jpeg"
       ]
     },
 
@@ -400,25 +319,6 @@
         "Mandi dengan air hangat atau air dingin lebih baik untuk kulit kering daripada mandi dengan air panas, karena air panas dapat menghilangkan kelembapan alami kulit. Namun, hindari menggosok kulit secara berlebihan saat mandi dan gunakan pelembap setelah mandi untuk menjaga kelembapan kulit.",
         "Untuk mengatasi ketidaknyamanan yang disebabkan oleh kulit kering, hindari menggaruk kulit yang gatal dan gunakan pelembap atau krim anti-gatal yang mengandung bahan-bahan seperti oatmeal, mentol, atau lidokain. Jika iritasi atau gatal-gatal persisten, konsultasikan dengan dokter atau ahli kulit.",
         "Beberapa makanan yang mengandung lemak sehat, seperti alpukat, ikan berlemak, dan kacang-kacangan, serta minum air yang cukup, dapat membantu meningkatkan kelembapan kulit dari dalam. Namun, tidak ada bukti yang cukup untuk menunjukkan bahwa suplemen tertentu secara khusus dapat meningkatkan kelembapan kulit."
-      ],
-
-      "rekomendasi": [
-        "Wardah Hydrating Aloe Gel 100 ml",
-        "Skin Aqua UV Moisture Milk 40 g",
-        "Hada Labo Ultimate Moisturizing Gokujyun Face Wash 100 ml",
-        "Somethinc Ceramic Skin Saviour Moisturizer Gel 25 ml",
-        " voskin Glow Concentrate Treatment 2% Aqua Ceramide + Multi Probiome + Hyaluronic Acid 15 ml",
-        "Erha21 Erha 1 Facial Wash For Normal & Dry Skin 60 ml",
-        "Verile Moisturizing Gel Active 100 ml"
-      ],
-      "produk": [
-        "Wardah_Hydrating_Aloe_Gel_100_ml.jpeg",
-        "Skin_Aqua_UV_Moisture_Milk_40_g.png",
-        "Hada_Labo_Ultimate_Moisturizing_Gokujyun_Face_Wash_100_ml.jpg",
-        "Somethinc_Ceramic_Skin_Saviour_Moisturizer_Gel_25_ml.jpg",
-        "voskin_Glow_Concentrate_Treatment_2%_Aqua_Ceramide_+_Multi_Probiome_+_Hyaluronic_Acid_15_ml.png",
-        "Erha21_Erha_1_Facial_Wash_For_Normal_&_Dry_Skin_60_ml.png",
-        "Verile_Moisturizing_Gel_Active_100_ml.jpg"
       ]
     },
 
@@ -443,21 +343,6 @@
         "Pemijatan wajah atau facial dapat membantu membersihkan dan merangsang sirkulasi kulit, namun harus dilakukan dengan hati-hati agar tidak merusak kulit atau menyebabkan iritasi.",
         "Beberapa bahan alami seperti tea tree oil, ekstrak lidah buaya, atau gel lidah buaya, serta ekstrak witch hazel memiliki sifat antimikroba dan anti-inflamasi yang dapat membantu mengurangi peradangan dan membersihkan pori-pori, yang dapat membantu mengurangi kemunculan komedo.",
         "Komedo terjadi ketika pori-pori kulit tersumbat dan memerlukan perawatan yang sesuai."
-      ],
-
-      "rekomendasi": [
-        "Illuminare Pore Clear Face Wash 100 g",
-        "Himalaya Purifying Neem Scrub 50 ml",
-        "Cetaphil Gentle Skin Cleanser 59 ml",
-        "Freeman Feeling Beautiful Anti-Stress Dead Sea Minerals Clay Mask 175 ml",
-        "Wardah Nature Daily Tea Tree Oil Control Clay Capsule Mask 10 ml"
-      ],
-      "produk": [
-        "Illuminare_Pore_Clear_Face_Wash_100_g.jpg",
-        "Himalaya_Purifying_Neem_Scrub_50_ml.jpeg",
-        "Cetaphil_Gentle_Skin_Cleanser_59_ml.jpeg",
-        "Freeman_Feeling_Beautiful_Anti-Stress_Dead_Sea_Minerals_Clay_Mask_175_ml.png",
-        "Wardah_Nature_Daily_Tea_Tree_Oil_Control_Clay_Capsule_Mask_10_ml.jpg"
       ]
     },
 
@@ -482,21 +367,6 @@
         "Jenis perawatan yang efektif untuk mengurangi flek hitam termasuk penggunaan krim pemutih atau produk perawatan kulit yang mengandung bahan-bahan seperti asam kojik, asam azelaic, retinoid, atau hidrokuinon, serta prosedur medis seperti terapi laser atau krioterapi. ",
         "Beberapa bahan alami yang dapat membantu mengurangi flek hitam termasuk ekstrak licorice, ekstrak mulberry, ekstrak bearberry, dan vitamin C. Namun, penting untuk berkonsultasi dengan ahli kulit sebelum menggunakan bahan-bahan ini untuk perawatan kulit.",
         "Merawat kulit yang mengalami hiperpigmentasi meliputi penggunaan tabir surya setiap hari, penggunaan produk perawatan kulit yang mengandung bahan pemutih, eksfoliasi teratur, dan menghindari pemicu potensial seperti sinar matahari berlebih."
-      ],
-
-      "rekomendasi": [
-        "Avoskin Your Skin Bae Alpha Arbutin 3% + Grapeseed 30 ml",
-        "Avoskin Your Skin Bae Vitamin C 3% + Niacinamide 2% + Mandarin Orange Fruit Extract Serum 30 ml",
-        "Garnier Light Complete Whitespeed Vitamin C Serum 30 ml",
-        "Olay Natural White UV Light Cream 20G",
-        "Wardah Renew You Anti Aging Day Cream 17 ml"
-      ],
-      "produk": [
-        "Avoskin_Your_Skin_Bae_Alpha_Arbutin_3%_+_Grapeseed_30_ml.png",
-        "Avoskin_Your_Skin_Bae_Vitamin_C_3%_+_Niacinamide_2%_+_Mandarin_Orange_Fruit_Extract_Serum_30_ml.jpeg",
-        "Garnier_Light_Complete_Whitespeed_Vitamin_C_Serum_30_ml.jpeg",
-        "Olay_Natural_White_UV_Light_Cream_20G.jpeg",
-        "Wardah_Renew_You_Anti_Aging_Day_Cream_17_ml.jpg"
       ]
     },
 
@@ -518,21 +388,6 @@
         "Beberapa cara alami yang dapat membantu mengurangi munculnya kerutan termasuk menghindari paparan sinar matahari berlebih, menjaga kelembapan kulit dengan menggunakan pelembap yang cocok, mengonsumsi makanan yang kaya akan antioksidan, dan menjaga gaya hidup sehat dengan cukup tidur, tidak merokok, dan menghindari stres.",
         "Ya, perawatan pencegahan seperti menggunakan tabir surya setiap hari, menjaga kelembapan kulit, mengonsumsi makanan yang sehat, dan menghindari kebiasaan merokok dapat membantu mengurangi risiko munculnya kerutan di masa depan.",
         "kerutan halus umumnya lebih dangkal dan dapat muncul pada permukaan kulit, sementara kerutan yang lebih dalam dapat terbentuk di lapisan kulit yang lebih dalam dan cenderung lebih jelas terlihat."
-      ],
-
-      "rekomendasi": [
-        "Senka Perfect Whip Collagen In 50 g",
-        "Wardah Renew You Anti Aging Day Cream 17 ml",
-        " Natur-E Advanced Anti Aging Serum 15 ml",
-        "La Roche Posay Retinol B3 Serum 30 ml",
-        "Olay Regenerist Retinol 24 Night Serum 30 ml"
-      ],
-      "produk": [
-        "Senka_Perfect_Whip_Collagen_In_50_g.jpeg",
-        "Wardah_Renew_You_Anti_Aging_Day_Cream_17_ml.jpg",
-        "Natur-E_Advanced_Anti_Aging_Serum_15_ml.jpg",
-        "La_Roche_Posay_Retinol_B3_Serum_30_ml.jpg",
-        "Olay_Regenerist_Retinol_24_Night_Serum_30_ml.jpeg"
       ]
     },
 
@@ -557,21 +412,6 @@
         "Merawat kulit kusam di area tubuh lainnya meliputi penggunaan scrub atau eksfoliasi tubuh untuk mengangkat sel-sel kulit mati, penggunaan pelembap yang kaya akan bahan-bahan mencerahkan dan menghidrasi, dan menghindari mandi dengan air panas yang dapat menghilangkan kelembapan alami kulit.",
         "Ya, pola makan yang sehat dan kaya akan nutrisi seperti buah-buahan, sayuran, kacang-kacangan, dan ikan berlemak dapat membantu membuat kulit lebih bersinar karena kandungan antioksidannya yang tinggi dan kemampuannya untuk menjaga kelembapan kulit.",
         "Ya, terapi atau perawatan di salon seperti facial atau treatment wajah yang menggunakan bahan-bahan mencerahkan dan teknologi seperti terapi laser atau IPL (Intense Pulsed Light) juga dapat membantu membuat kulit lebih bersinar. Namun, pastikan untuk berkonsultasi dengan ahli kulit sebelum melakukan perawatan tersebut."
-      ],
-
-      "rekomendasi": [
-        "Avoskin Your Skin Bae Toner Vitamin C 2% + Niacinamide 2% + Carrot Extract + Raspberry 100 ml",
-        "Wardah White Secret Intense Brightening Essence 17 ml",
-        "Emina Bright Stuff For Acne Prone Skin Moisturizing Cream 20 ml",
-        "Cosrx Aha/Bha Clarifying Treatment Toner 150 ml",
-        " Garnier Light Complete Whitespeed Vitamin C Serum 30 ml"
-      ],
-      "produk": [
-        "Avoskin_Your_Skin_Bae_Toner_Vitamin_C_2%_+_Niacinamide_2%_+_Carrot_Extract_+_Raspberry_100_ml.jpeg",
-        "Wardah_White_Secret_Intense_Brightening_Essence_17_ml.jpeg",
-        "Emina_Bright_Stuff_For_Acne_Prone_Skin_Moisturizing_Cream_20_ml.jpeg",
-        "Cosrx_Aha_Bha_Clarifying_Treatment_Toner_150_ml.jpg",
-        "Garnier_Light_Complete_Whitespeed_Vitamin_C_Serum_30_ml.jpg"
       ]
     },
 
@@ -588,23 +428,6 @@
         "eksfoliasi secara teratur dapat membantu mengangkat sel kulit mati yang menyumbat pori-pori dan menjaga pori-pori tetap bersih. Namun, hindari melakukan eksfoliasi berlebihan yang dapat merusak kulit atau menyebabkan iritasi.",
         "Beberapa produk perawatan kulit yang mengandung bahan-bahan seperti niacinamide, retinoid, atau ekstrak teh hijau diketahui dapat membantu menyempitkan pori-pori kulit dengan penggunaan yang teratur dan konsisten.",
         "beberapa prosedur medis seperti terapi laser atau kimia dapat membantu mengurangi ukuran pori-pori kulit dengan merangsang produksi kolagen dan meratakan tekstur kulit. Namun, konsultasikan terlebih dahulu dengan dokter atau ahli kulit untuk mengetahui apakah prosedur tersebut cocok untuk kondisi kulit Anda."
-      ],
-
-      "rekomendasi": [
-        "Hada Labo Tamagohada Mild Peeling Face Wash",
-        "Innisfree Jeju Volcanic Pore Cleansing Foam",
-        "The Body Shop Tea Tree Pore Minimise",
-        "Emina Witch",
-        "GlamGlow Supermud Clearing Treatment",
-        "Power Face Toner"
-      ],
-      "produk": [
-        "Hada_Labo_Tamagohada_Mild_Peeling_Face_Wash.jpeg",
-        "Innisfree_Jeju_Volcanic_Pore_Cleansing_Foam.jpeg",
-        "The_Body_Shop_Tea_Tree_Pore_Minimise.jpg",
-        "Emina_Witch.jpg",
-        "GlamGlow_Supermud_Clearing_Treatment.jpg",
-        "Power_Face_Toner.jpeg"
       ]
     },
 
@@ -615,21 +438,6 @@
         "milia biasanya akan muncul pada area wajah sekitar dagu, hidung, dan bawah mata yang mana kemunculannya sendiri dapat dipengaruhi oleh berbagai faktor seperti penyumbatan saluran keringat, infeksi kulit, kulit mati yang terperangkap di pori-pori, kondisi kulit yang tidak dibersihkan dengan baik, hingga kurang tidur dan merokok.",
         "Mengatasi milia dapat dilakukan dengan berbagai cara, seperti penggunaan eksfoliasi ringan untuk mengangkat sel-sel kulit mati, perawatan topikal yang mengandung asam glikolat atau retinoid untuk membantu membuka pori-pori, atau prosedur medis seperti pengeluaran milia oleh dokter kulit. Penting juga untuk menjaga kebersihan kulit dan menghindari faktor-faktor yang dapat memperburuk kondisi, seperti merokok atau kurang tidur.",
         "Meskipun tidak selalu dapat dicegah sepenuhnya, beberapa langkah pencegahan dapat membantu mengurangi risiko munculnya milia, seperti menjaga kebersihan kulit, menghindari penggunaan produk perawatan kulit yang terlalu berminyak, dan menggunakan tabir surya setiap hari untuk melindungi kulit dari paparan sinar matahari berlebih."
-      ],
-
-      "rekomendasi": [
-        "CeraVe Cleanser Bar",
-        " Cetaphil Daily Facial Cleanser",
-        "Somethinc AHA BHA PHA Peeling Solution",
-        " Somethinc Game Changer Eye Gel",
-        "Avoskin Your Skin Bae Series Toner Salicylic Acid "
-      ],
-      "produk": [
-        "CeraVe_Cleanser_Bar.jpg",
-        "Cetaphil_Daily_Facial_Cleanser.jpeg",
-        "Somethinc_AHA_BHA_PHA_Peeling_Solution.jpeg",
-        "Somethinc_Game_Changer_Eye_Gel.jpg",
-        "Avoskin_Your_Skin_Bae_Series_Toner_Salicylic_Acid.png"
       ]
     },
 
@@ -646,19 +454,6 @@
         "kurangnya tidur dapat menyebabkan stres oksidatif pada kulit dan mengganggu proses regenerasi sel kulit yang normal, yang dapat menyebabkan munculnya tanda-tanda penuaan dini seperti kerutan dan kulit kusam.",
         "Perawatan kulit yang tepat, termasuk penggunaan pelembap, tabir surya, produk anti-penuaan, serta eksfoliasi secara teratur, dapat membantu melawan penuaan dini dengan menjaga kelembapan kulit, melindungi dari kerusakan sinar UV, serta merangsang regenerasi sel kulit yang sehat.",
         "diet yang sehat dan seimbang dapat membantu melawan penuaan dini dengan menyediakan nutrisi penting bagi kesehatan kulit, seperti antioksidan dan asam lemak omega-3. Makanan seperti buah-buahan, sayuran hijau, ikan berlemak, serta makanan yang kaya akan vitamin C dan vitamin E dapat membantu menjaga kulit tetap sehat dan muda."
-      ],
-
-      "rekomendasi": [
-        "Safi Age Defy Concentrated Serum",
-        "Olay Regenerist Serum Retinol",
-        "Olay Total Effects Antiaging Gentle Day Cream SPF 15 50 g",
-        "Wardah Renew You Anti Aging Day Cream 30 g"
-      ],
-      "produk": [
-        "Safi_Age_Defy_Concentrated_Serum.jpg",
-        "Olay_Regenerist_Serum_Retinol.jpg",
-        "Olay_Total_Effects_Antiaging_Gentle_Day_Cream_SPF_15_50_g.jpeg",
-        "Wardah_Renew_You_Anti_Aging_Day_Cream_30_g.jpg"
       ]
     },
 
@@ -676,10 +471,7 @@
         "Meskipun tidak semua stretch mark bisa dihilangkan sepenuhnya, ada berbagai perawatan dan prosedur yang dapat membantu mengurangi penampilan mereka. Ini termasuk penggunaan krim atau minyak yang mengandung bahan-bahan seperti retinoid, asam hialuronat, atau vitamin C, serta prosedur medis seperti terapi laser atau mikrodermabrasi.",
         "Beberapa orang melaporkan bahwa penggunaan minyak alami seperti minyak kelapa, minyak almond, atau minyak rosehip dapat membantu mengurangi penampilan stretch mark. Namun, bukti ilmiah yang mendukung efektivitasnya masih terbatas, dan hasilnya mungkin bervariasi antara individu.",
         "Meskipun tidak selalu mungkin untuk mencegah stretch mark sepenuhnya, menjaga berat badan yang sehat, menjaga kelembapan kulit dengan menggunakan pelembap, dan menghindari peregangan kulit yang berlebihan dapat membantu mengurangi risiko terbentuknya stretch mark."
-      ],
-
-      "rekomendasi": ["laser CO2", "erbium chemical peeling", "microneedling"],
-      "produk": ["laser_CO2", "erbium_chemical_peeling", "microneedling"]
+      ]
     },
 
     {
@@ -695,15 +487,6 @@
         "Merawat rosacea meliputi penggunaan produk perawatan kulit yang lembut dan tidak mengiritasi, menghindari pemicu yang dapat memperburuk kondisi seperti sinar matahari berlebih, makanan pedas, alkohol, atau stres, serta berkonsultasi dengan dokter kulit untuk perawatan yang sesuai.",
         "Rosacea umumnya bersifat kronis dan tidak dapat sembuh sepenuhnya. Namun, dengan pengelolaan yang tepat, gejalanya dapat dikendalikan dan peradangan dapat diminimalkan.",
         "Beberapa perawatan medis untuk rosacea termasuk penggunaan krim atau gel topikal yang mengandung antibiotik atau azelaic acid, terapi laser, atau terapi cahaya yang dapat membantu mengurangi kemerahan dan peradangan pada kulit."
-      ],
-
-      "rekomendasi": [
-        "tabir surya dengan SPF 30",
-        "Votre Peau Retional Serum Concentrate 30 ml"
-      ],
-      "produk": [
-        "tabir_surya_dengan_SPF_30.jpeg",
-        "Votre_Peau_Retional_Serum_Concentrate_30_ml.jpeg"
       ]
     },
 
@@ -721,19 +504,6 @@
         "Beberapa cara mencegah breakout pada kulit termasuk menjaga kebersihan kulit dengan mencuci wajah secara teratur, menggunakan produk perawatan kulit yang sesuai dengan jenis kulit, menghindari penggunaan produk yang mengandung bahan kimia keras, menjaga pola makan yang sehat, mengelola stres, dan menggunakan tabir surya setiap hari.",
         "Meskipun breakout sering terjadi di area wajah, mereka juga dapat terjadi di bagian tubuh lainnya seperti leher, dada, punggung, dan bahu.",
         "Untuk mengobati breakout yang sudah muncul, Anda dapat menggunakan produk perawatan kulit yang mengandung bahan aktif seperti asam salisilat atau benzoyl peroxide untuk membantu mengurangi peradangan dan membersihkan pori-pori. Penting juga untuk menghindari menggosok atau memencet jerawat, karena hal ini dapat memperparah kondisi kulit. Jika breakout parah atau tidak kunjung membaik, konsultasikan dengan dokter kulit untuk perawatan yang lebih lanjut.        "
-      ],
-
-      "rekomendasi": [
-        "Some By Mi Miracle Toner",
-        "Chamos Acaci Troubled Skin Soluo",
-        "La Roche Posay Effaclar Clarifying Solution Acne Toner",
-        "Missha Trouble Cut Toner"
-      ],
-      "produk": [
-        "Some_By_Mi_Miracle_Toner.jpeg",
-        "Chamos_Acaci_Troubled_Skin_Soluo.jpeg",
-        "La_Roche_Posay_Effaclar_Clarifying_Solution_Acne_Toner.jpg",
-        "Missha_Trouble_Cut_Toner.jpeg"
       ]
     },
 
@@ -748,21 +518,6 @@
         "Hiperpigmentasi adalah kondisi di mana bagian-bagian kulit menjadi lebih gelap dari warna kulit normal sekitarnya. Ini terjadi karena produksi melanin (pigmen yang memberi warna pada kulit) meningkat di area tertentu. Hiperpigmentasi dapat disebabkan oleh berbagai faktor, termasuk: Paparan sinar matahari, Trauma pada kulit, Perubahan hormon, Peradangan kulit, dan Penuaan. Paparan sinar UV dari matahari dapat merangsang produksi melanin, yang dapat menyebabkan hiperpigmentasi, seperti bintik-bintik penuaan, lentigo (bintik-bintik tua), dan melasma. Cedera atau peradangan pada kulit, termasuk luka, jerawat, atau peradangan kulit lainnya, dapat memicu produksi melanin yang berlebihan di area tersebut. Fluktuasi hormon, seperti selama kehamilan, penggunaan pil kontrasepsi, atau terapi hormon, juga dapat menyebabkan hiperpigmentasi, seperti melasma (mask of pregnancy). Beberapa kondisi peradangan kulit, seperti dermatitis atau eksim, juga dapat meningkatkan produksi melanin di area yang terkena. Selain itu, proses penuaan alami juga dapat menyebabkan hiperpigmentasi, seperti bintik-bintik penuaan atau lentigo.",
         "Hiperpigmentasi dapat disebabkan oleh berbagai faktor, termasuk paparan sinar matahari, trauma pada kulit, perubahan hormon, peradangan kulit, dan penuaan. Paparan sinar UV dari matahari dapat merangsang produksi melanin, yang dapat menyebabkan hiperpigmentasi seperti bintik-bintik penuaan, lentigo, dan melasma. Cedera atau peradangan pada kulit, termasuk luka, jerawat, atau peradangan kulit lainnya, dapat memicu produksi melanin yang berlebihan di area tersebut. Fluktuasi hormon, seperti selama kehamilan atau penggunaan pil kontrasepsi, juga dapat menyebabkan hiperpigmentasi seperti melasma. Beberapa kondisi peradangan kulit, seperti dermatitis atau eksim, juga dapat meningkatkan produksi melanin di area yang terkena. Selain itu, proses penuaan alami juga dapat menyebabkan hiperpigmentasi seperti bintik-bintik penuaan atau lentigo.",
         "Pengobatan hiperpigmentasi dapat melibatkan penggunaan krim pemutih yang mengandung bahan-bahan seperti hidrokuinon, asam kojik, atau asam azelaat, prosedur medis seperti terapi laser atau terapi cahaya intensif, serta perawatan rutin yang melibatkan penggunaan tabir surya setiap hari, eksfoliasi, dan pelembap yang mengandung bahan-bahan yang mencerahkan kulit. Penting juga untuk menghindari paparan sinar matahari berlebih dan melindungi kulit dengan menggunakan pelindung matahari dengan SPF yang cukup tinggi."
-      ],
-
-      "rekomendasi": [
-        "Avoskin Your Skin Bae Vitamin C 3% + Niacinamide 2% + Mandarin Orange Fruit Extract",
-        "SOMETHINC 5% Niacinamide + Moisture Sabi Beet Brightening Serum",
-        "Whitelab Brightening Face Serum",
-        "Trueve Ultimate Drops of Brightening Serum",
-        "Somethinc Revive Potion 3% Arbutin + Bakuchiol"
-      ],
-      "produk": [
-        "Avoskin_Your_Skin_Bae_Vitamin_C_3%_+_Niacinamide_2%_+_Mandarin_Orange_Fruit_Extract.jpeg",
-        "SOMETHINC_5%_Niacinamide_+_Moisture_Sabi_Beet_Brightening_Serum.jpeg",
-        "Whitelab_Brightening_Face_Serum.png",
-        "Trueve_Ultimate_Drops_of_Brightening_Serum.png",
-        "Somethinc_Revive_Potion_3%_Arbutin_+_Bakuchiol.jpg"
       ]
     },
 
@@ -780,21 +535,6 @@
         "Penyebab eczema tidak sepenuhnya dipahami, tetapi diyakini bahwa kombinasi faktor genetik dan lingkungan dapat memainkan peran. Faktor risiko termasuk riwayat keluarga dengan riwayat atopi, alergi, atau asma. Paparan alergen atau iritan tertentu, stres, cuaca yang ekstrem, atau infeksi kulit juga dapat memicu atau memperburuk keadaan eczema.",
         "Saat ini, eczema tidak memiliki penyembuhan permanen. Namun, pengelolaan yang tepat termasuk perawatan kulit yang teratur, penggunaan pelembap, penghindaran pemicu yang diketahui, dan penggunaan obat-obatan topikal atau oral seperti kortikosteroid atau antihistamin dapat membantu mengendalikan gejala dan mencegah flare-up.",
         "Mengelola gatal pada eczema melibatkan menjaga kulit tetap lembap dengan menggunakan pelembap secara teratur, menghindari faktor pemicu seperti iritasi kulit atau alergen, menghindari menggaruk yang berlebihan, memakai pakaian yang lembut dan longgar, serta menggunakan obat antipruritik atau kompres dingin untuk meredakan gatal."
-      ],
-
-      "rekomendasi": [
-        "QV Gentle Wash",
-        "QV Skin Lotion & QV Cream",
-        "Eau Thermale Avene Cicalfate+ Restorative Protective Cream",
-        "CeraVe Moisturizing Cream",
-        "Epionce Medical Barrier Cream"
-      ],
-      "produk": [
-        "QV_Gentle_Wash.jpeg",
-        "QV_Skin_Lotion_&_QV_Cream.jpeg",
-        "Eau_Thermale_Avene_Cicalfate+_Restorative_Protective_Cream.jpeg",
-        "CeraVe_Moisturizing_Cream.jpg",
-        "Epionce_Medical_Barrier_Cream.jpg"
       ]
     }
   ]

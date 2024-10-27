@@ -2,17 +2,17 @@
   "masalah_kulit": [
     {
       "kategori": "greeting",
-      "permasalahan kulit": [],
       "pertanyaan": ["hallo", "hai", "halo", "hei", "hi", "hy", "helo"],
       "jawaban": [
-        "Halo! Ms.Cici disini. Ada yang bisa saya bantu?",
+        "Halo! AmaGlow disini. Ada yang bisa saya bantu?",
         "Hai! Ada yang bisa saya bantu tentang seputar perawatan wajah?",
-        "Hai! Ms.Cici disini. Ada yang bisa saya bantu mengenai info perawatan wajah?"
-      ]
+        "Hai! AmaGlow disini. Ada yang bisa saya bantu mengenai info perawatan wajah?"
+      ],
+      "rekomendasi": []
+      
     },
     {
       "kategori": "thanks",
-      "permasalahan kulit": [],
       "pertanyaan": [
         "Thanks",
         "Thank you",
@@ -26,21 +26,21 @@
         "Terima kasih kembali, semoga informasi yang kami berikan bermanfaat.",
         "Tidak ada masalah, senang bisa memberikan bantuan.",
         "Senang bisa membantu, silakan hubungi kami lagi jika ada pertanyaan lain."
-      ]
+      ],
+      "rekomendasi": []
     },
     {
-      "kategori": "AMAGLOW",
-      "permasalahan kulit": [],
+      "kategori": "AmaGlow",
       "pertanyaan": ["Apa itu AmaGlow?", "AmaGlow", "aplikasi AmaGlow"],
       "jawaban": [
-        "AMAGLOW adalah aplikasi rekomendasi facecare yang terdapat fitur sistem rekomendasi skincare chatbot",
+        "AmaGlow adalah aplikasi rekomendasi facecare yang terdapat fitur sistem rekomendasi skincare chatbot",
         "AmaGlow itu adalah website informasi tentang perawatan wajah dan rekomendasi facecare!",
         "AmaGlow merupakan suatu aplikasi rekomendasi facecare berbasis website yang berguna untuk mengetahui informasi seputar rekomendasi dan juga perawatan wajah"
-      ]
+      ],
+      "rekomendasi": []
     },
     {
       "kategori": "nama",
-      "permasalahan kulit": [],
       "pertanyaan": [
         "nama kamu siapa?",
         "namamu siapa?",
@@ -51,15 +51,15 @@
         "Nama kmu sapa?"
       ],
       "jawaban": [
-        "Namaku Ms.Cici, salam kenal ya!",
-        "Halo, aku Ms.Cici!",
-        "Kenalin, aku Ms.Cici!",
-        "Aku Ms.Cici, ada yang mau ditanyain?"
-      ]
+        "Namaku AmaGlow, salam kenal ya!",
+        "Halo, aku AmaGlow!",
+        "Kenalin, aku AmaGlow!",
+        "Aku AmaGlow, ada yang mau ditanyain?"
+      ],
+      "rekomendasi": []
     },
     {
       "kategori": "goodbye",
-      "permasalahan kulit": [],
       "pertanyaan": [
         "Bye",
         "Byee",
@@ -74,148 +74,87 @@
         "bye, semoga harimu menyenangkan yaa!",
         "Sampai jumpa lagi!",
         "See u! Senang bisa membantu"
-      ]
+      ],
+      "rekomendasi": []
     },
 
     {
-      "kategori": "Normal to Dry",
-      "permasalahan kulit": [
-        "Kulit Kusam",
-        "Kulit Kering ",
-        "Warna Kulit Tidak Merata"
-      ],
+      "kategori": "jerawat",
       "pertanyaan": [
-        "Apa penyebab kulit kusam?",
-        "Bagaimana cara mengatasi kulit kusam?",
-        "Bagaimana cara mencegah kulit kusam?",
-        "Bagaimana cara merawat wajah yang kusam?",
-        "Apakah kebiasaan buruk bisa menyebabkan kulit kusam?",
-        "Apakah kulit kusam bisa sembuh dengan sendirinya?",
-        "Berapa lama waktu yang dibutuhkan untuk mencerahkan kulit yang kusam?",
-        "Apa penyebab kulit kering?",
-        "Bagaimana cara mengatasi kulit kering?",
-        "Bagaimana cara mencegah kulit kering?",
-        "Bagaimana cara merawat wajah dengan kulit kering?",
-        "Apakah kebiasaan buruk bisa menyebabkan kulit kering?",
-        "Apakah kulit kering bisa sembuh dengan sendirinya?",
-        "Berapa lama waktu yang dibutuhkan untuk mengatasi kulit kering?"
-      ],
-      "jawaban": [
-        "Kulit kusam bisa disebabkan oleh kurang tidur, stres, paparan sinar matahari berlebih, polusi udara, dehidrasi, pola makan yang buruk, serta kurangnya perawatan kulit yang tepat seperti jarang membersihkan wajah.",
-        "Mengatasi kulit kusam bisa dilakukan dengan rutin membersihkan wajah, menggunakan produk pencerah yang mengandung bahan seperti vitamin C atau niacinamide, cukup tidur, mengonsumsi makanan sehat, dan rutin menggunakan pelembap yang cocok untuk jenis kulit.",
-        "Untuk mencegah kulit kusam, hindari paparan sinar matahari langsung tanpa perlindungan, konsumsi makanan bergizi, tidur yang cukup, dan rutin membersihkan wajah dari kotoran dan makeup. Gunakan sunscreen setiap hari untuk melindungi kulit dari UV.",
-        "Merawat wajah kusam melibatkan penggunaan pembersih yang lembut, serum pencerah seperti yang mengandung vitamin C, rutin memakai pelembap, serta menjaga kelembapan kulit. Juga, hindari kebiasaan merokok dan kurangi konsumsi alkohol yang dapat merusak kulit.",
-        "Kebiasaan buruk seperti merokok, kurang tidur, konsumsi makanan yang tinggi gula dan lemak, serta stres bisa menyebabkan kulit kusam. Paparan polusi udara dan jarang membersihkan wajah juga berkontribusi pada masalah ini.",
-        "Kulit kusam tidak akan sembuh dengan sendirinya tanpa perawatan yang tepat. Dengan perawatan rutin menggunakan produk yang sesuai dan pola hidup sehat, kulit kusam bisa membaik secara bertahap.",
-        "Waktu yang dibutuhkan untuk mencerahkan kulit kusam bervariasi tergantung pada perawatan yang dilakukan. Dalam beberapa minggu dengan perawatan yang tepat, kulit bisa menunjukkan perubahan, tetapi untuk hasil maksimal, bisa memakan waktu beberapa bulan.",
-        "Kulit kering bisa disebabkan oleh cuaca yang kering, penggunaan produk perawatan kulit yang mengandung bahan keras, kurangnya kelembapan udara, mandi dengan air panas, dan kebiasaan jarang mengonsumsi air yang cukup.",
-        "Untuk mengatasi kulit kering, gunakan pelembap yang cocok dengan jenis kulit, hindari penggunaan sabun yang mengandung bahan keras, dan pastikan tubuh terhidrasi dengan cukup air.",
-        "Mencegah kulit kering bisa dilakukan dengan menggunakan pelembap setiap hari, menghindari mandi dengan air panas, dan memastikan udara di sekitar tetap lembap, terutama saat cuaca kering.",
-        "Merawat wajah dengan kulit kering melibatkan penggunaan pembersih wajah yang lembut dan tidak mengandung alkohol, serta pelembap yang mengandung bahan seperti ceramide atau hyaluronic acid untuk menjaga kelembapan.",
-        "Kebiasaan buruk seperti mandi dengan air panas, kurang tidur, merokok, dan mengonsumsi sedikit air bisa menyebabkan kulit kering. Kebiasaan ini mengurangi kelembapan kulit dan memperburuk kondisinya.",
-        "Kulit kering bisa sembuh dengan perawatan yang tepat, tetapi tidak akan sembuh dengan sendirinya tanpa perubahan kebiasaan atau penggunaan produk yang sesuai.",
-        "Waktu yang dibutuhkan untuk mengatasi kulit kering bervariasi tergantung pada penyebab dan perawatan yang dilakukan, tetapi dengan perawatan yang tepat, kulit bisa mulai membaik dalam beberapa hari hingga minggu." 
-      ]
-    },
-
-    {
-      "kategori": "Oily Acne",
-      "permasalahan kulit": [
-        "Pori-pori Besar",
-        "Jerawat",
-        "Brekout setelah menggunakan produk baru",
-        "Komedo",
-        "Flek Hitam",
-        "Bekas Jerawat",
-        "Kulit Berminyak"
-      ],
-      "pertanyaan": [
-        "Apa penyebab pori-pori besar?",
-        "Bagaimana cara mengatasi pori-pori besar?",
-        "Bagaimana cara mencegah pori-pori besar?",
-        "Bagaimana cara merawat wajah dengan pori-pori besar?",
-        "Apakah kebiasaan buruk bisa menyebabkan pori-pori besar?",
-        "Apakah pori-pori besar bisa sembuh dengan sendirinya?",
-        "Berapa lama waktu yang dibutuhkan untuk mengecilkan pori-pori besar?",
+        "apa penyebab jerawat",
+        "apa penyebab utama jerawat",
+        "Jenis Makanan penyebab jerawat?",
+        "cara mengatasi jerawat",
         "Apa penyebab jerawat?",
         "Bagaimana cara mengatasi jerawat?",
         "Bagaimana cara mencegah jerawat?",
         "Bagaimana cara merawat wajah yang berjerawat?",
         "Apakah menggunakan make-up bisa menyebabkan jerawat?",
         "Apakah jerawat bisa sembuh dengan sendirinya?",
-        "Berapa lama waktu yang dibutuhkan untuk menghilangkan jerawat?",
-        "Apa penyebab munculnya komedo?",
-        "Bagaimana cara mengatasi komedo?",
-        "Bagaimana cara mencegah komedo muncul kembali?",
-        "Bagaimana cara merawat wajah yang berkomedo?",
-        "Apakah kebiasaan buruk bisa menyebabkan komedo?",
-        "Apakah komedo bisa hilang dengan sendirinya?",
-        "Berapa lama waktu yang dibutuhkan untuk menghilangkan komedo?",
-        "Apa penyebab flek hitam?",
-        "Bagaimana cara mengatasi flek hitam?",
-        "Bagaimana cara mencegah flek hitam?",
-        "Bagaimana cara merawat wajah dengan flek hitam?",
-        "Apakah kebiasaan buruk bisa menyebabkan flek hitam?",
-        "Apakah flek hitam bisa sembuh dengan sendirinya?",
-        "Berapa lama waktu yang dibutuhkan untuk menghilangkan flek hitam?",
-        "Apa penyebab kulit bekas jerawat?",
-        "Bagaimana cara mengatasi kulit bekas jerawat?",
-        "Bagaimana cara mencegah kulit bekas jerawat?",
-        "Bagaimana cara merawat wajah dengan kulit bekas jerawat?",
-        "Apakah kebiasaan buruk bisa menyebabkan kulit bekas jerawat?",
-        "Apakah kulit bekas jerawat bisa sembuh dengan sendirinya?",
-        "Berapa lama waktu yang dibutuhkan untuk menghilangkan kulit bekas jerawat?",
-        "Apa penyebab kulit berminyak berlebih?",
-        "Bagaimana cara mengatasi kulit berminyak berlebih?",
-        "Bagaimana cara mencegah kulit berminyak berlebih?",
-        "Bagaimana cara merawat wajah dengan kulit berminyak berlebih?",
-        "Apakah kebiasaan buruk bisa menyebabkan kulit berminyak berlebih?",
-        "Apakah kulit berminyak berlebih bisa sembuh dengan sendirinya?",
-        "Berapa lama waktu yang dibutuhkan untuk mengatasi kulit berminyak berlebih?"
+        "Berapa lama waktu yang dibutuhkan untuk menghilangkan jerawat?"
       ],
       "jawaban": [
-        "Pori-pori besar biasanya disebabkan oleh produksi minyak berlebih, penumpukan kotoran dan sel kulit mati, serta faktor genetik. Paparan sinar matahari berlebih dan penuaan juga dapat menyebabkan pori-pori membesar.",
-        "Mengatasi pori-pori besar bisa dilakukan dengan rutin membersihkan wajah, menggunakan produk yang mengandung bahan seperti asam salisilat, retinol, atau niacinamide. Penggunaan masker pori-pori dan eksfoliasi juga dapat membantu mengecilkan pori.",
-        "Untuk mencegah pori-pori besar, penting untuk rutin membersihkan wajah, menggunakan sunscreen setiap hari, dan menghindari kebiasaan meremas wajah atau komedo. Jaga pola makan sehat dan minum cukup air untuk mendukung kesehatan kulit.",
-        "Merawat wajah dengan pori-pori besar melibatkan penggunaan pembersih wajah yang cocok untuk jenis kulit, serum dengan bahan aktif seperti retinol atau niacinamide, dan pelembap non-komedogenik. Lakukan eksfoliasi secara teratur untuk menjaga pori-pori tetap bersih.",
-        "Kebiasaan buruk seperti tidak membersihkan wajah dengan baik, meremas wajah, atau menggunakan produk yang menyumbat pori-pori bisa memperburuk kondisi pori-pori besar. Paparan sinar matahari tanpa perlindungan dan merokok juga dapat memperbesar pori.",
-        "Pori-pori besar tidak bisa sembuh dengan sendirinya tanpa perawatan yang tepat. Dengan penggunaan produk yang sesuai dan menjaga kebersihan kulit, pori-pori bisa terlihat lebih kecil seiring waktu.",
-        "Waktu yang dibutuhkan untuk mengecilkan pori-pori besar bervariasi tergantung pada perawatan yang dilakukan. Biasanya, perubahan bisa terlihat dalam beberapa minggu hingga beberapa bulan dengan perawatan yang konsisten.",
+        "Ada banyak penyebab jerawat tumbuh di wajah seperti stres, paparan sinar matahari, dan polusi. Untuk mengatasi jerawat disarankan untuk memakai produk-produk yang dapat mengatasi jerawat",
+        "Stres dapat memicu produksi hormon stres seperti kortisol, yang dapat merangsang kelenjar minyak untuk menghasilkan lebih banyak minyak. Hal ini dapat menyumbat pori-pori dan menyebabkan jerawat. Untuk mengatasi jerawat disarankan untuk memakai produk-produk yang dapat mengatasi jerawat",
+        "Paparan sinar matahari yang berlebihan dapat menyebabkan kulit mengering dan mengelupas. Namun, hal ini juga dapat merangsang kelenjar minyak untuk menghasilkan lebih banyak minyak, yang dapat menyebabkan penyumbatan pori-pori dan jerawat. Untuk mengatasi jerawat disarankan untuk memakai produk-produk yang dapat mengatasi jerawat",
+        "Polusi udara dapat menyebabkan peradangan pada kulit dan memperburuk kondisi jerawat. Partikel polusi yang menempel pada kulit dapat menyumbat pori-pori dan merangsang produksi minyak berlebihan, yang pada gilirannya dapat menyebabkan jerawat. Untuk mengatasi jerawat disarankan untuk memakai produk-produk yang dapat mengatasi jerawat",
+        "Pola makan yang tinggi gula, lemak jenuh, dan produk susu dapat meningkatkan risiko jerawat pada beberapa individu. Makanan tinggi gula dapat meningkatkan kadar insulin dalam tubuh, yang dapat memicu produksi hormon yang berkontribusi pada pembentukan jerawat. Untuk mengatasi jerawat disarankan untuk memakai produk-produk yang dapat mengatasi jerawat",
+        "Peran genetik dalam kecenderungan seseorang untuk mengalami jerawat bisa signifikan. Jika salah satu atau kedua orang tua memiliki riwayat jerawat yang parah, kemungkinan besar anak mereka juga akan mengalami masalah serupa. Untuk mengatasi jerawat disarankan untuk memakai produk-produk yang dapat mengatasi jerawat",
+        "Ada kemungkinan bahwa penggunaan produk perawatan kulit tertentu yang mengandung bahan-bahan komedogenik atau iritasi dapat memicu kemunculan jerawat pada sebagian orang. Oleh karena itu, penting untuk memilih produk yang sesuai dengan jenis kulit dan memperhatikan reaksi kulit setelah penggunaan produk tersebut. Untuk mengatasi jerawat disarankan untuk memakai produk-produk yang dapat mengatasi jerawat",
+        "Jerawat merupakan masalah kulit yang umum terjadi pada banyak orang, dan faktor diet seringkali menjadi pertimbangan ketika membahas penyebabnya. Beberapa jenis makanan telah dikaitkan dengan peningkatan risiko jerawat pada sebagian individu. Makanan berlemak dan berminyak, seperti makanan cepat saji dan gorengan, dapat meningkatkan produksi minyak di kulit, yang memperparah jerawat. Selain itu, produk susu, terutama susu skim, dan dan makanan dengan indeks glikem. Untuk mengatasi jerawat disarankan untuk memakai produk-produk yang dapat mengatasi jerawat",
         "Jerawat bisa muncul karena stres, makan makanan berminyak atau manis, kurang tidur, atau kebiasaan tidak membersihkan wajah dengan baik setelah aktivitas seperti berolahraga atau memakai makeup.",
         "Cuci wajah secara teratur, hindari menyentuh wajah dengan tangan kotor, dan pastikan tidur cukup. Gunakan produk yang ringan untuk wajah dan hindari produk yang berat atau berbahan kimia keras.",
         "Hindari terlalu sering menyentuh wajah, bersihkan wajah setelah beraktivitas, dan perhatikan kebersihan handphone atau bantal yang sering kontak dengan wajah.",
         "Gunakan sabun wajah yang lembut, jangan terlalu sering mencuci muka, dan pastikan wajah tetap terhidrasi dengan pelembap yang cocok untuk kulit berjerawat.",
         "Make-up bisa menyebabkan jerawat kalau tidak dibersihkan dengan benar atau jika produk yang digunakan mengandung bahan yang menyumbat pori-pori. Pastikan membersihkan wajah dengan baik sebelum tidur.",
         "Kadang-kadang jerawat ringan bisa hilang dengan sendirinya dalam beberapa hari, tetapi jika jerawat terus muncul, biasanya butuh perhatian dan perawatan khusus.",
-        "Jerawat bisa memakan waktu beberapa minggu hingga bulan untuk sembuh, tergantung seberapa parah dan apa yang dilakukan untuk mengobatinya.",
-        "Komedo biasanya disebabkan oleh penyumbatan pori-pori akibat minyak, sel kulit mati, dan kotoran. Faktor hormonal, diet, dan penggunaan produk kosmetik yang tidak cocok juga dapat berkontribusi.",
-        "Untuk mengatasi komedo, Anda bisa menggunakan produk exfoliant yang mengandung asam salisilat atau retinoid. Pembersihan wajah secara rutin dan penggunaan masker dapat membantu mengangkat kotoran.",
-        "Untuk mencegah komedo, jaga kebersihan wajah dengan mencuci dua kali sehari, gunakan produk non-komedogenik, dan lakukan eksfoliasi secara teratur. Hindari menyentuh wajah dan gunakan kosmetik yang ringan.",
-        "Merawat wajah yang berkomedo melibatkan rutinitas pembersihan yang baik, menggunakan produk yang diformulasikan untuk kulit berkomedo, dan menghindari produk berminyak atau berat. Mengunjungi dokter kulit juga bisa membantu.",
-        "Kebiasaan buruk seperti tidak membersihkan wajah dengan baik, menggunakan produk yang tidak cocok, dan menyentuh wajah dapat menyebabkan penumpukan kotoran dan minyak, sehingga meningkatkan risiko komedo.",
-        "Dalam beberapa kasus, komedo dapat hilang dengan sendirinya, terutama jika tidak terlalu parah. Namun, perawatan yang tepat biasanya diperlukan untuk menghilangkan dan mencegahnya kembali.",
-        "Waktu yang dibutuhkan untuk menghilangkan komedo bervariasi tergantung pada keparahan dan metode yang digunakan. Dengan perawatan yang tepat, komedo ringan bisa hilang dalam beberapa minggu, sementara yang lebih parah mungkin memerlukan waktu lebih lama.",
-        "Flek hitam sering kali disebabkan oleh paparan sinar matahari berlebih, peradangan dari jerawat, bekas luka, atau kondisi kulit lainnya. Faktor-faktor seperti penuaan, penggunaan produk yang tidak cocok, atau kebiasaan buruk seperti merokok juga bisa memperburuk kondisi ini.",
-        "Untuk mengatasi flek hitam, gunakan produk perawatan kulit yang mengandung bahan pencerah seperti vitamin C, niacinamide, atau asam glikolat. Penggunaan sunscreen setiap hari juga penting untuk melindungi kulit dari paparan sinar UV yang bisa memperburuk flek hitam.",
-        "Mencegah flek hitam bisa dilakukan dengan menggunakan sunscreen setiap hari, menghindari paparan sinar matahari langsung, dan tidak memencet jerawat atau luka yang bisa meninggalkan bekas. Menjaga pola makan sehat dan tidur yang cukup juga dapat membantu mencegah flek hitam.",
-        "Merawat wajah dengan flek hitam melibatkan penggunaan produk pencerah seperti serum vitamin C atau niacinamide, serta pelembap yang sesuai dengan jenis kulit. Pastikan juga untuk rutin membersihkan wajah dan menggunakan sunscreen setiap hari.",
-        "Ya, kebiasaan buruk seperti merokok, kurang tidur, stres, dan paparan sinar matahari tanpa perlindungan bisa memperburuk kondisi kulit dan menyebabkan flek hitam. Kebiasaan ini dapat mengurangi kemampuan kulit untuk memperbaiki dirinya sendiri.",
-        "Flek hitam tidak akan sembuh dengan sendirinya tanpa perawatan yang tepat. Perawatan kulit yang teratur dan penggunaan produk pencerah bisa membantu memudarkan flek hitam secara bertahap.",
-        "Waktu yang dibutuhkan untuk menghilangkan flek hitam bervariasi tergantung pada tingkat keparahan dan perawatan yang dilakukan. Dengan perawatan yang rutin dan tepat, perubahan dapat terlihat dalam beberapa minggu, tetapi untuk hasil maksimal bisa memakan waktu beberapa bulan.",
+        "Jerawat bisa memakan waktu beberapa minggu hingga bulan untuk sembuh, tergantung seberapa parah dan apa yang dilakukan untuk mengobatinya."
+      ],
+      "rekomendasi": [
+        "Cleanser Lotion",
+        "Acne Sulfur Wash",
+        "Sunscreen for acne",
+        "Acne Cream Night",
+        "Serum Flek"
+      ]
+    },
+
+    {
+      "kategori": "bekas_jerawat",
+      "pertanyaan": [
+        "bekas jerawat adalah ?",
+        "cara mengatasih PIH dan PIE ?",
+        "apa penyebab PIH dan PIE ?",
+        "Apa penyebab kulit bekas jerawat?",
+        "Bagaimana cara mengatasi kulit bekas jerawat?",
+        "Bagaimana cara mencegah kulit bekas jerawat?",
+        "Bagaimana cara merawat wajah dengan kulit bekas jerawat?",
+        "Apakah kebiasaan buruk bisa menyebabkan kulit bekas jerawat?",
+        "Apakah kulit bekas jerawat bisa sembuh dengan sendirinya?",
+        "Berapa lama waktu yang dibutuhkan untuk menghilangkan kulit bekas jerawat?"
+
+      ],
+      "jawaban": [
+        "Bekas jerawat adalah noda atau bercak pada kulit yang muncul setelah jerawat sembuh. Mereka bisa berupa bercak merah, coklat, atau bekas luka akibat peradangan. ada 2 jenis bekas jerawat yaitu PIE dan PIH dimana PIE (Post-Inflammatory Erythema) adalah bercak merah atau kemerahan bekas jerawat karena peradangan yang memicu pelebaran pembuluh darah. Sedangkan PIH (Post-Inflammatory Hyperpigmentation) adalah bekas jerawat berwarna gelap atau hiperpigmentasi akibat peningkatan produksi melanin. Perawatan tergantung pada jenis bekas jerawat, dan konsultasi dengan dokter kulit diperlukan untuk perawatan yang sesuai. ",
+        "Untuk mengatasi PIH (Post-Inflammatory Hyperpigmentation), gunakan tabir surya setiap hari, krim pencerah kulit, dan eksfoliasi teratur. Perawatan medis seperti laser juga bisa membantu. Konsultasikan dengan dokter kulit untuk perawatan yang tepat, sedangkan Untuk mengatasi PIE (Post-Inflammatory Erythema), gunakan tabir surya dan produk anti-inflamasi seperti niacinamide atau azelaic acid. Perawatan medis seperti laser atau terapi cahaya juga bisa membantu. Konsultasikan dengan dokter kulit untuk perawatan yang tepat. ",
+        "Penyebab utama PIH (Post-Inflammatory Hyperpigmentation) adalah peradangan pada kulit, seperti jerawat atau luka, yang meningkatkan produksi melanin. Sementara PIE (Post-Inflammatory Erythema) disebabkan oleh pelebaran pembuluh darah pada kulit akibat peradangan, yang menghasilkan bercak merah setelah jerawat sembuh. Faktor genetika dan jenis kulit juga memainkan peran dalam keduanya.",
         "Kulit bekas jerawat bisa disebabkan oleh peradangan yang terjadi saat jerawat sembuh, yang meninggalkan bekas hitam atau lubang pada kulit. Faktor lainnya termasuk kebiasaan memencet jerawat, paparan sinar matahari, atau kulit sensitif yang mudah iritasi.",
         "Mengatasi kulit bekas jerawat dapat dilakukan dengan menggunakan produk yang mengandung bahan pemudarkan noda seperti vitamin C, niacinamide, atau asam glikolat. Perawatan seperti mikrodermabrasi atau laser juga bisa membantu memperbaiki tekstur kulit.",
         "Untuk mencegah bekas jerawat, hindari memencet jerawat, selalu gunakan sunscreen, dan jaga kebersihan kulit agar tidak terinfeksi. Penggunaan produk yang menenangkan kulit juga dapat membantu mencegah iritasi yang bisa memperburuk bekas jerawat.",
         "Merawat wajah dengan bekas jerawat melibatkan penggunaan produk yang dapat mempercepat regenerasi kulit seperti retinoid, serum pencerah, dan pelembap. Selain itu, penting untuk menjaga kebersihan kulit dan melindunginya dari sinar UV dengan menggunakan sunscreen.",
         "Kebiasaan buruk seperti memencet jerawat, kurang tidur, atau tidak menjaga kebersihan kulit dapat memperburuk kondisi bekas jerawat. Paparan sinar matahari yang berlebihan juga bisa menyebabkan bekas jerawat menjadi lebih gelap dan sulit hilang.",
         "Kulit bekas jerawat tidak akan sembuh dengan sendirinya dalam waktu cepat, tetapi dengan perawatan yang tepat, bekas jerawat bisa memudar secara bertahap. Konsistensi dalam menggunakan produk yang tepat penting untuk mempercepat pemulihan.",
-        "Waktu yang dibutuhkan untuk menghilangkan bekas jerawat bervariasi tergantung pada jenis dan tingkat keparahan bekasnya. Biasanya, dengan perawatan yang rutin, perubahan bisa terlihat dalam beberapa minggu, namun untuk hasil maksimal, bisa memakan waktu beberapa bulan.",
-        "Kulit berminyak berlebih dapat disebabkan oleh faktor genetik, hormon, stres, atau pola makan yang buruk. Penggunaan produk perawatan kulit yang tidak sesuai atau terlalu sering mencuci wajah juga dapat memicu produksi minyak berlebih.",
-        "Mengatasi kulit berminyak berlebih bisa dilakukan dengan menggunakan pembersih wajah yang lembut dan tidak mengandung alkohol, serta produk yang mengontrol minyak. Gunakan pelembap ringan yang cocok untuk kulit berminyak dan rutin menggunakan sunscreen.",
-        "Untuk mencegah kulit berminyak berlebih, cuci wajah secara teratur dua kali sehari, hindari penggunaan produk berisiko menyumbat pori, dan pilih produk non-comedogenic. Hindari menyentuh wajah dengan tangan kotor dan perhatikan pola makan sehat.",
-        "Merawat wajah dengan kulit berminyak berlebih melibatkan penggunaan pembersih wajah yang mengontrol minyak, eksfoliasi ringan untuk mengangkat sel kulit mati, dan pelembap yang tidak menyumbat pori. Pilih produk berbahan dasar air dan bebas minyak.",
-        "Kebiasaan buruk seperti jarang membersihkan wajah, mengonsumsi makanan tinggi gula atau lemak, dan stres dapat memperburuk kondisi kulit berminyak. Selain itu, penggunaan produk yang mengandung bahan keras juga bisa menyebabkan peningkatan produksi minyak.",
-        "Kulit berminyak berlebih tidak bisa sembuh dengan sendirinya tanpa perawatan yang tepat. Dengan perawatan yang rutin dan penggunaan produk yang sesuai, kondisi kulit bisa membaik secara bertahap.",
-        "Waktu yang dibutuhkan untuk mengatasi kulit berminyak berlebih bervariasi, tergantung pada kondisi kulit dan perawatan yang dilakukan. Biasanya, perubahan yang signifikan dapat terlihat dalam beberapa minggu dengan perawatan yang konsisten."
+        "Waktu yang dibutuhkan untuk menghilangkan bekas jerawat bervariasi tergantung pada jenis dan tingkat keparahan bekasnya. Biasanya, dengan perawatan yang rutin, perubahan bisa terlihat dalam beberapa minggu, namun untuk hasil maksimal, bisa memakan waktu beberapa bulan."
+      ],
+      "rekomendasi": [
+        "NPURE Dark Spot Cica 5 ml",
+        "ADARA Spotless Gel obat totol jerawat kehitaman 20 g",
+        "ADARA Spotless Cream obat totol jerawat kemarahan 20 g",
+        "Cleanser Lotion",
+        "Acne Sulfur Wash",
+        "Sunscreen for acne",
+        "Acne Cream Night",
+        "Serum Flek"
       ]
     },
 
@@ -239,17 +178,16 @@
         "Perubahan gaya hidup seperti menghindari makanan yang memicu alergi dan menjaga kelembapan kulit dapat membantu mengurangi gejala dermatitis atau eksem.",
         "Eksem sering kali bersifat kronis dan dapat kambuh, meskipun dapat dikelola dengan baik dengan perawatan yang tepat. Beberapa kasus dermatitis juga bisa kronis tergantung pada penyebabnya.",
         "Penggunaan produk perawatan kulit yang lembut dan bebas dari bahan kimia yang keras dapat membantu menjaga kelembapan kulit dan mengurangi iritasi."
+      ],
+      "rekomendasi": [
+        "La Roche Posay Lipikar Baume AP+M 75 ml",
+        "La Roche Posay Thermal Spring Water 150 ml",
+        "Soft U Derm Intensive Hydro Protection Cream 40g"
       ]
     },
 
     {
       "kategori": "sensitif_&_alergi",
-      "permasalahan kulit": [
-        "Kulit Sensitif",
-        "Kemerahan",
-        "Gatal atau Terbakar",
-        "Iritasi"
-      ],
       "pertanyaan": [
         "bagaimana jika kulit saya sering alergi karena sensitif terhadap produk tertentu",
         "kulit sensitif ?",
@@ -257,7 +195,14 @@
         "ciri-ciri produk tidak cocok dengan kulit wajah ?",
         "Apa yang dapat dilakukan untuk mencegah reaksi alergi pada kulit sensitif",
         "Apakah ada bahan-bahan tertentu yang sebaiknya dihindari oleh orang dengan kulit sensitif atau alergi",
-        "Bagaimana cara merawat kulit sensitif agar tetap sehat tanpa menimbulkan reaksi alergi"
+        "Bagaimana cara merawat kulit sensitif agar tetap sehat tanpa menimbulkan reaksi alergi",
+        "Apa penyebab kulit sensitif?",
+        "Bagaimana cara mengatasi kulit sensitif?",
+        "Bagaimana cara mencegah kulit sensitif?",
+        "Bagaimana cara merawat wajah dengan kulit sensitif?",
+        "Apakah kebiasaan buruk bisa menyebabkan kulit sensitif?",
+        "Apakah kulit sensitif bisa sembuh dengan sendirinya?",
+        "Berapa lama waktu yang dibutuhkan untuk merawat kulit sensitif?"
       ],
       "jawaban": [
         "Kulit sensitif dan alergi dipicu oleh berbagai faktor dan memerlukan perawatan yang tepat.",
@@ -269,7 +214,20 @@
         "perhatikan reaksi kulit setelah menggunakan produk baru. Jika muncul reaksi seperti yang disebutkan sebelumnya, kemungkinan besar itu adalah tanda bahwa kulit bereaksi terhadap bahan dalam produk tersebut.",
         "Salah satu cara untuk mencegah reaksi alergi adalah dengan memilih produk perawatan kulit yang hypoallergenic, bebas pewangi, dan bebas dari bahan kimia keras. Selain itu, melakukan patch test di bagian kecil kulit sebelum menggunakan produk secara menyeluruh dapat membantu mengidentifikasi potensi reaksi alergi.",
         "Beberapa bahan yang sebaiknya dihindari oleh orang dengan kulit sensitif atau alergi meliputi pewangi buatan, alkohol, pewarna sintetis, dan bahan kimia keras seperti paraben dan sulfat.",
-        "Merawat kulit sensitif memerlukan penggunaan produk perawatan kulit yang lembut dan hypoallergenic, serta menjaga kelembapan kulit dengan menggunakan pelembap yang cocok untuk jenis kulit sensitif."
+        "Merawat kulit sensitif memerlukan penggunaan produk perawatan kulit yang lembut dan hypoallergenic, serta menjaga kelembapan kulit dengan menggunakan pelembap yang cocok untuk jenis kulit sensitif.",
+        "Kulit sensitif bisa disebabkan oleh faktor eksternal seperti perubahan cuaca, paparan bahan kimia dalam produk perawatan kulit, atau polusi udara. Kondisi internal seperti stres, alergi, atau reaksi terhadap makanan tertentu juga dapat mempengaruhi sensitivitas kulit.",
+        "Untuk mengatasi kulit sensitif, pilih produk perawatan yang ringan, bebas dari bahan kimia keras, dan non-komedogenik. Gunakan pelembap yang cocok dan sunscreen untuk melindungi kulit dari sinar matahari. Hindari terlalu sering mencuci wajah dengan sabun yang bisa menghilangkan kelembapan alami kulit.",
+        "Mencegah kulit sensitif melibatkan pemilihan produk yang cocok untuk kulit sensitif, menghindari penggunaan bahan yang bisa memicu reaksi, serta menjaga kebersihan wajah dan hidrasi kulit. Pastikan tidur yang cukup dan hindari stres berlebihan.",
+        "Merawat wajah dengan kulit sensitif memerlukan perhatian ekstra, seperti menggunakan pembersih wajah yang lembut, serum yang menenangkan, dan pelembap untuk menjaga kelembapan. Hindari scrubbing atau penggunaan produk yang mengandung alkohol atau pewangi yang bisa menyebabkan iritasi.",
+        "Ya, kebiasaan buruk seperti kurang tidur, konsumsi makanan yang tidak sehat, atau paparan sinar matahari tanpa perlindungan bisa memperburuk kondisi kulit sensitif. Stres dan polusi juga dapat memicu reaksi pada kulit sensitif.",
+        "Kulit sensitif tidak akan sembuh dengan sendirinya tanpa perawatan yang tepat. Perawatan yang rutin dengan produk yang sesuai serta menjaga pola hidup sehat akan membantu memperbaiki kondisi kulit sensitif.",
+        "Waktu yang dibutuhkan untuk merawat kulit sensitif bisa bervariasi tergantung pada tingkat keparahannya. Biasanya, dengan perawatan yang konsisten, kulit bisa menunjukkan perbaikan dalam beberapa minggu, namun untuk hasil yang optimal bisa memakan waktu beberapa bulan."
+      ],
+      "rekomendasi": [
+        "Cleanser Oil", 
+        "Facial Wash for sensitive",
+        "Sunscreen for sensitive",
+        "Night cream for sensitive"
       ]
     },
 
@@ -283,7 +241,15 @@
         "Apakah penggunaan pelembap diperlukan bagi kulit yang berminyak",
         "apakah ada makanan yang berpengaruh karena kulit berminyak ? ",
         "Bagaimana cara merawat kulit berminyak agar tetap sehat dan terhindar dari masalah seperti jerawat",
-        "Apakah ada bahan alami yang efektif dalam mengontrol produksi minyak kulit"
+        "Apakah ada bahan alami yang efektif dalam mengontrol produksi minyak kulit",
+        "Apa penyebab kulit berminyak berlebih?",
+        "Bagaimana cara mengatasi kulit berminyak berlebih?",
+        "Bagaimana cara mencegah kulit berminyak berlebih?",
+        "Bagaimana cara merawat wajah dengan kulit berminyak berlebih?",
+        "Apakah kebiasaan buruk bisa menyebabkan kulit berminyak berlebih?",
+        "Apakah kulit berminyak berlebih bisa sembuh dengan sendirinya?",
+        "Berapa lama waktu yang dibutuhkan untuk mengatasi kulit berminyak berlebih?"
+
       ],
       "jawaban": [
         "Kulit berminyak adalah kondisi di mana kelenjar minyak di kulit wajah memproduksi minyak berlebihan, menyebabkan kilau berlebih dan potensi jerawat. Perawatan melibatkan pembersihan teratur, penggunaan pelembap bebas minyak, dan produk perawatan yang mengandung bahan untuk mengontrol minyak dan mencegah jerawat.",
@@ -294,7 +260,21 @@
         "Ya, penggunaan pelembap tetap diperlukan bagi kulit yang berminyak untuk menjaga kelembapan dan keseimbangan produksi minyak kulit. Pilihlah pelembap yang ringan dan tidak berminyak untuk menghindari penumpukan minyak berlebih.",
         "Beberapa makanan dapat meningkatkan produksi minyak kulit, termasuk makanan berlemak tinggi, produk susu yang mengandung hormon, makanan dengan indeks glikemik tinggi, whey protein, makanan tinggi iodium, gula, karbohidrat olahan, dan makanan dengan pemanis buatan. Namun, faktor genetik, hormon, dan perawatan kulit juga berperan.",
         "Merawat kulit berminyak meliputi membersihkan wajah secara teratur dengan pembersih yang lembut, menghindari penggunaan produk perawatan yang terlalu berat atau berlemak, menggunakan pelembap yang ringan dan tidak berminyak, serta mengikuti pola makan sehat dan menghindari makanan yang dapat memicu jerawat.",
-        "Beberapa bahan alami seperti tea tree oil, witch hazel, dan ekstrak lidah buaya memiliki sifat yang dapat membantu mengontrol produksi minyak kulit. Namun, penting untuk melakukan uji coba terlebih dahulu untuk memastikan bahwa bahan-bahan tersebut cocok dengan kulit Anda."
+        "Beberapa bahan alami seperti tea tree oil, witch hazel, dan ekstrak lidah buaya memiliki sifat yang dapat membantu mengontrol produksi minyak kulit. Namun, penting untuk melakukan uji coba terlebih dahulu untuk memastikan bahwa bahan-bahan tersebut cocok dengan kulit Anda.",
+        "Kulit berminyak berlebih dapat disebabkan oleh faktor genetik, hormon, stres, atau pola makan yang buruk. Penggunaan produk perawatan kulit yang tidak sesuai atau terlalu sering mencuci wajah juga dapat memicu produksi minyak berlebih.",
+        "Mengatasi kulit berminyak berlebih bisa dilakukan dengan menggunakan pembersih wajah yang lembut dan tidak mengandung alkohol, serta produk yang mengontrol minyak. Gunakan pelembap ringan yang cocok untuk kulit berminyak dan rutin menggunakan sunscreen.",
+        "Untuk mencegah kulit berminyak berlebih, cuci wajah secara teratur dua kali sehari, hindari penggunaan produk berisiko menyumbat pori, dan pilih produk non-comedogenic. Hindari menyentuh wajah dengan tangan kotor dan perhatikan pola makan sehat.",
+        "Merawat wajah dengan kulit berminyak berlebih melibatkan penggunaan pembersih wajah yang mengontrol minyak, eksfoliasi ringan untuk mengangkat sel kulit mati, dan pelembap yang tidak menyumbat pori. Pilih produk berbahan dasar air dan bebas minyak.",
+        "Kebiasaan buruk seperti jarang membersihkan wajah, mengonsumsi makanan tinggi gula atau lemak, dan stres dapat memperburuk kondisi kulit berminyak. Selain itu, penggunaan produk yang mengandung bahan keras juga bisa menyebabkan peningkatan produksi minyak.",
+        "Kulit berminyak berlebih tidak bisa sembuh dengan sendirinya tanpa perawatan yang tepat. Dengan perawatan yang rutin dan penggunaan produk yang sesuai, kondisi kulit bisa membaik secara bertahap.",
+        "Waktu yang dibutuhkan untuk mengatasi kulit berminyak berlebih bervariasi, tergantung pada kondisi kulit dan perawatan yang dilakukan. Biasanya, perubahan yang signifikan dapat terlihat dalam beberapa minggu dengan perawatan yang konsisten."
+      ],
+      "rekomendasi": [
+        "Cleanser Lotion",
+        "Acne Sulfur Wash",
+        "Sunscreen for acne",
+        "Acne Cream Night",
+        "Serum Flek"
       ]
     },
 
@@ -309,7 +289,14 @@
         "bahan alami membantu kulit kering ?",
         "bagaimana jika kulit saya kering ?",
         "Apakah mandi dengan air hangat atau air dingin lebih baik untuk kulit kering ?",
-        "Apakah ada makanan atau suplemen yang dapat membantu meningkatkan kelembapan kulit dari dalam ?"
+        "Apakah ada makanan atau suplemen yang dapat membantu meningkatkan kelembapan kulit dari dalam ?",
+        "Apa penyebab kulit kering?",
+        "Bagaimana cara mengatasi kulit kering?",
+        "Bagaimana cara mencegah kulit kering?",
+        "Bagaimana cara merawat wajah dengan kulit kering?",
+        "Apakah kebiasaan buruk bisa menyebabkan kulit kering?",
+        "Apakah kulit kering bisa sembuh dengan sendirinya?",
+        "Berapa lama waktu yang dibutuhkan untuk mengatasi kulit kering?"
       ],
       "jawaban": [
         "Kulit kering terjadi saat kulit kekurangan kelembapan dan dapat terasa kering, kasar, dan bersisik. Penyebabnya bisa berasal dari produksi minyak kulit yang kurang, paparan lingkungan, pemakaian produk yang mengandung bahan yang mengeringkan, dan penuaan. Untuk mengatasinya, gunakan pelembap kaya, hindari mandi dengan air panas, gunakan pembersih lembut, dan jaga pola hidup yang sehat.",
@@ -318,7 +305,23 @@
         "Beberapa bahan alami yang dapat membantu menghidrasi kulit kering termasuk minyak almond, minyak kelapa, shea butter, aloe vera, dan minyak zaitun. Ini dapat digunakan dalam bentuk pelembap atau masker wajah.",
         "Mandi dengan air hangat atau air dingin lebih baik untuk kulit kering daripada mandi dengan air panas, karena air panas dapat menghilangkan kelembapan alami kulit. Namun, hindari menggosok kulit secara berlebihan saat mandi dan gunakan pelembap setelah mandi untuk menjaga kelembapan kulit.",
         "Untuk mengatasi ketidaknyamanan yang disebabkan oleh kulit kering, hindari menggaruk kulit yang gatal dan gunakan pelembap atau krim anti-gatal yang mengandung bahan-bahan seperti oatmeal, mentol, atau lidokain. Jika iritasi atau gatal-gatal persisten, konsultasikan dengan dokter atau ahli kulit.",
-        "Beberapa makanan yang mengandung lemak sehat, seperti alpukat, ikan berlemak, dan kacang-kacangan, serta minum air yang cukup, dapat membantu meningkatkan kelembapan kulit dari dalam. Namun, tidak ada bukti yang cukup untuk menunjukkan bahwa suplemen tertentu secara khusus dapat meningkatkan kelembapan kulit."
+        "Beberapa makanan yang mengandung lemak sehat, seperti alpukat, ikan berlemak, dan kacang-kacangan, serta minum air yang cukup, dapat membantu meningkatkan kelembapan kulit dari dalam. Namun, tidak ada bukti yang cukup untuk menunjukkan bahwa suplemen tertentu secara khusus dapat meningkatkan kelembapan kulit.",
+        "Kulit kering bisa disebabkan oleh cuaca yang kering, penggunaan produk perawatan kulit yang mengandung bahan keras, kurangnya kelembapan udara, mandi dengan air panas, dan kebiasaan jarang mengonsumsi air yang cukup.",
+        "Untuk mengatasi kulit kering, gunakan pelembap yang cocok dengan jenis kulit, hindari penggunaan sabun yang mengandung bahan keras, dan pastikan tubuh terhidrasi dengan cukup air.",
+        "Mencegah kulit kering bisa dilakukan dengan menggunakan pelembap setiap hari, menghindari mandi dengan air panas, dan memastikan udara di sekitar tetap lembap, terutama saat cuaca kering.",
+        "Merawat wajah dengan kulit kering melibatkan penggunaan pembersih wajah yang lembut dan tidak mengandung alkohol, serta pelembap yang mengandung bahan seperti ceramide atau hyaluronic acid untuk menjaga kelembapan.",
+        "Kebiasaan buruk seperti mandi dengan air panas, kurang tidur, merokok, dan mengonsumsi sedikit air bisa menyebabkan kulit kering. Kebiasaan ini mengurangi kelembapan kulit dan memperburuk kondisinya.",
+        "Kulit kering bisa sembuh dengan perawatan yang tepat, tetapi tidak akan sembuh dengan sendirinya tanpa perubahan kebiasaan atau penggunaan produk yang sesuai.",
+        "Waktu yang dibutuhkan untuk mengatasi kulit kering bervariasi tergantung pada penyebab dan perawatan yang dilakukan, tetapi dengan perawatan yang tepat, kulit bisa mulai membaik dalam beberapa hari hingga minggu."
+      ],
+
+      "rekomendasi": [
+        "Milk Cleanser for normal to dry",
+        "Facial wash for normal to dry",
+        "Toner for normal to dry",
+        "Sunscreen Glowing",
+        "Serum Vitamin C",
+        "Night Cream"
       ]
     },
 
@@ -332,7 +335,14 @@
         "Apakah komedo dapat dihilangkan sepenuhnya ?",
         "Apakah pemijatan wajah atau facial dapat membantu mengurangi komedo ?",
         "bahan alami yang efektif dalam mengatasi komedo ?",
-        "Bagaimana cara memilih produk perawatan kulit yang tepat untuk mengatasi komedo ?"
+        "Bagaimana cara memilih produk perawatan kulit yang tepat untuk mengatasi komedo ?",
+        "Apa penyebab munculnya komedo?",
+        "Bagaimana cara mengatasi komedo?",
+        "Bagaimana cara mencegah komedo muncul kembali?",
+        "Bagaimana cara merawat wajah yang berkomedo?",
+        "Apakah kebiasaan buruk bisa menyebabkan komedo?",
+        "Apakah komedo bisa hilang dengan sendirinya?",
+        "Berapa lama waktu yang dibutuhkan untuk menghilangkan komedo?"
       ],
       "jawaban": [
         "Komedo adalah penyumbatan pada pori-pori kulit oleh minyak, sel kulit mati, dan kotoran. Mereka bisa berwarna hitam atau putih dan sering muncul di area berminyak seperti wajah, leher, dan dada.",
@@ -342,7 +352,22 @@
         "Meskipun komedo dapat dihilangkan, mereka cenderung bisa kambuh lagi jika tidak diatasi dengan perawatan yang tepat dan pencegahan yang baik.",
         "Pemijatan wajah atau facial dapat membantu membersihkan dan merangsang sirkulasi kulit, namun harus dilakukan dengan hati-hati agar tidak merusak kulit atau menyebabkan iritasi.",
         "Beberapa bahan alami seperti tea tree oil, ekstrak lidah buaya, atau gel lidah buaya, serta ekstrak witch hazel memiliki sifat antimikroba dan anti-inflamasi yang dapat membantu mengurangi peradangan dan membersihkan pori-pori, yang dapat membantu mengurangi kemunculan komedo.",
-        "Komedo terjadi ketika pori-pori kulit tersumbat dan memerlukan perawatan yang sesuai."
+        "Komedo terjadi ketika pori-pori kulit tersumbat dan memerlukan perawatan yang sesuai.",
+        "Komedo biasanya disebabkan oleh penyumbatan pori-pori akibat minyak, sel kulit mati, dan kotoran. Faktor hormonal, diet, dan penggunaan produk kosmetik yang tidak cocok juga dapat berkontribusi.",
+        "Untuk mengatasi komedo, Anda bisa menggunakan produk exfoliant yang mengandung asam salisilat atau retinoid. Pembersihan wajah secara rutin dan penggunaan masker dapat membantu mengangkat kotoran.",
+        "Untuk mencegah komedo, jaga kebersihan wajah dengan mencuci dua kali sehari, gunakan produk non-komedogenik, dan lakukan eksfoliasi secara teratur. Hindari menyentuh wajah dan gunakan kosmetik yang ringan.",
+        "Merawat wajah yang berkomedo melibatkan rutinitas pembersihan yang baik, menggunakan produk yang diformulasikan untuk kulit berkomedo, dan menghindari produk berminyak atau berat. Mengunjungi dokter kulit juga bisa membantu.",
+        "Kebiasaan buruk seperti tidak membersihkan wajah dengan baik, menggunakan produk yang tidak cocok, dan menyentuh wajah dapat menyebabkan penumpukan kotoran dan minyak, sehingga meningkatkan risiko komedo.",
+        "Dalam beberapa kasus, komedo dapat hilang dengan sendirinya, terutama jika tidak terlalu parah. Namun, perawatan yang tepat biasanya diperlukan untuk menghilangkan dan mencegahnya kembali.",
+        "Waktu yang dibutuhkan untuk menghilangkan komedo bervariasi tergantung pada keparahan dan metode yang digunakan. Dengan perawatan yang tepat, komedo ringan bisa hilang dalam beberapa minggu, sementara yang lebih parah mungkin memerlukan waktu lebih lama."
+      ],
+
+      "rekomendasi": [
+        "Cleanser Lotion",
+        "Acne Sulfur Wash",
+        "Sunscreen for acne",
+        "Acne Cream Night",
+        "Serum Flek"
       ]
     },
 
@@ -356,7 +381,14 @@
         "bagaimana jika saya mempunyai flek hitam ?",
         "Apa jenis perawatan yang efektif untuk mengurangi flek hitam ?",
         "Apakah ada bahan alami yang dapat membantu mengurangi flek hitam ?",
-        "Bagaimana cara merawat kulit yang mengalami hiperpigmentasi ?"
+        "Bagaimana cara merawat kulit yang mengalami hiperpigmentasi ?",
+        "Apa penyebab flek hitam?",
+        "Bagaimana cara mengatasi flek hitam?",
+        "Bagaimana cara mencegah flek hitam?",
+        "Bagaimana cara merawat wajah dengan flek hitam?",
+        "Apakah kebiasaan buruk bisa menyebabkan flek hitam?",
+        "Apakah flek hitam bisa sembuh dengan sendirinya?",
+        "Berapa lama waktu yang dibutuhkan untuk menghilangkan flek hitam?"
       ],
       "jawaban": [
         "Flek hitam adalah bercak gelap pada kulit akibat peningkatan produksi melanin. Mereka sering disebabkan oleh paparan sinar matahari, penuaan, atau peradangan kulit.",
@@ -366,7 +398,22 @@
         "Flek hitam atau hiperpigmentasi memerlukan perlindungan dari sinar matahari dan perawatan yang mengurangi pigmentasi.",
         "Jenis perawatan yang efektif untuk mengurangi flek hitam termasuk penggunaan krim pemutih atau produk perawatan kulit yang mengandung bahan-bahan seperti asam kojik, asam azelaic, retinoid, atau hidrokuinon, serta prosedur medis seperti terapi laser atau krioterapi. ",
         "Beberapa bahan alami yang dapat membantu mengurangi flek hitam termasuk ekstrak licorice, ekstrak mulberry, ekstrak bearberry, dan vitamin C. Namun, penting untuk berkonsultasi dengan ahli kulit sebelum menggunakan bahan-bahan ini untuk perawatan kulit.",
-        "Merawat kulit yang mengalami hiperpigmentasi meliputi penggunaan tabir surya setiap hari, penggunaan produk perawatan kulit yang mengandung bahan pemutih, eksfoliasi teratur, dan menghindari pemicu potensial seperti sinar matahari berlebih."
+        "Merawat kulit yang mengalami hiperpigmentasi meliputi penggunaan tabir surya setiap hari, penggunaan produk perawatan kulit yang mengandung bahan pemutih, eksfoliasi teratur, dan menghindari pemicu potensial seperti sinar matahari berlebih.",
+        "Flek hitam sering kali disebabkan oleh paparan sinar matahari berlebih, peradangan dari jerawat, bekas luka, atau kondisi kulit lainnya. Faktor-faktor seperti penuaan, penggunaan produk yang tidak cocok, atau kebiasaan buruk seperti merokok juga bisa memperburuk kondisi ini.",
+        "Untuk mengatasi flek hitam, gunakan produk perawatan kulit yang mengandung bahan pencerah seperti vitamin C, niacinamide, atau asam glikolat. Penggunaan sunscreen setiap hari juga penting untuk melindungi kulit dari paparan sinar UV yang bisa memperburuk flek hitam.",
+        "Mencegah flek hitam bisa dilakukan dengan menggunakan sunscreen setiap hari, menghindari paparan sinar matahari langsung, dan tidak memencet jerawat atau luka yang bisa meninggalkan bekas. Menjaga pola makan sehat dan tidur yang cukup juga dapat membantu mencegah flek hitam.",
+        "Merawat wajah dengan flek hitam melibatkan penggunaan produk pencerah seperti serum vitamin C atau niacinamide, serta pelembap yang sesuai dengan jenis kulit. Pastikan juga untuk rutin membersihkan wajah dan menggunakan sunscreen setiap hari.",
+        "Ya, kebiasaan buruk seperti merokok, kurang tidur, stres, dan paparan sinar matahari tanpa perlindungan bisa memperburuk kondisi kulit dan menyebabkan flek hitam. Kebiasaan ini dapat mengurangi kemampuan kulit untuk memperbaiki dirinya sendiri.",
+        "Flek hitam tidak akan sembuh dengan sendirinya tanpa perawatan yang tepat. Perawatan kulit yang teratur dan penggunaan produk pencerah bisa membantu memudarkan flek hitam secara bertahap.",
+        "Waktu yang dibutuhkan untuk menghilangkan flek hitam bervariasi tergantung pada tingkat keparahan dan perawatan yang dilakukan. Dengan perawatan yang rutin dan tepat, perubahan dapat terlihat dalam beberapa minggu, tetapi untuk hasil maksimal bisa memakan waktu beberapa bulan."
+      ],
+
+      "rekomendasi": [
+        "Cleanser Lotion",
+        "Acne Sulfur Wash",
+        "Sunscreen for acne",
+        "Acne Cream Night",
+        "Serum Flek"
       ]
     },
 
@@ -388,6 +435,15 @@
         "Beberapa cara alami yang dapat membantu mengurangi munculnya kerutan termasuk menghindari paparan sinar matahari berlebih, menjaga kelembapan kulit dengan menggunakan pelembap yang cocok, mengonsumsi makanan yang kaya akan antioksidan, dan menjaga gaya hidup sehat dengan cukup tidur, tidak merokok, dan menghindari stres.",
         "Ya, perawatan pencegahan seperti menggunakan tabir surya setiap hari, menjaga kelembapan kulit, mengonsumsi makanan yang sehat, dan menghindari kebiasaan merokok dapat membantu mengurangi risiko munculnya kerutan di masa depan.",
         "kerutan halus umumnya lebih dangkal dan dapat muncul pada permukaan kulit, sementara kerutan yang lebih dalam dapat terbentuk di lapisan kulit yang lebih dalam dan cenderung lebih jelas terlihat."
+      ],
+
+      "rekomendasi": [
+        "Milk Cleanser for normal to dry",
+        "Facial wash for normal to dry",
+        "Toner for normal to dry",
+        "Sunscreen Glowing",
+        "Serum Vitamin C",
+        "Night Cream"
       ]
     },
 
@@ -401,7 +457,14 @@
         "bahan alami yang dapat membantu membuat kulit lebih cerah ?",
         "Bagaimana cara merawat kulit kusam di area tubuh lain selain wajah ?",
         "Apakah pola makan atau asupan nutrisi berperan dalam membuat kulit lebih bersinar ?",
-        "Apakah terapi atau perawatan di salon dapat membantu membuat kulit lebih bersinar ?"
+        "Apakah terapi atau perawatan di salon dapat membantu membuat kulit lebih bersinar ?",
+        "Apa penyebab kulit kusam?",
+        "Bagaimana cara mengatasi kulit kusam?",
+        "Bagaimana cara mencegah kulit kusam?",
+        "Bagaimana cara merawat wajah yang kusam?",
+        "Apakah kebiasaan buruk bisa menyebabkan kulit kusam?",
+        "Apakah kulit kusam bisa sembuh dengan sendirinya?",
+        "Berapa lama waktu yang dibutuhkan untuk mencerahkan kulit yang kusam?"
       ],
       "jawaban": [
         "Kulit kusam adalah kondisi di mana kulit kehilangan kilau alami dan terlihat tidak segar. Ini bisa disebabkan oleh kelembapan yang kurang, penumpukan sel-sel kulit mati, paparan sinar matahari berlebihan, polusi, kurangnya tidur, atau kelelahan. Perawatan termasuk penggunaan pelembap, eksfoliasi, tidur cukup, dan perlindungan dari sinar matahari.",
@@ -411,7 +474,23 @@
         "Beberapa bahan alami yang dapat membantu membuat kulit lebih bersinar termasuk ekstrak licorice, ekstrak bearberry, ekstrak lemon atau jeruk nipis, dan minyak alami seperti minyak almond atau minyak rosehip.",
         "Merawat kulit kusam di area tubuh lainnya meliputi penggunaan scrub atau eksfoliasi tubuh untuk mengangkat sel-sel kulit mati, penggunaan pelembap yang kaya akan bahan-bahan mencerahkan dan menghidrasi, dan menghindari mandi dengan air panas yang dapat menghilangkan kelembapan alami kulit.",
         "Ya, pola makan yang sehat dan kaya akan nutrisi seperti buah-buahan, sayuran, kacang-kacangan, dan ikan berlemak dapat membantu membuat kulit lebih bersinar karena kandungan antioksidannya yang tinggi dan kemampuannya untuk menjaga kelembapan kulit.",
-        "Ya, terapi atau perawatan di salon seperti facial atau treatment wajah yang menggunakan bahan-bahan mencerahkan dan teknologi seperti terapi laser atau IPL (Intense Pulsed Light) juga dapat membantu membuat kulit lebih bersinar. Namun, pastikan untuk berkonsultasi dengan ahli kulit sebelum melakukan perawatan tersebut."
+        "Ya, terapi atau perawatan di salon seperti facial atau treatment wajah yang menggunakan bahan-bahan mencerahkan dan teknologi seperti terapi laser atau IPL (Intense Pulsed Light) juga dapat membantu membuat kulit lebih bersinar. Namun, pastikan untuk berkonsultasi dengan ahli kulit sebelum melakukan perawatan tersebut.",
+        "Kulit kusam bisa disebabkan oleh kurang tidur, stres, paparan sinar matahari berlebih, polusi udara, dehidrasi, pola makan yang buruk, serta kurangnya perawatan kulit yang tepat seperti jarang membersihkan wajah.",
+        "Mengatasi kulit kusam bisa dilakukan dengan rutin membersihkan wajah, menggunakan produk pencerah yang mengandung bahan seperti vitamin C atau niacinamide, cukup tidur, mengonsumsi makanan sehat, dan rutin menggunakan pelembap yang cocok untuk jenis kulit.",
+        "Untuk mencegah kulit kusam, hindari paparan sinar matahari langsung tanpa perlindungan, konsumsi makanan bergizi, tidur yang cukup, dan rutin membersihkan wajah dari kotoran dan makeup. Gunakan sunscreen setiap hari untuk melindungi kulit dari UV.",
+        "Merawat wajah kusam melibatkan penggunaan pembersih yang lembut, serum pencerah seperti yang mengandung vitamin C, rutin memakai pelembap, serta menjaga kelembapan kulit. Juga, hindari kebiasaan merokok dan kurangi konsumsi alkohol yang dapat merusak kulit.",
+        "Kebiasaan buruk seperti merokok, kurang tidur, konsumsi makanan yang tinggi gula dan lemak, serta stres bisa menyebabkan kulit kusam. Paparan polusi udara dan jarang membersihkan wajah juga berkontribusi pada masalah ini.",
+        "Kulit kusam tidak akan sembuh dengan sendirinya tanpa perawatan yang tepat. Dengan perawatan rutin menggunakan produk yang sesuai dan pola hidup sehat, kulit kusam bisa membaik secara bertahap.",
+        "Waktu yang dibutuhkan untuk mencerahkan kulit kusam bervariasi tergantung pada perawatan yang dilakukan. Dalam beberapa minggu dengan perawatan yang tepat, kulit bisa menunjukkan perubahan, tetapi untuk hasil maksimal, bisa memakan waktu beberapa bulan."
+      ],
+
+      "rekomendasi": [
+        "Milk Cleanser for normal to dry",
+        "Facial wash for normal to dry",
+        "Toner for normal to dry",
+        "Sunscreen Glowing",
+        "Serum Vitamin C",
+        "Night Cream"
       ]
     },
 
@@ -420,14 +499,36 @@
       "pertanyaan": [
         "bagaimana jika pori pori kulit saya besar ?",
         "Bagaimana cara merawat pori-pori kulit yang besar agar terlihat lebih kecil",
-        "Apa perawatan berguna dalam mengurangi ukuran pori-pori kulit"
+        "Apa perawatan berguna dalam mengurangi ukuran pori-pori kulit",
+        "Apa penyebab pori-pori besar?",
+        "Bagaimana cara mengatasi pori-pori besar?",
+        "Bagaimana cara mencegah pori-pori besar?",
+        "Bagaimana cara merawat wajah dengan pori-pori besar?",
+        "Apakah kebiasaan buruk bisa menyebabkan pori-pori besar?",
+        "Apakah pori-pori besar bisa sembuh dengan sendirinya?",
+        "Berapa lama waktu yang dibutuhkan untuk mengecilkan pori-pori besar?"
       ],
       "jawaban": [
         "Pori-pori kulit yang besar bisa disebabkan oleh faktor-faktor seperti produksi sebum berlebih, penumpukan kotoran dan sel kulit mati, perubahan hormon, dan faktor genetik.",
         "Untuk merawat pori-pori kulit yang besar, penting untuk membersihkan wajah secara teratur dengan pembersih yang cocok untuk jenis kulit Anda, menggunakan produk perawatan kulit yang mengandung bahan-bahan seperti asam salisilat atau asam glikolat untuk membantu membersihkan pori-pori, dan menghindari penggunaan produk yang dapat menyebabkan penyumbatan pori-pori seperti produk berminyak atau berat..",
         "eksfoliasi secara teratur dapat membantu mengangkat sel kulit mati yang menyumbat pori-pori dan menjaga pori-pori tetap bersih. Namun, hindari melakukan eksfoliasi berlebihan yang dapat merusak kulit atau menyebabkan iritasi.",
         "Beberapa produk perawatan kulit yang mengandung bahan-bahan seperti niacinamide, retinoid, atau ekstrak teh hijau diketahui dapat membantu menyempitkan pori-pori kulit dengan penggunaan yang teratur dan konsisten.",
-        "beberapa prosedur medis seperti terapi laser atau kimia dapat membantu mengurangi ukuran pori-pori kulit dengan merangsang produksi kolagen dan meratakan tekstur kulit. Namun, konsultasikan terlebih dahulu dengan dokter atau ahli kulit untuk mengetahui apakah prosedur tersebut cocok untuk kondisi kulit Anda."
+        "beberapa prosedur medis seperti terapi laser atau kimia dapat membantu mengurangi ukuran pori-pori kulit dengan merangsang produksi kolagen dan meratakan tekstur kulit. Namun, konsultasikan terlebih dahulu dengan dokter atau ahli kulit untuk mengetahui apakah prosedur tersebut cocok untuk kondisi kulit Anda.",
+        "Pori-pori besar biasanya disebabkan oleh produksi minyak berlebih, penumpukan kotoran dan sel kulit mati, serta faktor genetik. Paparan sinar matahari berlebih dan penuaan juga dapat menyebabkan pori-pori membesar.",
+        "Mengatasi pori-pori besar bisa dilakukan dengan rutin membersihkan wajah, menggunakan produk yang mengandung bahan seperti asam salisilat, retinol, atau niacinamide. Penggunaan masker pori-pori dan eksfoliasi juga dapat membantu mengecilkan pori.",
+        "Untuk mencegah pori-pori besar, penting untuk rutin membersihkan wajah, menggunakan sunscreen setiap hari, dan menghindari kebiasaan meremas wajah atau komedo. Jaga pola makan sehat dan minum cukup air untuk mendukung kesehatan kulit.",
+        "Merawat wajah dengan pori-pori besar melibatkan penggunaan pembersih wajah yang cocok untuk jenis kulit, serum dengan bahan aktif seperti retinol atau niacinamide, dan pelembap non-komedogenik. Lakukan eksfoliasi secara teratur untuk menjaga pori-pori tetap bersih.",
+        "Kebiasaan buruk seperti tidak membersihkan wajah dengan baik, meremas wajah, atau menggunakan produk yang menyumbat pori-pori bisa memperburuk kondisi pori-pori besar. Paparan sinar matahari tanpa perlindungan dan merokok juga dapat memperbesar pori.",
+        "Pori-pori besar tidak bisa sembuh dengan sendirinya tanpa perawatan yang tepat. Dengan penggunaan produk yang sesuai dan menjaga kebersihan kulit, pori-pori bisa terlihat lebih kecil seiring waktu.",
+        "Waktu yang dibutuhkan untuk mengecilkan pori-pori besar bervariasi tergantung pada perawatan yang dilakukan. Biasanya, perubahan bisa terlihat dalam beberapa minggu hingga beberapa bulan dengan perawatan yang konsisten."
+      ],
+
+      "rekomendasi": [
+        "Cleanser Lotion",
+        "Acne Sulfur Wash",
+        "Sunscreen for acne",
+        "Acne Cream Night",
+        "Serum Flek"
       ]
     },
 
@@ -438,22 +539,15 @@
         "milia biasanya akan muncul pada area wajah sekitar dagu, hidung, dan bawah mata yang mana kemunculannya sendiri dapat dipengaruhi oleh berbagai faktor seperti penyumbatan saluran keringat, infeksi kulit, kulit mati yang terperangkap di pori-pori, kondisi kulit yang tidak dibersihkan dengan baik, hingga kurang tidur dan merokok.",
         "Mengatasi milia dapat dilakukan dengan berbagai cara, seperti penggunaan eksfoliasi ringan untuk mengangkat sel-sel kulit mati, perawatan topikal yang mengandung asam glikolat atau retinoid untuk membantu membuka pori-pori, atau prosedur medis seperti pengeluaran milia oleh dokter kulit. Penting juga untuk menjaga kebersihan kulit dan menghindari faktor-faktor yang dapat memperburuk kondisi, seperti merokok atau kurang tidur.",
         "Meskipun tidak selalu dapat dicegah sepenuhnya, beberapa langkah pencegahan dapat membantu mengurangi risiko munculnya milia, seperti menjaga kebersihan kulit, menghindari penggunaan produk perawatan kulit yang terlalu berminyak, dan menggunakan tabir surya setiap hari untuk melindungi kulit dari paparan sinar matahari berlebih."
-      ]
-    },
-
-    {
-      "kategori": "penuaan_dini",
-      "pertanyaan": [
-        "apa itu penuaan dini",
-        "Bagaimana perawatan kulit yang tepat dapat membantu melawan penuaan dini"
       ],
-      "jawaban": [
-        "Penyebab penuaan dini disebabkan karena Stress, paparan sinar matahari, kurangnya tidur serta kurangnya perawatan kulit",
-        "Gejala umum penuaan dini pada kulit meliputi munculnya garis-garis halus, kerutan, kehilangan elastisitas, kulit kusam, serta bintik-bintik pigmentasi atau flek hitam.",
-        "Paparan sinar matahari yang berlebihan dapat merusak kolagen dan elastin dalam kulit, menyebabkan kerusakan pada struktur kulit dan mempercepat proses penuaan. Ini dapat mengakibatkan munculnya garis-garis halus, kerutan, serta flek hitam pada kulit.",
-        "kurangnya tidur dapat menyebabkan stres oksidatif pada kulit dan mengganggu proses regenerasi sel kulit yang normal, yang dapat menyebabkan munculnya tanda-tanda penuaan dini seperti kerutan dan kulit kusam.",
-        "Perawatan kulit yang tepat, termasuk penggunaan pelembap, tabir surya, produk anti-penuaan, serta eksfoliasi secara teratur, dapat membantu melawan penuaan dini dengan menjaga kelembapan kulit, melindungi dari kerusakan sinar UV, serta merangsang regenerasi sel kulit yang sehat.",
-        "diet yang sehat dan seimbang dapat membantu melawan penuaan dini dengan menyediakan nutrisi penting bagi kesehatan kulit, seperti antioksidan dan asam lemak omega-3. Makanan seperti buah-buahan, sayuran hijau, ikan berlemak, serta makanan yang kaya akan vitamin C dan vitamin E dapat membantu menjaga kulit tetap sehat dan muda."
+
+      "rekomendasi": [
+        "Milk Cleanser for normal to dry",
+        "Facial wash for normal to dry",
+        "Toner for normal to dry",
+        "Sunscreen Glowing",
+        "Serum Vitamin C",
+        "Night Cream"
       ]
     },
 
@@ -471,6 +565,14 @@
         "Meskipun tidak semua stretch mark bisa dihilangkan sepenuhnya, ada berbagai perawatan dan prosedur yang dapat membantu mengurangi penampilan mereka. Ini termasuk penggunaan krim atau minyak yang mengandung bahan-bahan seperti retinoid, asam hialuronat, atau vitamin C, serta prosedur medis seperti terapi laser atau mikrodermabrasi.",
         "Beberapa orang melaporkan bahwa penggunaan minyak alami seperti minyak kelapa, minyak almond, atau minyak rosehip dapat membantu mengurangi penampilan stretch mark. Namun, bukti ilmiah yang mendukung efektivitasnya masih terbatas, dan hasilnya mungkin bervariasi antara individu.",
         "Meskipun tidak selalu mungkin untuk mencegah stretch mark sepenuhnya, menjaga berat badan yang sehat, menjaga kelembapan kulit dengan menggunakan pelembap, dan menghindari peregangan kulit yang berlebihan dapat membantu mengurangi risiko terbentuknya stretch mark."
+      ],
+
+      "rekomendasi": [
+        "Pelembab Vitamin E",
+        "Centella Asiatica",
+        "Eksfoliasi AHA/BHA",
+        "Microneedling/Laser",
+        "Minyak Alami"
       ]
     },
 
@@ -487,6 +589,11 @@
         "Merawat rosacea meliputi penggunaan produk perawatan kulit yang lembut dan tidak mengiritasi, menghindari pemicu yang dapat memperburuk kondisi seperti sinar matahari berlebih, makanan pedas, alkohol, atau stres, serta berkonsultasi dengan dokter kulit untuk perawatan yang sesuai.",
         "Rosacea umumnya bersifat kronis dan tidak dapat sembuh sepenuhnya. Namun, dengan pengelolaan yang tepat, gejalanya dapat dikendalikan dan peradangan dapat diminimalkan.",
         "Beberapa perawatan medis untuk rosacea termasuk penggunaan krim atau gel topikal yang mengandung antibiotik atau azelaic acid, terapi laser, atau terapi cahaya yang dapat membantu mengurangi kemerahan dan peradangan pada kulit."
+      ],
+
+      "rekomendasi": [
+        "Sunscreen for acne",
+        "Retional Serum "
       ]
     },
 
@@ -504,6 +611,14 @@
         "Beberapa cara mencegah breakout pada kulit termasuk menjaga kebersihan kulit dengan mencuci wajah secara teratur, menggunakan produk perawatan kulit yang sesuai dengan jenis kulit, menghindari penggunaan produk yang mengandung bahan kimia keras, menjaga pola makan yang sehat, mengelola stres, dan menggunakan tabir surya setiap hari.",
         "Meskipun breakout sering terjadi di area wajah, mereka juga dapat terjadi di bagian tubuh lainnya seperti leher, dada, punggung, dan bahu.",
         "Untuk mengobati breakout yang sudah muncul, Anda dapat menggunakan produk perawatan kulit yang mengandung bahan aktif seperti asam salisilat atau benzoyl peroxide untuk membantu mengurangi peradangan dan membersihkan pori-pori. Penting juga untuk menghindari menggosok atau memencet jerawat, karena hal ini dapat memperparah kondisi kulit. Jika breakout parah atau tidak kunjung membaik, konsultasikan dengan dokter kulit untuk perawatan yang lebih lanjut.        "
+      ],
+
+      "rekomendasi": [
+        "Cleanser Lotion",
+        "Acne Sulfur Wash",
+        "Sunscreen for acne",
+        "Acne Cream Night",
+        "Serum Flek"
       ]
     },
 
@@ -518,6 +633,15 @@
         "Hiperpigmentasi adalah kondisi di mana bagian-bagian kulit menjadi lebih gelap dari warna kulit normal sekitarnya. Ini terjadi karena produksi melanin (pigmen yang memberi warna pada kulit) meningkat di area tertentu. Hiperpigmentasi dapat disebabkan oleh berbagai faktor, termasuk: Paparan sinar matahari, Trauma pada kulit, Perubahan hormon, Peradangan kulit, dan Penuaan. Paparan sinar UV dari matahari dapat merangsang produksi melanin, yang dapat menyebabkan hiperpigmentasi, seperti bintik-bintik penuaan, lentigo (bintik-bintik tua), dan melasma. Cedera atau peradangan pada kulit, termasuk luka, jerawat, atau peradangan kulit lainnya, dapat memicu produksi melanin yang berlebihan di area tersebut. Fluktuasi hormon, seperti selama kehamilan, penggunaan pil kontrasepsi, atau terapi hormon, juga dapat menyebabkan hiperpigmentasi, seperti melasma (mask of pregnancy). Beberapa kondisi peradangan kulit, seperti dermatitis atau eksim, juga dapat meningkatkan produksi melanin di area yang terkena. Selain itu, proses penuaan alami juga dapat menyebabkan hiperpigmentasi, seperti bintik-bintik penuaan atau lentigo.",
         "Hiperpigmentasi dapat disebabkan oleh berbagai faktor, termasuk paparan sinar matahari, trauma pada kulit, perubahan hormon, peradangan kulit, dan penuaan. Paparan sinar UV dari matahari dapat merangsang produksi melanin, yang dapat menyebabkan hiperpigmentasi seperti bintik-bintik penuaan, lentigo, dan melasma. Cedera atau peradangan pada kulit, termasuk luka, jerawat, atau peradangan kulit lainnya, dapat memicu produksi melanin yang berlebihan di area tersebut. Fluktuasi hormon, seperti selama kehamilan atau penggunaan pil kontrasepsi, juga dapat menyebabkan hiperpigmentasi seperti melasma. Beberapa kondisi peradangan kulit, seperti dermatitis atau eksim, juga dapat meningkatkan produksi melanin di area yang terkena. Selain itu, proses penuaan alami juga dapat menyebabkan hiperpigmentasi seperti bintik-bintik penuaan atau lentigo.",
         "Pengobatan hiperpigmentasi dapat melibatkan penggunaan krim pemutih yang mengandung bahan-bahan seperti hidrokuinon, asam kojik, atau asam azelaat, prosedur medis seperti terapi laser atau terapi cahaya intensif, serta perawatan rutin yang melibatkan penggunaan tabir surya setiap hari, eksfoliasi, dan pelembap yang mengandung bahan-bahan yang mencerahkan kulit. Penting juga untuk menghindari paparan sinar matahari berlebih dan melindungi kulit dengan menggunakan pelindung matahari dengan SPF yang cukup tinggi."
+      ],
+
+      "rekomendasi": [
+        "Milk Cleanser for normal to dry",
+        "Facial wash for normal to dry",
+        "Toner for normal to dry",
+        "Sunscreen Glowing",
+        "Serum Vitamin C",
+        "Night Cream"
       ]
     },
 
@@ -535,6 +659,13 @@
         "Penyebab eczema tidak sepenuhnya dipahami, tetapi diyakini bahwa kombinasi faktor genetik dan lingkungan dapat memainkan peran. Faktor risiko termasuk riwayat keluarga dengan riwayat atopi, alergi, atau asma. Paparan alergen atau iritan tertentu, stres, cuaca yang ekstrem, atau infeksi kulit juga dapat memicu atau memperburuk keadaan eczema.",
         "Saat ini, eczema tidak memiliki penyembuhan permanen. Namun, pengelolaan yang tepat termasuk perawatan kulit yang teratur, penggunaan pelembap, penghindaran pemicu yang diketahui, dan penggunaan obat-obatan topikal atau oral seperti kortikosteroid atau antihistamin dapat membantu mengendalikan gejala dan mencegah flare-up.",
         "Mengelola gatal pada eczema melibatkan menjaga kulit tetap lembap dengan menggunakan pelembap secara teratur, menghindari faktor pemicu seperti iritasi kulit atau alergen, menghindari menggaruk yang berlebihan, memakai pakaian yang lembut dan longgar, serta menggunakan obat antipruritik atau kompres dingin untuk meredakan gatal."
+      ],
+
+      "rekomendasi": [
+        "Cleanser Oil", 
+        "Facial Wash for sensitive",
+        "Sunscreen for sensitive",
+        "Night cream for sensitive"
       ]
     }
   ]
